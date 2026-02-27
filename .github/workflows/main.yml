@@ -30,16 +30,20 @@ jobs:
   
   test:
     runs-on: self-hosted
-
+    needs: build
     steps:
       - uses: actions/checkout@v4
 
-      - name: Create file at home
-        run: echo "This is a Test!" >> ~/testfile.txt
+      - name: Run Application
+        run: |
+          echo "Starting the assistant!" >> ~/status.txt
+          source .venv/bin/activate
+          python assistant.py
+          echo "execution completed successfully!" >> ~/status.txt
 
   deploy:
     runs-on: self-hosted
-
+    needs: test
     steps:
       - uses: actions/checkout@v4
 
@@ -47,9 +51,9 @@ jobs:
         run: |
           if [ -z "$HOME" ]; then
             echo "Error: \$HOME variable is not set."
-          elif [ -f "$HOME/testfile.txt" ]; then
-            echo "Confirmed: testfile.txt exists in $HOME"
+          elif [ -f "$HOME/status.txt" ]; then
+            echo "Confirmed: status.txt exists in $HOME"
           else
-            echo "File not found: testfile.txt is missing from $HOME"
+            echo "File not found: status.txt is missing from $HOME"
           fi
       
