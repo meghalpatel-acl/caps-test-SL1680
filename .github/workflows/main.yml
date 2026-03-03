@@ -40,9 +40,9 @@ jobs:
 
       - name: Run Application
         run: |
-          echo "Starting the assistant!" >> ~/status.txt
+          echo "Starting the test mode!" >> ~/status.txt
           source .venv/bin/activate
-          python assistant.py
+          python test_mode.py
           echo "execution completed successfully!" >> ~/status.txt
 
   deploy:
