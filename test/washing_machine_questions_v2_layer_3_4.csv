@@ -1,0 +1,1257 @@
+type,second_type,Question,Question_English
+everyday,auto,設定は全部おまかせでお願い。,Please take care of all the settings for me.
+everyday,auto,自動モードで洗ってほしいな。,I had like you to wash in auto mode.
+everyday,auto,機械に全部任せるね。,I will leave everything up to you.
+everyday,auto,おすすめ設定でお願いできる？,Can you use the recommended settings?
+everyday,auto,迷うからおまかせにしたい。,"I can not decide, so I will let you choose."
+everyday,auto,自動で最適に洗ってほしい。,Please wash automatically with the best settings.
+everyday,auto,面倒だからおまかせモードで。,"I’m feeling lazy, let’s go with Auto mode."
+everyday,auto,全自動でお願い。,Go for auto.
+everyday,auto,おまかせ設定でいい感じにして。,Make it nice with the Auto settings.
+everyday,auto,機械が判断して洗ってほしい。,I want you to decide how to wash.
+everyday,auto,今日は全部おまかせでお願い。,Go full auto for me today.
+everyday,auto,最適な設定にして。,Set whatever you think is best.
+everyday,auto,判断は任せるね。,I’ll leave the settings up to you.
+everyday,auto,いい感じに自動調整して。,Tweak it automatically so it comes out nice.
+everyday,auto,おすすめコースでスタートして。,Start with the recommended course.
+everyday,auto,設定は任せるから始めて。,You handle the settings and kick it off.
+everyday,auto,そのまま自動でお願い。,Just run it on auto as is.
+everyday,auto,おまかせの設定でOK。,auto setting is fine.
+everyday,auto,自動でいい塩梅に洗って。,Wash it automatically to a nice balance.
+everyday,auto,機械におまかせするね。,I’m letting the machine decide.
+everyday,auto,おまかせで！,Auto mode will fine.
+everyday,auto,一番合うやつを自動選択して。,Auto-select whatever fits best.
+everyday,auto,設定は任せるね。,I will leave the setup to you.
+everyday,auto,最適なモードで洗ってほしい。,Use the optimal mode.
+everyday,auto,今日は完全おまかせコースで。,"Today, full-on leave it to you"
+everyday,auto,推奨の設定で進めて。,Go with the suggested settings.
+everyday,auto,判断はAIに任せちゃう。,I am handing the decisions to the AI.
+everyday,auto,おまかせで開始して大丈夫。,It is fine to start on auto.
+everyday,auto,いい感じに仕上がるよう自動で。,Make it come out great automatically.
+everyday,auto,コース選びは任せた！,I’m leaving the course choice to you.
+everyday,auto,普段着の設定よくわからないから任せるね。,"I’m not really sure about the everyday-wear settings, so I’ll leave it to you."
+everyday,auto,自動で普段着をいい感じに洗ってくれる？,Can you automatically wash everyday clothes nicely for me?
+everyday,auto,とりあえずおまかせでお願い。,Just go with whatever you think is best for now.
+everyday,auto,いつもの感じで自動にしてほしい。,I want it set to automatic like usual.
+everyday,auto,一番バランスいい設定にして。,Give me the most balanced setting.
+everyday,auto,洗濯機が判断していいよ。,You can decide for me.
+everyday,auto,自動コースでうまくやって。,Do your best with the auto course.
+everyday,auto,細かい設定はそっちに任せる。,I’ll leave the fine settings to you.
+everyday,auto,最適な洗い方を選んで。,Pick the best way to wash it.
+everyday,auto,自動でバランスよく洗ってね。,Wash it automatically with a good balance.
+everyday,auto,普段着に良いモードを自動で判断しちゃって。,Automatically choose the best mode for everyday wear.
+everyday,auto,推奨コースにしてもらえる？,Can you put it on the recommended course?
+everyday,auto,任せたからうまく洗濯してね。,"I’ll leave it to you, so wash it well."
+everyday,auto,自動最適化でお願い。,Please use automatic optimization.
+everyday,auto,下着、普段着にちょうどいい設定に調整してほしい。,Adjust it to a good setting for underwear and everyday wear.
+everyday,auto,余計な設定いらないからおまかせで。,"No extra settings needed, just handle it for me."
+everyday,auto,自動でちゃちゃっとお願い。,"Do it automatically, quick and easy."
+everyday,auto,最適コースでうまく回して。,Run it on the optimal course.
+everyday,auto,機械任せできれいにしてね。,Let the machine handle everything and clean it well.
+everyday,auto,一番おすすめの設定で進めて。,Go with your best recommended setting.
+delicates,target_sebum_sweat,汗や皮脂の汚れを落としたい。,I want to remove sweat and sebum stains.
+delicates,target_sebum_sweat,汗臭ケアモードにしてほしい。,Set it to sweat odor care mode.
+delicates,target_sebum_sweat,汗汚れに強いコースでお願い。,Use a course that’s strong against sweat stains.
+delicates,target_sebum_sweat,皮脂汚れをしっかり落としたいんだけど。,I want to wash away sebum dirt thoroughly.
+delicates,target_sebum_sweat,汗をかいた服をスッキリさせたい。,I want to refresh sweaty clothes.
+delicates,target_sebum_sweat,汗対応の洗い方でお願い。,Use a wash mode for sweat.
+delicates,target_sebum_sweat,汗とにおいを取るモードある？,Do you have a mode that removes sweat and odor?
+delicates,target_sebum_sweat,皮脂落とし重視のコースで洗って。,Wash with a course focused on removing sebum.
+delicates,target_sebum_sweat,汗対策モードにして。,Switch to sweat care mode.
+delicates,target_sebum_sweat,においも一緒に取ってほしい。,Please remove the odor too.
+delicates,target_sebum_sweat,汗ジミを中心に落として。,Focus on sweat stains first.
+delicates,target_sebum_sweat,皮脂汚れ重視でお願い。,Prioritize sebum stains.
+delicates,target_sebum_sweat,皮脂と汗のニオイを重点ケアして。,Target the smell from sweat and oils.
+delicates,target_sebum_sweat,汗対策に特化したモードで。,Use a mode dedicated to sweat care.
+delicates,target_sebum_sweat,皮脂とかの汚れに効く設定で。,Pick a setting that tackles oil-based grime.
+delicates,target_sebum_sweat,脇や襟の汗汚れを特に落としたい。,Really hit the sweat marks at the armpits and collar.
+delicates,target_sebum_sweat,臭いまでしっかりケアしたい。,I want thorough odor care as well.
+delicates,target_sebum_sweat,汗が良く落ちるのモードで洗って。,Use the mode that really removes sweat.
+delicates,target_sebum_sweat,皮脂を取り除くようにお願い。,Aim to lift out the skin oil.
+delicates,target_sebum_sweat,汗のベタつきを解消したい。,I want to fix that sweaty stickiness.
+delicates,target_sebum_sweat,汗・ニオイ除去を特にお願い。,Put extra focus on sweat and odor removal.
+delicates,target_sebum_sweat,デリケート対応の汗ケア設定で。,Use a sweat-care setting that’s gentle on delicates.
+delicates,target_sebum_sweat,皮脂の黄ばみの前段階を落としたい。,Get the early yellowing from oils out.
+delicates,target_sebum_sweat,スポット的に汗汚れ対策して。,Remove sebum and sweat 
+delicates,target_sebum_sweat,消臭と皮脂の汚れが気になる。,I’m worried about odor and oily grime.
+delicates,target_sebum_sweat,皮脂汚れを特に優先して。,Make sebum removal the top priority.
+delicates,target_sebum_sweat,汗の匂いをゼロに近づけたい。,I want the sweat smell as close to zero as possible.
+delicates,target_sebum_sweat,汗・皮脂モードで。,Go with the sweat and oil mode.
+delicates,target_sebum_sweat,臭いが良く取れるように洗って。,Wash so odors come out really well.
+delicates,target_sebum_sweat,汗対策をメインにしたいな。,Make sweat control the main focus.
+delicates,target_sebum_sweat,デリケート素材だけど汗のニオイしっかり取ってほしい。,"It’s delicate, but I still want the sweat smell completely gone."
+delicates,target_sebum_sweat,優しく洗いつつ汗汚れケアお願い。,"Wash gently, but take care of the sweat stains."
+delicates,target_sebum_sweat,汗の成分までしっかり落としたいんだ。,I want the sweat components washed out properly.
+delicates,target_sebum_sweat,デリケート対応で汗の臭いを減らしたい。,Use a delicate setting that reduces odor.
+delicates,target_sebum_sweat,汗と皮脂を優しくでも確実に落として。,Gently but thoroughly remove sweat and sebum.
+delicates,target_sebum_sweat,おしゃれ着を傷めずに汗ケアモードでお願い。,Use a sweat-care mode that won’t damage my nice clothes.
+delicates,target_sebum_sweat,ニオイ残りが気になるから重点的に洗って。,Focus on removing lingering smells.
+delicates,target_sebum_sweat,襟周りの汗臭を特に気にしてる。,I’m worried about sweat around the collar especially.
+delicates,target_sebum_sweat,汗のニオイをスッと消してほしい。,Make the sweat smell disappear smoothly.
+delicates,target_sebum_sweat,デリケート用で汗もニオイもケアして。,Use the delicate mode to handle both sweat and odor.
+delicates,target_sebum_sweat,優しいのに皮脂落ちのいいモードにして。,Give me a gentle mode that still removes sebum.
+delicates,target_sebum_sweat,汗ムレを感じたから、おしゃれ着をすっきり洗いたい。,"I felt sweaty, so I want my nice clothes cleaned well."
+delicates,target_sebum_sweat,繊細生地向けの汗ケアでお願い。,Use a delicate sweat-care setting.
+delicates,target_sebum_sweat,おしゃれ着でも汗のベタつき取れる設定にして。,Set it so it removes sweat stickiness even on nice clothes.
+delicates,target_sebum_sweat,ニオイを抑えつつ素材を守ってほしい。,Reduce odor while protecting the fabric.
+delicates,target_sebum_sweat,汗臭と皮脂を優先的に落として。,Prioritize removing sweat smell and sebum.
+delicates,target_sebum_sweat,デリケート洗いでニオイの元ごとケアして。,Clean the source of sweat odor gently.
+delicates,target_sebum_sweat,汗のにおい対策ができるやつでお願い。,Use something that deals with sweat smells.
+delicates,target_sebum_sweat,汗ジミの原因をしっかり洗い流して。,Wash away what causes sweat stains thoroughly.
+delicates,target_sebum_sweat,汗の匂いを残さない設定で洗ってほしい。,I want it washed without leaving any sweat smell.
+delicates,remove_yellowing,黄ばみを落としたいんだけど。,I’d like to get rid of yellow stains.
+delicates,remove_yellowing,襟の黄ばみをスッキリさせたい。,I want to clean the yellowing on collars.
+delicates,remove_yellowing,白く戻すように洗って。,Wash to bring back the whiteness.
+delicates,remove_yellowing,黄ばみケアモードお願い。,Set it to yellow stain care mode.
+delicates,remove_yellowing,白くなるようにしたい。,I want the clothes to look whiter.
+delicates,remove_yellowing,黄ばみが気になる服を洗いたい。,I want to wash clothes with yellow stains.
+delicates,remove_yellowing,白っぽく仕上げたい。,I want them to come out looking bright white.
+delicates,remove_yellowing,黄ばみをきれいに取りたい。,I want to remove yellow stains completely.
+delicates,remove_yellowing,黄ばみ取り洗いお願い。,Please use the yellow stain removal wash.
+delicates,remove_yellowing,黄色っぽくなったのを白くしたい。,Make the yellowish clothes white again.
+delicates,remove_yellowing,黄ばみの除去を優先で。,Prioritize removing yellowing.
+delicates,remove_yellowing,襟や袖の黄ばみを狙い撃ちで。,Target the yellowing on collars and cuffs.
+delicates,remove_yellowing,白さの回復をメインでお願い。,Focus on bringing the whites back.
+delicates,remove_yellowing,黄ばみケアを特にお願い。,Please emphasize yellowing care.
+delicates,remove_yellowing,くすみを取って明るくしたい。,I want to clear dullness and brighten it up.
+delicates,remove_yellowing,黄ばみ抑制の洗い方で。,Use a method that suppresses yellowing.
+delicates,remove_yellowing,白さがアップするモードでお願い。,Go with a mode that boosts whiteness.
+delicates,remove_yellowing,黄ばみ対策プラス生地ケアで。,Yellowing control plus fabric care.
+delicates,remove_yellowing,黄ばみを集中的に。,Hit the yellowing hard.
+delicates,remove_yellowing,白さが戻るように洗って。,Wash so the whiteness returns.
+delicates,remove_yellowing,くすみを取るような設定で。,Pick a setting that removes dullness.
+delicates,remove_yellowing,黄ばみケアを長めにやって。,Run the yellowing care a bit longer.
+delicates,remove_yellowing,白を際立たせる仕上がり希望。,I want a finish that really makes the whites pop.
+delicates,remove_yellowing,黄ばみ対策モードで。,Use the anti-yellowing mode.
+delicates,remove_yellowing,白さを戻したい。,I want to bring the whiteness back.
+delicates,remove_yellowing,黄ばみ防止に効く洗い方で。,Use a method that prevents yellowing.
+delicates,remove_yellowing,襟の黄ばみを取って。,Get the collar yellowing out.
+delicates,remove_yellowing,白さが復活するモードを使いたい。,I want to use a mode that revives whites.
+delicates,remove_yellowing,黄ばみを特に落として。,Especially tackle the yellowing.
+delicates,remove_yellowing,白さをキープする設定でお願い。,Set it to keep whites bright.
+delicates,remove_yellowing,黄ばんだところをしっかり洗ってほしい。,I want you to thoroughly wash the yellowed spots.
+delicates,remove_yellowing,黄ばみをピンポイントで落としたいんだ。,I want to remove the yellowing in specific areas.
+delicates,remove_yellowing,おしゃれ着の黄ばみだけ重点的にケアして。,Focus on the yellowing on my nice clothes.
+delicates,remove_yellowing,白さを引き立てる洗い方でお願い。,Wash in a way that brings out the whiteness.
+delicates,remove_yellowing,黄ばみが取れる洗い方にしてほしい。,Use a setting that removes yellowing.
+delicates,remove_yellowing,襟元の黄ばみを集中して落として。,Concentrate on the collar’s yellowing.
+delicates,remove_yellowing,白くできる範囲で最大限ケアして。,Care for the whiteness as much as possible.
+delicates,remove_yellowing,黄ばみの原因ごと落としてほしいな。,Remove the root cause of the yellowing.
+delicates,remove_yellowing,デリケートな服の白さを戻したい。,I want to restore the whiteness on delicate clothing.
+delicates,remove_yellowing,黄ばみを丁寧に取り除いて。,Please remove the yellow stains carefully.
+delicates,remove_yellowing,明るめの白になるようにしてほしい。,Make it come out looking brighter white.
+delicates,remove_yellowing,セーターの白っぽさをアップする設定お願い。,Help my sweater look whiter again.
+delicates,remove_yellowing,黄ばみ除去と生地保護を両立して。,Balance yellow-removal and fabric protection.
+delicates,remove_yellowing,白いところをくっきりさせたい。,Make the white parts stand out clearly.
+delicates,remove_yellowing,くすんだ部分をリセットしたいんだ。,Reset the dull areas.
+delicates,remove_yellowing,白物用の黄ばみ強化コースでお願い。,Use a yellowing-removal course for whites.
+delicates,remove_yellowing,ニットの黄ばんだ感じをスッキリなくして。,Take away the yellowish look on this knit.
+delicates,remove_yellowing,黄ばみの元から取れるように洗って。,Wash it in a way that removes yellowing at the source.
+delicates,remove_yellowing,白シャツの輝きが戻るようにお願い。,Make my white shirt shine again.
+delicates,remove_yellowing,黄ばみトラブルを解消するコース希望。,I’d like a course that solves yellowing issues.
+delicates,gentle_wash,優しく洗ってほしいな。,Please wash gently.
+delicates,gentle_wash,デリケートモードにして。,Set it to delicate mode.
+delicates,gentle_wash,生地を傷めないように洗ってほしい。,Wash without damaging the fabric.
+delicates,gentle_wash,ソフト洗いでお願い。,Soft wash.
+delicates,gentle_wash,丁寧な洗い方にしてほしい。,"Use a gentle, careful wash."
+delicates,gentle_wash,弱めの水流でやさしく洗って。,Wash gently with a mild water flow.
+delicates,gentle_wash,デリケートな服だからそっと洗って。,"Be gentle, it is delicate clothing."
+delicates,gentle_wash,やさしめのモードにして。,Use a soft mode.
+delicates,gentle_wash,服を大切に扱って洗いたい。,I want to wash these carefully.
+delicates,gentle_wash,ソフト洗いコースでお願い。,Soft wash course.
+delicates,gentle_wash,とにかくやさしくお願いします。,Please be extra gentle.
+delicates,gentle_wash,生地負担を最小で。,Keep fabric stress to a minimum.
+delicates,gentle_wash,水流弱めでソフトに。,"Use a softer, low-agitation wash."
+delicates,gentle_wash,デリケート向けの低刺激設定で。,Low-irritation settings for delicates.
+delicates,gentle_wash,絡まったりしないようにしてほしい。,I don’t want it to get tangled.
+delicates,gentle_wash,時間はかかっても優しく。,Take your time if needed just be gentle.
+delicates,gentle_wash,手洗い風のモードがいい。,A hand-wash-like mode would be great.
+delicates,gentle_wash,布を伸ばさないように洗って。,Wash without stretching the fabric.
+delicates,gentle_wash,生地の保護優先で。,Prioritize fabric protection.
+delicates,gentle_wash,ふんわり洗いを選んで。,"Choose a fluffy, gentle wash."
+delicates,gentle_wash,そっとやさしく洗濯して。,Wash softly and carefully.
+delicates,gentle_wash,優しめ、短めでお願い。,Go gentle and a bit shorter.
+delicates,gentle_wash,なるべく繊維に優しくして。,Be as kind to the fibers as possible.
+delicates,gentle_wash,デリケート服専用の設定で。,Use the setting for delicate clothes.
+delicates,gentle_wash,型崩れしないよう洗って。,Wash to avoid losing shape.
+delicates,gentle_wash,優しさ最優先モードで。,Put it on the most gentle mode.
+delicates,gentle_wash,激しく洗わず丁寧に。,Don’t scrub hard—be thorough but mild.
+delicates,gentle_wash,ソフトに洗い上げたい。,"I want a soft, tender finish."
+delicates,gentle_wash,手洗いみたいな強さで。,Use about hand-wash strength.
+delicates,gentle_wash,生地のケア重視のコースにして。,Pick a course that focuses on fabric care.
+delicates,gentle_wash,布をいたわる感じで洗ってほしい。,Please wash in a way that’s gentle on the fabric.
+delicates,gentle_wash,刺激少なめの洗い方でお願い。,Use a low-irritation wash.
+delicates,gentle_wash,生地が傷つかないように優しくしてね。,Be gentle so the material doesn’t get damaged.
+delicates,gentle_wash,できる限りソフトな設定でお願い。,As soft a setting as possible.
+delicates,gentle_wash,やわらかめの水流でお願いしたい。,Use a milder water flow if you can.
+delicates,gentle_wash,デリケート用のやさしい洗浄にしてほしい。,Use a delicate gentle-wash mode.
+delicates,gentle_wash,ていねいに扱って洗ってね。,Treat it carefully when washing.
+delicates,gentle_wash,優しさ重視のコースにしたいな。,I want a course that prioritizes softness.
+delicates,gentle_wash,摩擦少なめになる洗い方にしてほしい。,Please wash with minimal friction.
+delicates,gentle_wash,衣類に負担がかからないコースでお願い。,Use a course that reduces strain on the clothes.
+delicates,gentle_wash,できるだけふんわり洗い上げてね。,Make it as fluffy as possible.
+delicates,gentle_wash,押し洗い風で柔らかくお願い。,Wash softly like hand-press washing.
+delicates,gentle_wash,生地が引っ張られないように洗って。,Don’t stretch the fabric while washing.
+delicates,gentle_wash,ニットの手触りを維持する感じでお願い。,Keep the knit texture intact.
+delicates,gentle_wash,繊維が痛まないレベルに抑えて洗って。,Wash gently enough to avoid fiber damage.
+delicates,gentle_wash,服の風合いを大事にして洗ってほしい。,Wash while keeping the fabric’s texture.
+delicates,gentle_wash,優しく時間をかけてすすいでほしいな。,Rinse slowly and gently.
+delicates,gentle_wash,デリケートな服だから衣類にストレスがかからない洗い方で。,"It’s delicate, so wash without stressing the garment."
+delicates,gentle_wash,やわらか仕上げコースでお願い。,Use a soft-finish course.
+delicates,gentle_wash,生地を守りながらそっと洗ってほしい。,Wash gently while protecting the fabric.
+delicates,light_refresh_overall,洗わないで優しく乾かしてほしい。,Please dry gently without washing.
+delicates,light_refresh_overall,洗わないでソフトな乾燥モードにして。,Set to soft dry mode without washing.
+delicates,light_refresh_overall,洗わないで弱めの乾燥でお願い。,Dry lightly without washing.
+delicates,light_refresh_overall,生地を痛めないように洗わないで乾かして。,Dry without washing to protect the fabric.
+delicates,light_refresh_overall,洗わないでソフトドライで乾かしたい。,I’d like a soft dry without washing.
+delicates,light_refresh_overall,洗わないで丁寧な乾燥にしてほしい。,Please dry carefully without washing.
+delicates,light_refresh_overall,洗わないでゆっくり乾かしたい。,I want to dry slowly without washing.
+delicates,light_refresh_overall,洗わないでやさしい乾燥モードお願い。,Gentle dry mode without washing.
+delicates,light_refresh_overall,洗わないでやさしく乾燥して。,Gently dry without washing.
+delicates,light_refresh_overall,おしゃれ着用の乾燥モードにして。,Set it to the delicate clothes drying mode.
+delicates,light_refresh_overall,洗わず低温でゆっくり乾かして。,Dry it slowly at low temperature without washing.
+delicates,light_refresh_overall,弱風でソフトドライにして。,Use a soft-dry with low airflow.
+delicates,light_refresh_overall,熱をかけすぎないで乾燥だけで。,Keep the heat low—just drying.
+delicates,light_refresh_overall,シワを作らずやさしく乾燥して。,Dry gently to avoid wrinkles.
+delicates,light_refresh_overall,生地の保護を優先して乾燥してほしい。,Prioritize fabric protection while drying.
+delicates,light_refresh_overall,低温でソフトに乾燥したい。,"I want a low-temp, gentle dry."
+delicates,light_refresh_overall,優しく乾燥仕上げして。,"Give it a soft, gentle dry finish."
+delicates,light_refresh_overall,洗わず低温ドライ希望。,Low temperature dry without washing.
+delicates,light_refresh_overall,ふんわり感を残す感じで乾かして。,Dry it so the fluffiness stays.
+delicates,light_refresh_overall,洗わず緩めの乾燥でお願い。,Skip washing and do a light dry.
+delicates,light_refresh_overall,生地にダメージが無いように乾燥して。,Dry so the fabric doesn’t take damage.
+delicates,light_refresh_overall,縮まないように注意して乾燥。,Dry carefully so it doesn’t shrink.
+delicates,light_refresh_overall,しわが出ないように優しく乾燥して。,Dry gently so wrinkles don’t set in.
+delicates,light_refresh_overall,ソフトな設定でドライにして。,Use a soft setting for the dry.
+delicates,light_refresh_overall,乾燥の熱は控えめでお願い。,Go easy on the heat for drying.
+delicates,light_refresh_overall,生地負担の少ない乾燥設定に。,Use a low-stress drying setting.
+delicates,light_refresh_overall,ふわっと軽く仕上がる乾燥で。,"Dry to a light, airy finish."
+delicates,light_refresh_overall,風量弱・温度低めで乾燥して。,Dry with low airflow and low temp.
+delicates,light_refresh_overall,乾かし過ぎないよう制御して。,Control it so it doesn’t overdry.
+delicates,light_refresh_overall,おしゃれ着向けソフトドライでお願い。,Soft dry for dressy clothes.
+delicates,light_refresh_overall,洗わずに乾燥だけでお願いしたい。,I jhad like to skip washing and only dry it.
+delicates,light_refresh_overall,乾燥だけサッとやってほしい。,Just do a quick dry.
+delicates,light_refresh_overall,洗いは不要だから軽く乾かして。,"No washing needed, just dry lightly."
+delicates,light_refresh_overall,デリケート用の乾燥だけお願い。,Delicate mode drying only.
+delicates,light_refresh_overall,洗わずにセーターをふわっと乾燥してくれる？,Can you fluff-dry this sweater without washing it?
+delicates,light_refresh_overall,生地を守りながら乾燥だけして。,Dry only while protecting the fabric.
+delicates,light_refresh_overall,軽い風で乾燥だけ頼むね。,Use a gentle breeze to dry only.
+delicates,light_refresh_overall,デリケートな素材だから乾燥だけで十分。,"It’s delicate, so drying alone is enough."
+delicates,light_refresh_overall,おしゃれ着用のドライだけスタートして。,Start a dry-only cycle for nice clothes.
+delicates,light_refresh_overall,湿気だけ取る感じで乾燥してほしい。,Just remove the moisture and dry it.
+delicates,light_refresh_overall,優しい風乾燥でお願い。,Use gentle air-drying.
+delicates,light_refresh_overall,熱控えめの乾燥だけでお願いしたい。,Dry only with low heat.
+delicates,light_refresh_overall,乾燥のみでふんわり仕上げて。,Dry only and make it fluffy.
+delicates,light_refresh_overall,洗わずに乾燥コースを使ってほしい。,Use the dry-only course without washing.
+delicates,light_refresh_overall,乾燥だけ上手にやって。,Just handle the drying well.
+delicates,light_refresh_overall,洗いなし乾燥モードにしてくれる？,Can you put it on dry-without-wash mode?
+delicates,light_refresh_overall,衣類に負担のない乾燥運転だけお願い。,Dry cycle only with low strain on the clothes.
+delicates,light_refresh_overall,低温風で乾燥だけしてほしいな。,Dry only with low-temperature air.
+delicates,light_refresh_overall,デリケート対応で乾燥してくれる？,Dry it gently for delicate materials.
+delicates,light_refresh_overall,ニットを毛羽立たないように乾燥だけお願い。,Dry the knit carefully without frizzing it.
+towels,fluffy_soft,タオルをふんわり仕上げたい。,I want my towels to be fluffy.
+towels,fluffy_soft,柔らかく乾かしてほしい。,Please dry them softly.
+towels,fluffy_soft,手触りよく仕上げたいんだけど。,I want them to feel nice to the touch.
+towels,fluffy_soft,フワッとした仕上がりにして。,Make them fluffy.
+towels,fluffy_soft,柔らか仕上げモードお願い。,Use the soft finish mode.
+towels,fluffy_soft,ふんわり乾くようにお願い。,Make them dry fluffy.
+towels,fluffy_soft,柔軟剤を効かせた仕上がりにしたい。,I want a softener-finished touch.
+towels,fluffy_soft,ソフトな仕上がりでお願い。,Give it a soft finish.
+towels,fluffy_soft,フワフワの触り心地にして。,Make them feel fluffy.
+towels,fluffy_soft,柔らかい感じで仕上げて。,"Give it a soft, gentle feel."
+towels,fluffy_soft,触り心地重視で仕上げたい。,I want a finish that’s all about feel.
+towels,fluffy_soft,フワフワ感が出るようにお願い。,Please bring out the fluffy vibe.
+towels,fluffy_soft,繊維をふっくら立たせる洗いにして。,Wash so the fibers plump back up.
+towels,fluffy_soft,ふっくら回復モードで。,Use the fluff-recovery mode.
+towels,fluffy_soft,ボリューム感を戻したい。,I want to restore the volume.
+towels,fluffy_soft,ふわっと吸水良く仕上げて。,Finish fluffy with good absorbency.
+towels,fluffy_soft,柔らかキープ優先でお願い。,Keep it soft as the priority.
+towels,fluffy_soft,ふんわりさせて消臭もしたい。,Make it fluffy and deodorized too.
+towels,fluffy_soft,ごわつきを取って柔らかく。,Remove stiffness and make it soft.
+towels,fluffy_soft,やわらか仕上げ希望。,Soft-finish.
+towels,fluffy_soft,肌当たりやさしく仕上げたい。,"I want a skin-friendly, gentle finish."
+towels,fluffy_soft,ふわっと軽い仕上がりにお願い。,"Give it a light, airy finish."
+towels,fluffy_soft,ボリュームある柔らか仕上げで。,Soft with a bit of volume.
+towels,fluffy_soft,ふんわり最優先コースで。,Pick the ultra-fluffy course.
+towels,fluffy_soft,ふわ感重視のモードで。,Use the mode that prioritizes fluffiness.
+towels,fluffy_soft,ボリュームアップ重視に。,Make volume a priority.
+towels,fluffy_soft,吸水も落ちない柔らか仕上げで。,Keep it soft without hurting absorbency.
+towels,fluffy_soft,ふわっとさせてほしい。,I want it fluffed up.
+towels,fluffy_soft,柔らか仕上げで軽めに回して。,Soft finish with a lighter spin.
+towels,fluffy_soft,タオルのふわふわが戻るようにお願い,Please bring towels back to fluffy.
+towels,fluffy_soft,フワッと感重視でタオル洗ってほしい。,Wash the towels so they come out fluffy.
+towels,fluffy_soft,やわらかタッチになるようにお願い。,Make them soft to the touch.
+towels,fluffy_soft,タオルをふっくら仕上げてね。,Make the towels puffy when they’re done.
+towels,fluffy_soft,乾いたあとゴワつかない感じにして。,Don’t let them get stiff when dried.
+towels,fluffy_soft,柔らかい風合いを戻したいんだ。,I want the softness brought back.
+towels,fluffy_soft,タオルがふっくら復活するようにお願い。,Make the towels fluffy again.
+towels,fluffy_soft,毛羽立ち抑えてふんわりさせて。,Reduce fuzz and make them soft.
+towels,fluffy_soft,触れたとき気持ちいい感じに仕上げたい。,Finish them so they feel pleasant to touch.
+towels,fluffy_soft,繊維を優しく立たせてほしい。,Lift the fibers gently.
+towels,fluffy_soft,ボリューム感しっかり出して洗ってね。,Wash to bring out volume.
+towels,fluffy_soft,ふんわりで吸水も良くなるコースでお願い。,Use a fluffy course with good absorption.
+towels,fluffy_soft,柔らか質感優先で頼むね。,"Soft texture first,."
+towels,fluffy_soft,肌ざわりの良い仕上げになるように洗ってほしい。,Wash for a nice skin-feel finish.
+towels,fluffy_soft,ゴワつきゼロの仕上がり希望。,I want zero stiffness.
+towels,fluffy_soft,タオルをフワ軽に仕上げたいんだ。,Make the towels fluffy and light.
+towels,fluffy_soft,軟らかい触感で戻してほしい。,Bring back soft texture.
+towels,fluffy_soft,空気を含んだような柔らかさに仕上げたい。,"Finish them airy, like they’re full of air."
+towels,fluffy_soft,フワッと空気感を残して洗って。,Wash while keeping that airy softness.
+towels,fluffy_soft,吸水性キープしながら柔らかく頼む。,Keep absorption while making them soft.
+towels,fluffy_soft,タオルの手触り優先でやさしく仕上げて。,Prioritize the towel’s feel and finish gently.
+towels,in_a_hurry,時間がないから早く洗ってほしい。,"I don’t have time, please wash quickly."
+towels,in_a_hurry,とにかく早くして。,Just make it fast.
+towels,in_a_hurry,時短コースでお願い。,Use the quick course.
+towels,in_a_hurry,すぐ使いたいから早めに乾かしたい。,I want it dry soon—I need to use it.
+towels,in_a_hurry,急いで洗ってもらえる？,Can you wash it quickly?
+towels,in_a_hurry,短時間で終わるコースでお願い。,Use a short-time course.
+towels,in_a_hurry,急ぎの洗濯モードにして。,Set it to quick wash mode.
+towels,in_a_hurry,スピード優先でお願い。,Prioritize speed.
+towels,in_a_hurry,早く終わらせたいから時短モードで。,Use quick mode so it finishes fast.
+towels,in_a_hurry,急ぎのコースでお願い。,Quick course.
+towels,in_a_hurry,急ぎで終わるモードでお願い。,Use a mode that finishes fast.
+towels,in_a_hurry,クイックコースにして。,Set it to the quick course.
+towels,in_a_hurry,最短で洗ってほしい。,Wash in the shortest time possible.
+towels,in_a_hurry,短めのモードでいこう。,Let’s go with a short cycle.
+towels,in_a_hurry,すぐ使いたいから急ぎで。,"I need this soon, so make it quick."
+towels,in_a_hurry,ショートコースでお願い。,Use the short course.
+towels,in_a_hurry,乾燥まで短めで仕上げて。,Shorten the drying too.
+towels,in_a_hurry,時間ないから早めでお願い。,"I am short on time, make it fast."
+towels,in_a_hurry,急いでるからサクッと洗って。,"I am in a hurry, so wash it quick."
+towels,in_a_hurry,時間を優先で洗って。,Prioritize speed over time.
+towels,in_a_hurry,なるはやで終わる設定に。,Set it to finish as soon as possible.
+towels,in_a_hurry,時間かからない設定でお願い。,Use a time-saving setting.
+towels,in_a_hurry,早さ優先にしてほしい。,Make speed the priority.
+towels,in_a_hurry,できるだけ短時間で洗濯して。,Wash as fast as you can.
+towels,in_a_hurry,早めの洗濯で乾燥まで頼むね。,Do a faster wash and include drying.
+towels,in_a_hurry,時間かからるのは嫌だ。,I don’t want a long cycle.
+towels,in_a_hurry,早く終わる設定を選んで。,Pick a setting that finishes quickly.
+towels,in_a_hurry,時間がかからない運転で。,Run it so it doesn’t take long.
+towels,in_a_hurry,速く仕上がるコースでお願い。,Use a fast-finishing course.
+towels,in_a_hurry,とにかく最短で運転して。,Run it on the absolute shortest cycle.
+towels,in_a_hurry,できるだけ早くタオルを洗い終えてほしい。,I want the towels done as fast as possible.
+towels,in_a_hurry,超スピードでタオル洗いをお願い。,Super-speed towel wash.
+towels,in_a_hurry,早めに使いたいから急いで仕上げて。,"I want to use them soon, so finish quickly."
+towels,in_a_hurry,時短でサッとお願いしたい。,"Please do a quick, time-saving wash."
+towels,in_a_hurry,手短に洗ってほしいんだ。,Wash them briefly.
+towels,in_a_hurry,ぱぱっと終わる運転にして。,Use a quick-finish cycle.
+towels,in_a_hurry,すぐ仕上げてもらえるコースでお願い。,Run a course that finishes fast.
+towels,in_a_hurry,タオルが早く乾くように回してほしい。,Wash so the towels dry quickly afterwards.
+towels,in_a_hurry,タオルをなるべく短時間で洗ってね。,Wash the towels in as little time as possible.
+towels,in_a_hurry,急ぎめの乾燥までお願い。,Please hurry through drying too.
+towels,in_a_hurry,あまり時間かけずに終わらせて。,Don’t take too long—just finish.
+towels,in_a_hurry,隙間時間で終わる感じがいい。,I want it done during a short break.
+towels,in_a_hurry,時間節約モードでお願い。,Time-saving mode.
+towels,in_a_hurry,最短コースでタオルを洗ってほしい。,Wash the towels with the shortest course.
+towels,in_a_hurry,急いでるから早回しで頼む。,"I’m in a rush, so spin it fast."
+towels,in_a_hurry,一番早く終わる設定にしてほしい。,Use the fastest setting you’ve got.
+towels,in_a_hurry,時間のかからない洗い方でお願い。,Wash in a way that doesn’t take time.
+towels,in_a_hurry,スピーディーな洗濯と乾燥運転もお願い。,Quick washing and drying.
+towels,in_a_hurry,とにかくサッと仕上げてほしい。,Just get it done quickly.
+towels,in_a_hurry,時間が惜しいから手短に頼む。,"I’m pressed for time, so keep it short."
+sportswear,in_a_hurry,急いでるから早く終わらせたい。,"I'm in a hurry, finish quickly."
+sportswear,in_a_hurry,急いでるから早く終わらせたい。,"Yes, I am in a hurry"
+sportswear,in_a_hurry,時短モードで洗ってほしい。,Wash in quick mode.
+sportswear,in_a_hurry,すぐ着たいから早めに仕上げて。,I want it ready to wear soon.
+sportswear,in_a_hurry,急いでるから早く洗って。,"Wash fast, I’m in a rush."
+sportswear,in_a_hurry,スピードコースでお願い。,Use the speed course.
+sportswear,in_a_hurry,早く終わるモードで洗ってほしい。,Wash in the fast mode.
+sportswear,in_a_hurry,忙しいから短時間で頼むね。,"I’m busy, make it quick."
+sportswear,in_a_hurry,できるだけ早く終わらせて。,Finish as soon as possible.
+sportswear,in_a_hurry,すぐ洗い終わるようにして。,Make sure it’s done quickly.
+sportswear,in_a_hurry,時間優先で仕上げてほしい。,Please focus on time-saving.
+sportswear,in_a_hurry,すぐ終わるコースで汗を落として。,Use a quick course that still tackles sweat.
+sportswear,in_a_hurry,速攻で洗濯したい。,I want to do laundry ASAP.
+sportswear,in_a_hurry,早めに洗ってすぐ着たい。,Wash it fast so I can wear it soon.
+sportswear,in_a_hurry,時間を最優先でお願い。,Make time the top priority.
+sportswear,in_a_hurry,時間短めで終わらせて。,Finish in a shorter time.
+sportswear,in_a_hurry,スピード運転で洗濯して。,Run a speed cycle for the wash.
+sportswear,in_a_hurry,スピードと消臭重視で。,Prioritize speed and deodorizing.
+sportswear,in_a_hurry,さっと洗って早く乾かして。,Wash quickly and dry fast.
+sportswear,in_a_hurry,できるだけ早く終わらせて。,Wrap it up as quickly as possible.
+sportswear,in_a_hurry,速洗いですっきり仕上げたい。,I want a quick wash that feels fresh.
+sportswear,in_a_hurry,短時間で終わるモードに。,Set it to a short-time mode.
+sportswear,in_a_hurry,速さ重視で頼む。,Speed is the priority here.
+sportswear,in_a_hurry,時間が短い方が良い。,Shorter is better for me.
+sportswear,in_a_hurry,早く終わる設定でさっぱりと。,Go with a fast setting but a clean finish.
+sportswear,in_a_hurry,スピード重視の汗ケアにして。,Use a speed-focused sweat-care mode.
+sportswear,in_a_hurry,早仕上げコースで回して。,Run the quick-finish course.
+sportswear,in_a_hurry,今すぐ使える状態にして。,Make it ready to wear right away.
+sportswear,in_a_hurry,速攻で終わるようにお願い。,Please make it finish in no time.
+sportswear,in_a_hurry,早終わり優先で運転して。,Prioritize finishing early.
+sportswear,in_a_hurry,あまり時間をかけないで洗って。,Don’t spend too long washing.
+sportswear,in_a_hurry,汗かいたからすぐ洗ってほしい。,"I’m sweaty, so please wash right away."
+sportswear,in_a_hurry,急ぎで運動着を仕上げたいんだ。,I want my sportswear ready fast.
+sportswear,in_a_hurry,できるだけ早く汗を落としてほしい。,Remove the sweat as quickly as possible.
+sportswear,in_a_hurry,すぐ乾くようにスピード洗いでお願い。,Use a quick wash that dries fast.
+sportswear,in_a_hurry,時間ないからさっと洗って。,"I’m short on time, so wash quickly."
+sportswear,in_a_hurry,ジムの服を手早く洗いたい。,I want to wash my gym clothes quickly.
+sportswear,in_a_hurry,すぐ使うから急ぎで洗って。,"I need it soon, so rush the wash."
+sportswear,in_a_hurry,スポーツウェアを早洗いでお願い。,Quick wash for sportswear.
+sportswear,in_a_hurry,早めのコースでニオイも取ってほしい。,Use an early-finish course that removes odor too.
+sportswear,in_a_hurry,クイック洗いでさっぱり仕上げて。,Quick wash for a fresh finish.
+sportswear,in_a_hurry,短時間で汗と汚れを落として。,Remove sweat and dirt in a short time.
+sportswear,in_a_hurry,運動着を時間短めで洗ってほしい。,Wash my workout clothes quickly.
+sportswear,in_a_hurry,なるはやで終わるコースにして。,Use a course that finishes ASAP.
+sportswear,in_a_hurry,汗臭ケアを早めに終わらせて。,Finish sweat-odor care quickly.
+sportswear,in_a_hurry,できるだけ短時間でスッキリ洗って。,Wash cleanly in the shortest time possible.
+sportswear,in_a_hurry,早く乾かせるように仕上げてほしい。,Finish in a way that dries quickly.
+sportswear,in_a_hurry,スピード優先で運動着を洗って。,Speed-priority wash for sportswear.
+sportswear,in_a_hurry,時短モードで汗ケアもお願い。,Time-saving sweat-care mode.
+sportswear,in_a_hurry,ジム服を素早く洗ってまた使えるようにして。,Wash my gym clothes fast so I can reuse them.
+sportswear,in_a_hurry,運動着をサラッと洗ってほしいんだ。,Wash my workout wear lightly and fast.
+sportswear,not_in_a_hurry,急いでないから普通で大丈夫。,"I'm not in a hurry, normal mode is fine."
+sportswear,not_in_a_hurry,通常モードで洗って。,Wash in normal mode.
+sportswear,in_a_hurry,急いでるから早く終わらせたい。,"No, I am not in a hurry"
+sportswear,not_in_a_hurry,ゆっくり丁寧に洗ってほしい。,Please wash slowly and carefully.
+sportswear,not_in_a_hurry,時間は気にしてないので、普通に洗って。,"I’m not worried about time, just wash normally."
+sportswear,not_in_a_hurry,標準コースでお願い。,Standard course.
+sportswear,not_in_a_hurry,じっくり洗って大丈夫。,Take your time washing.
+sportswear,not_in_a_hurry,普通に洗ってくれればOK。,Normal wash is okay.
+sportswear,not_in_a_hurry,通常設定でお願い。,Use the normal settings.
+sportswear,not_in_a_hurry,丁寧に洗いたいから通常で。,Wash carefully in normal mode.
+sportswear,not_in_a_hurry,焦らずしっかり洗って。,Wash without rushing.
+sportswear,not_in_a_hurry,じっくり汗を落としてほしい。,Take your time and really get the sweat out.
+sportswear,not_in_a_hurry,時間はあるから丁寧にお願い。,"I’ve got time, so please be thorough."
+sportswear,not_in_a_hurry,やや強めでしっかり洗って。,Wash a bit stronger and get it clean.
+sportswear,not_in_a_hurry,消臭を長めでお願い。,Give deodorizing extra time.
+sportswear,not_in_a_hurry,汗臭まで根こそぎ取りたい。,I want the sweat smell gone to the roots.
+sportswear,not_in_a_hurry,仕上がり重視でじっくり回して。,Run it longer for a quality finish.
+sportswear,not_in_a_hurry,よく洗ってほしい。,Give it a really good wash.
+sportswear,not_in_a_hurry,時間短縮しないでしっかり洗って。,Don’t shorten the time—wash thoroughly.
+sportswear,not_in_a_hurry,念入りにニオイ対策して。,Be meticulous about odor control.
+sportswear,not_in_a_hurry,洗いと乾燥を丁寧にしてね。,Wash and dry both with care.
+sportswear,not_in_a_hurry,洗いはしっかりと、時間は気にしない。,Wash well—I’m not worried about time.
+sportswear,not_in_a_hurry,標準コースと消臭強化で。,Standard course plus boosted deodorizing.
+sportswear,not_in_a_hurry,しっかり汗抜きしてね。,Make sure the sweat is fully removed.
+sportswear,not_in_a_hurry,念入り運転で汗汚れを落として。,Run a careful cycle to remove sweat grime.
+sportswear,not_in_a_hurry,仕上がり優先のモードで。,Use a finish-first mode.
+sportswear,not_in_a_hurry,ニオイ戻りがないよう長めで。,Run it longer so the smell doesn’t come back.
+sportswear,not_in_a_hurry,時間をかけて丁寧にお願い。,Take your time and be careful.
+sportswear,not_in_a_hurry,じっくり浸け置き風に洗って。,Wash like a long soak.
+sportswear,not_in_a_hurry,洗濯も乾燥も長めで洗って。,Run both wash and dry on the longer side.
+sportswear,not_in_a_hurry,時間より汚れ落とし優先でやって。,Prioritize cleaning over time.
+sportswear,not_in_a_hurry,ジム帰りで汗だくだから、しっかり洗って。,"I’m drenched in sweat from the gym, so wash thoroughly."
+sportswear,not_in_a_hurry,サッカーで泥まみれになったから念入りにお願い。,"I got covered in mud from soccer, so wash carefully."
+sportswear,not_in_a_hurry,バスケの汗臭が強いから強めに洗ってほしい。,Basketball sweat smells strong—wash hard.
+sportswear,not_in_a_hurry,ランニングウェアをじっくり浸け置きっぽく洗って。,Soak-style wash for my running wear.
+sportswear,not_in_a_hurry,テニスで汗だくになったから、しっかりお願い。,"I’m sweaty from tennis, so wash well."
+sportswear,not_in_a_hurry,バイク用のウェア、汗ベタベタだから徹底洗浄で。,My motorcycle gear is sticky—deep clean it.
+sportswear,not_in_a_hurry,野球の汚れが落ちにくいから強力洗いしてほしい。,"Baseball dirt is stubborn, so wash strongly."
+sportswear,not_in_a_hurry,フットサル帰りの服、泥と汗をしっかり取って。,"Futsal clothes have mud and sweat, clean thoroughly."
+sportswear,not_in_a_hurry,筋トレでガンガン汗かいたから、しっかりお願い。,"I sweated a ton weight-training, wash thoroughly."
+sportswear,not_in_a_hurry,マラソン用のシャツ、汗染みがひどいので念入りに。,"My marathon shirt has heavy sweat stains, wash hard."
+sportswear,not_in_a_hurry,ダンスレッスンのウェア、ニオイが残らないように洗って。,Wash my dance practice wear so no odor remains.
+sportswear,not_in_a_hurry,ヨガウェアの皮脂汚れを丁寧に落としてほしい。,Remove sebum from my yoga clothing carefully.
+sportswear,not_in_a_hurry,ジョギング後のシャツ、しっかり汗抜きお願い。,Jogging shirt needs sweat removed well.
+sportswear,not_in_a_hurry,野球で泥汚れがひどいから念入りに洗って。,"Mud from baseball is bad, wash carefully."
+sportswear,not_in_a_hurry,テニスの襟周り、汗じみ強めだから重点的に洗って。,"Tennis collar sweat stains, focus there."
+sportswear,not_in_a_hurry,ジムウェアのベタつきが気になるから二度洗いしたい。,"My gym clothes feel sticky, I had like a double wash."
+sportswear,not_in_a_hurry,キックボクシングの汗臭を根こそぎ落としたい。,Remove the boxing-like sweat smell completely.
+sportswear,not_in_a_hurry,汗臭いニオイ、しっかり消臭お願い。,Eliminate the sweat odor strongly.
+sportswear,not_in_a_hurry,スポーツソックスも一緒に強めで洗って。,Wash my sports socks firmly too.
+sportswear,not_in_a_hurry,サウナ後のウェア、汗の成分までキレイに洗って。,"After sauna training, wash out the sweat components completely."
+bedding,blanket,ふっくら仕上げたい。,I want it fluffy.
+bedding,blanket,おまかせでお願い。,Go with default setting
+bedding,blanket,普通に洗って。,Wash normally.
+bedding,blanket,特に指定はないです。,No special requests.
+bedding,blanket,いつも通りで。,Same as usual.
+bedding,blanket,しっかり洗わなくて良いよ。,No need to wash too strongly.
+bedding,blanket,ふわふわにして。,Make it soft and fluffy.
+bedding,blanket,普通で大丈夫。,Normal is fine.
+bedding,blanket,ふんわり仕上がるように洗いたい。,I want a fluffy finish.
+bedding,blanket,標準でお任せします。,I’ll go with standard.
+bedding,blanket,いつも通りで大丈夫だよ。,Same as usual is fine.
+bedding,blanket,指定なし、普通でお願い。,"No special requests, just normal."
+bedding,blanket,基本設定のままで洗って。,Use the basic settings.
+bedding,blanket,指定なしで進めてOK。,Okay to proceed with no specifics.
+bedding,blanket,普通の洗濯で良いよ。,A regular wash is fine.
+bedding,blanket,ベーシックなコースで。,Use the basic course.
+bedding,blanket,いつもの感じにしてほしい。,I want it like we usually do.
+bedding,blanket,普通に回してくれれば十分。,A normal cycle is plenty.
+bedding,blanket,とくにこだわりなしで。,No particular preferences.
+bedding,blanket,既定の設定でお願いします。,Please use the default settings.
+bedding,blanket,ノーマルで問題なし。,Normal is no problem.
+bedding,blanket,設定変えずにそのまま運転して。,Run it as-is without changing settings.
+bedding,blanket,ふつうの仕上がりでOK。,A standard finish is fine.
+bedding,blanket,基本のコースで、洗濯機に任せるね。,"Basic course, leaving it to the machine."
+bedding,blanket,デフォルトのまま始めて。,Start with the default.
+bedding,blanket,通常運転で大丈夫。,Regular operation is fine.
+bedding,blanket,標準設定で進めて。,Proceed on the standard setting.
+bedding,blanket,特に条件なしで頼むよ。,"No special conditions, go ahead with auto."
+bedding,blanket,普通のコースでお願い。,Use the normal course.
+bedding,blanket,シーツを普通に洗ってほしい。,Please wash the sheets normally.
+bedding,blanket,毛布をいつもの感じでお願い。,Blankets like usual.
+bedding,blanket,枕カバーは普通で大丈夫だよ。,Regular is fine for pillowcases.
+bedding,blanket,掛け布団カバーを標準コースで洗って。,Wash the comforter cover on the standard course.
+bedding,blanket,布団カバーを普通に回してほしい。,Wash the duvet cover normally.
+bedding,blanket,布団はおまかせでOKだよ。,Auto is fine for the bedding.
+bedding,blanket,ベッドシーツを基本設定でお願い。,Basic settings for the bed sheet.
+bedding,blanket,枕カバーをノーマルモードで洗って。,Normal mode for pillowcases.
+bedding,blanket,掛け布団カバーは特に指定なしで。,No special request for the comforter cover.
+bedding,blanket,敷きパッドを標準設定でお願いね。,Standard settings for the mattress pad.
+bedding,blanket,枕カバー、通常仕上げで良いよ。,Pillowcase is fine with a normal finish.
+bedding,blanket,布団カバーは普通に洗ってもらえれば十分。,Regular wash for the duvet cover is enough.
+bedding,blanket,毛布は一般的なコースでお願い。,General course for the blanket.
+bedding,blanket,シーツを普通に洗って。,Wash the sheets normally.
+bedding,blanket,枕カバーを一般的な洗い方でお願い。,Regular wash for the pillowcase.
+bedding,blanket,敷きパッド、通常モードで回して。,Run the mattress pad on normal mode.
+bedding,blanket,シーツを標準運転でお願いしたい。,Standard operation for the sheet.
+bedding,blanket,布団カバーはベーシックな仕上がりでOK。,Basic finish for the duvet cover is fine.
+bedding,blanket,毛布だけど、こだわりなしで洗ってほしい。,Blanket can be washed without special care.
+bedding,blanket,特に希望はないので普通に枕カバーを洗って。,"Nothing special, just wash the pillowcase normally."
+bedding,warm_water_thorough,汗や脂を落としたい。,I want to remove sweat and oil.
+bedding,warm_water_thorough,においがキツイのでしっかり。,"It smells bad, so wash thoroughly."
+bedding,warm_water_thorough,強めに洗って。,Wash with a stronger setting.
+bedding,warm_water_thorough,汚れがひどいので徹底的にお願い。,"It’s very dirty, please wash deeply."
+bedding,warm_water_thorough,お湯でしっかり洗って。,Wash with hot water.
+bedding,warm_water_thorough,温水で洗ってほしい。,Please use warm water.
+bedding,warm_water_thorough,汗臭いので、しっかりお願い。,"It smells sweaty, so wash well."
+bedding,warm_water_thorough,とにかくしっかり洗いたい。,I just want a deep clean.
+bedding,warm_water_thorough,汗や黄ばみをしっかり落としたい。,Wash thoroughly for sweat and yellowing.
+bedding,warm_water_thorough,しっかり強めでお願い。,Wash strong.
+bedding,warm_water_thorough,皮脂汚れをしっかり流して。,Rinse out the skin oils thoroughly.
+bedding,warm_water_thorough,寝汗のニオイを重点的にお願い。,Focus on the smell from night sweat.
+bedding,warm_water_thorough,消臭強めに念入りにお願い。,Go heavy on deodorizing and be thorough.
+bedding,warm_water_thorough,皮脂落ち優先で温度上げて洗って。,Prioritize sebum removal and raise the temp.
+bedding,warm_water_thorough,におい残りゼロ目標で洗って。,Wash with the goal of zero odor left.
+bedding,warm_water_thorough,汗と脂のしみ抜きをお願い。,Please treat sweat and oil stains.
+bedding,warm_water_thorough,消臭抗菌モードで強めに。,Use the deodorize and antibacterial mode on strong.
+bedding,warm_water_thorough,皮脂と汗をしっかり落としてね。,Make sure both sweat and oil are removed.
+bedding,warm_water_thorough,温水寄りの設定で徹底洗いして。,Use warmer water and clean thoroughly.
+bedding,warm_water_thorough,におい対策重視で進めて。,Proceed with odor control as the focus.
+bedding,warm_water_thorough,皮脂分解を長めにお願い。,Give sebum breakdown extra time.
+bedding,warm_water_thorough,臭い戻りを防ぐ洗い方で。,Wash in a way that prevents smell from returning.
+bedding,warm_water_thorough,消臭プラス除菌でしっかり洗って。,Deodorize plus sanitize with a strong wash.
+bedding,warm_water_thorough,皮脂のぬめり感まで取ってほしい。,I want even the slick oily feel gone.
+bedding,warm_water_thorough,強力洗いでクリーンにして。,Use a powerful wash for a deep clean.
+bedding,warm_water_thorough,温水強めで念入りに洗って。,Wash carefully with higher temp.
+bedding,warm_water_thorough,皮脂・汗を根こそぎ落として。,Strip out the sweat and oil completely.
+bedding,warm_water_thorough,消臭するように乾燥もしてね。,Also dry in a way that helps deodorize.
+bedding,warm_water_thorough,匂い対策重視のモードで。,Use a mode that prioritizes odor control.
+bedding,warm_water_thorough,徹底的に洗濯するモードにして。,Set it to a deep-clean cycle.
+bedding,warm_water_thorough,枕カバーのよだれ跡までしっかり落として。,Remove drool stains from the pillowcase thoroughly.
+bedding,warm_water_thorough,皮脂とフケっぽい汚れを念入りに洗ってほしい。,Wash sebum and dandruff-like dirt carefully.
+bedding,warm_water_thorough,ダニやハウスダスト対策で強力洗いにして。,Use a strong wash for mites and dust.
+bedding,warm_water_thorough,毛布に花粉がついてるから徹底的に落として。,Remove pollen thoroughly from the blanket.
+bedding,warm_water_thorough,布団の湿気由来のニオイを根こそぎ取ってほしい。,Remove the musty odor from humidity in the bedding.
+bedding,warm_water_thorough,枕の皮脂染みを重点的にお願い。,Focus on sebum stains on the pillow.
+bedding,warm_water_thorough,汗じみと脂分を分解重視で洗って。,Break down sweat and oil residue.
+bedding,warm_water_thorough,部屋干し臭っぽいニオイを強め設定で消して。,Eliminate any indoor-drying smell strongly.
+bedding,warm_water_thorough,毛布に付いたペットの毛とニオイも取れるようにしっかり洗って。,Wash off pet hair and odor from the blanket thoroughly.
+bedding,warm_water_thorough,シーツの黄ばみと汗臭を同時にやっつけてほしい。,Remove both yellowing and sweat smell from the sheets.
+bedding,warm_water_thorough,寝汗の塩分で固まった感じ、よくほぐして洗って。,Loosen up the salty stiffness from night sweat.
+bedding,warm_water_thorough,枕に付いた加齢臭を消したいので強めに。,Remove aging odor from the pillow strongly.
+bedding,warm_water_thorough,枕の皮脂ぬめり、温度高めでしっかり落として。,Wash away oily slickness on the pillow with higher temperature.
+bedding,warm_water_thorough,ダニ対策の高温寄り設定で念入り洗浄お願い。,Use a higher-temp mite-removal wash.
+bedding,warm_water_thorough,皮脂と汗の混ざったニオイ、消臭最優先で。,Prioritize removing the mixed sweat-and-oil smell.
+bedding,warm_water_thorough,角の汚れも落ちるように水量多めで強洗いして。,Use high water flow for corner dirt.
+bedding,warm_water_thorough,シーツの黄ばみ、漂白寄りの設定でしっかりお願い。,Use a bleaching-leaning setting for yellow sheets.
+bedding,warm_water_thorough,フケ・ほこりを流し切るようにすすぎ多めで。,Extra rinsing to remove dandruff and dust.
+bedding,warm_water_thorough,長く使ってついた寝具のニオイ、徹底消臭でお願い。,Completely deodorize long-used bedding.
+bedding,warm_water_thorough,汗と皮脂のしみ込みを消す感じで強力洗いして。,Wash strongly to remove deep sweat and oil soak-in.
+care,dewrinkle_deodorize,シワとニオイを取ってほしい。,Please remove wrinkles and odor.
+care,dewrinkle_deodorize,洗わずに臭いを取りたい。,Remove odor without washing.
+care,dewrinkle_deodorize,スチームでシワを伸ばしてほしい。,Use steam to smooth out wrinkles.
+care,dewrinkle_deodorize,消臭ケアとシワ取りがしたい。,I want wrinkle and odor care.
+care,dewrinkle_deodorize,洗濯せずにシワを伸ばしたい。,Smooth out wrinkles without washing.
+care,dewrinkle_deodorize,服を整えるケアモードでお願い。,Use the garment care mode.
+care,dewrinkle_deodorize,しわが付いてるので取りたい。,I want to remove these wrinkles.
+care,dewrinkle_deodorize,軽く脱臭とシワ取りして。,Do a light refresh and wrinkle removal.
+care,dewrinkle_deodorize,スチームケアでお願い。,Perform steam care.
+care,dewrinkle_deodorize,シワとニオイの両方ケアしたい。,Handle both wrinkles and odor.
+care,dewrinkle_deodorize,スチームでしわと臭いを同時にとりたい。,I want steam to remove wrinkles and odors together.
+care,dewrinkle_deodorize,しわを整えてほしい。,Please smooth out the wrinkles.
+care,dewrinkle_deodorize,しわ伸ばし中心でお願い。,Focus on wrinkle removal.
+care,dewrinkle_deodorize,消臭重視でふんわり整えたい。,Emphasize deodorizing with a soft finish.
+care,dewrinkle_deodorize,洗わずにスチーム当てて。,Use steam without washing.
+care,dewrinkle_deodorize,アイロン代わりにしわ取りしたい。,Use it like an iron substitute to de-wrinkle.
+care,dewrinkle_deodorize,ニオイだけ飛ばして形を整えて。,Just knock out the odor and tidy the shape.
+care,dewrinkle_deodorize,しわ取り消臭コースに切り替えて。,Switch to the wrinkle-and-deodorize course.
+care,dewrinkle_deodorize,形崩れなしで消臭してほしい。,Deodorize without warping the shape.
+care,dewrinkle_deodorize,シワとりをしてくれるモードで。,Use a mode that removes wrinkles.
+care,dewrinkle_deodorize,さっとスチームでケアしてほしい。,Give it a quick steam care.
+care,dewrinkle_deodorize,においを取って香りを付けて。,Remove the odor and add a light scent.
+care,dewrinkle_deodorize,服をふんわり整えるケアで。,Use a care cycle that fluffs and smooths.
+care,dewrinkle_deodorize,スチーム強めでお願い。,Turn the steam up.
+care,dewrinkle_deodorize,しわ伸ばしをお願い。,Please do wrinkle release.
+care,dewrinkle_deodorize,仕上げにスチームで整えて。,Finish with steam to tidy it up.
+care,dewrinkle_deodorize,ニオイカットと軽いしわ伸ばしをお願い。,Cut the odor and do a light de-wrinkle.
+care,dewrinkle_deodorize,さっと着れる状態にしわと臭いを取って。,Make it ready to wear—remove wrinkles and smell.
+care,dewrinkle_deodorize,デリケートな服のスチーム希望。,Steam care for delicate clothes.
+care,dewrinkle_deodorize,形を保ちながら消臭して。,Deodorize while keeping the shape.
+care,dewrinkle_deodorize,シャツのシワとニオイを一緒にケアしてほしい。,Take care of both wrinkles and odor on my shirt.
+care,dewrinkle_deodorize,ジャケットを洗わずにシワだけ伸ばして。,Steam the jacket to remove wrinkles without washing.
+care,dewrinkle_deodorize,パンツの折れジワをスチームで整えて。,Fix the crease wrinkles on the pants with steam.
+care,dewrinkle_deodorize,コートのこもったニオイを飛ばしてほしい。,Get rid of the trapped smell in my coat.
+care,dewrinkle_deodorize,セーターにスチームを軽く当てて形を整えて。,Steam my sweater lightly to shape it.
+care,dewrinkle_deodorize,ワイシャツのシワを弱めスチームでお願い。,Weak steam to fix wrinkles on my dress shirt.
+care,dewrinkle_deodorize,上着のこもり臭を消臭中心で。,Deodorize my jacket’s stuffy odor.
+care,dewrinkle_deodorize,ブラウスの細かいシワを軽く伸ばしてほしい。,Lightly smooth fine wrinkles on my blouse.
+care,dewrinkle_deodorize,襟周りのニオイだけスチームで飛ばしたい。,Steam away odor around the collar.
+care,dewrinkle_deodorize,スーツ上着を脱臭してシルエット整えて。,Deodorize my suit jacket and fix its shape.
+care,dewrinkle_deodorize,Tシャツの生活臭を軽めに消して。,Lightly remove everyday odor from my T-shirt.
+care,dewrinkle_deodorize,カーディガンの型崩れ防ぎながら消臭お願い。,Deodorize my cardigan without ruining the shape.
+care,dewrinkle_deodorize,パーカーのフードもふんわり整えて。,Fluff up the hood on my hoodie too.
+care,dewrinkle_deodorize,ジャケットの肩シワをスチームでサッとお願い。,Steam out shoulder wrinkles on my jacket.
+care,dewrinkle_deodorize,アウターのムワッとしたニオイを取ってほしい。,Remove the stuffy smell from my outerwear.
+care,dewrinkle_deodorize,洗わずにコートの消臭を中心でお願い。,Deodorize my coat without washing it.
+care,dewrinkle_deodorize,セットアップの型が崩れないように整えて。,Keep my outfit’s shape while refreshing it.
+care,dewrinkle_deodorize,ブラウスのシワ、軽めに伸ばしてほしい。,Lightly smooth wrinkles on the blouse.
+care,dewrinkle_deodorize,脇のニオイをスチームでケアして。,Steam away the underarm smell.
+care,dewrinkle_deodorize,シワが出てるパンツのライン整えてほしい。,Fix the pant crease that got wrinkled.
+care,pollen_sanitize_deodorize,除菌と花粉対策をしたい。,I want to sterilize and remove pollen.
+care,pollen_sanitize_deodorize,花粉を落としたいんだけど。,I want to get rid of pollen.
+care,pollen_sanitize_deodorize,においを防ぐモードでお願い。,Use odor prevention mode.
+care,pollen_sanitize_deodorize,除菌洗いにしてほしい。,Please use sterilizing wash.
+care,pollen_sanitize_deodorize,花粉除去モードでケアして。,Care in pollen removal mode.
+care,pollen_sanitize_deodorize,匂いを残さない洗い方にして。,Wash so no odor remains.
+care,pollen_sanitize_deodorize,除菌・脱臭モードでお願い。,Use deodorizing and sterilizing mode.
+care,pollen_sanitize_deodorize,花粉対策モードでお願いできる？,Can you do pollen care mode?
+care,pollen_sanitize_deodorize,除菌コースで清潔にして。,Keep it clean with sterilization course.
+care,pollen_sanitize_deodorize,におい予防モードで仕上げたい。,Finish with odor prevention mode.
+care,pollen_sanitize_deodorize,除菌を強めにかけたい。,I want stronger sanitizing.
+care,pollen_sanitize_deodorize,花粉の除去重視でお願い。,Focus on removing pollen.
+care,pollen_sanitize_deodorize,臭いを根こそぎ取りたい。,I want the smell gone completely.
+care,pollen_sanitize_deodorize,除菌と防臭のダブルで。,Do both sanitizing and deodorizing.
+care,pollen_sanitize_deodorize,花粉落としモードを長めに。,Run pollen care a bit longer.
+care,pollen_sanitize_deodorize,ニオイ菌対策を重点的に。,Concentrate on odor-causing bacteria.
+care,pollen_sanitize_deodorize,とにかく清潔仕上げでお願い。,"Above all, finish super clean."
+care,pollen_sanitize_deodorize,花粉ケアと消臭をお願い。,Please do pollen care plus deodorizing.
+care,pollen_sanitize_deodorize,除菌を強めに設定にして。,Turn up the sanitizing level.
+care,pollen_sanitize_deodorize,臭い取り重視の仕上げで。,Finish with heavy odor removal.
+care,pollen_sanitize_deodorize,花粉をしっかり振るい落として。,Really shake off the pollen.
+care,pollen_sanitize_deodorize,抗菌仕上げまで実施して。,Add an antibacterial finish too.
+care,pollen_sanitize_deodorize,匂い残りをしっかり抑えるモードで。,Use a mode that keeps odor from lingering.
+care,pollen_sanitize_deodorize,除菌と花粉対策の両方をお願い。,Do both sanitizing and pollen control.
+care,pollen_sanitize_deodorize,花粉対策モードで進めて。,Proceed in pollen-mode focus.
+care,pollen_sanitize_deodorize,消臭仕上げを追加してほしい。,Add a deodorizing finish.
+care,pollen_sanitize_deodorize,しっかり消臭出来るコースでお願い。,Use a course that truly deodorizes.
+care,pollen_sanitize_deodorize,ニオイの元からカットしたい。,I want the odor cut at the source.
+care,pollen_sanitize_deodorize,除菌ケアをしっかり丁寧に。,Do sanitizing care thoroughly and carefully.
+care,pollen_sanitize_deodorize,花粉対策強化でお願い。,Strengthen the pollen measures.
+care,pollen_sanitize_deodorize,コートに付いた花粉をしっかり落としてほしい。,Remove pollen stuck on my coat.
+care,pollen_sanitize_deodorize,ジャケットの花粉を振り払う感じでお願い。,Shake off the pollen from my jacket.
+care,pollen_sanitize_deodorize,パーカーのニオイを落として。,Remove the smell from my hoodie.
+care,pollen_sanitize_deodorize,マフラーの花粉とニオイを両方取ってほしい。,Remove both pollen and odor from my scarf.
+care,pollen_sanitize_deodorize,アウターに付いたホコリや花粉をしっかり落として。,Clear dust and pollen from my outerwear.
+care,pollen_sanitize_deodorize,カーディガンにこもった臭いを除菌して落として。,Disinfect and remove odors trapped in my cardigan.
+care,pollen_sanitize_deodorize,花粉がつきやすい上着のケアをお願い。,Care for outerwear that easily picks up pollen.
+care,pollen_sanitize_deodorize,スウェットの花粉と雑菌をしっかりケアしてほしい。,Please treat both pollen and bacteria on this sweatshirt.
+care,pollen_sanitize_deodorize,Tシャツの雑菌臭を落として。,Remove bacterial smell from my T-shirt.
+care,pollen_sanitize_deodorize,スーツ上着の花粉とニオイ対策をお願い。,Pollen and odor care for my suit jacket.
+care,pollen_sanitize_deodorize,帽子の臭いと花粉対策もお願いしたい。,Take care of pollen and odor on my hat too.
+care,pollen_sanitize_deodorize,長袖シャツの花粉をサッと落として除菌もお願い。,Remove pollen from my long-sleeve shirt and disinfect it.
+care,pollen_sanitize_deodorize,花粉の残らない清潔仕上げモードでお願い。,Use a clean-finish mode that leaves no pollen.
+care,pollen_sanitize_deodorize,花粉が付着した部分を重点的にケアしてほしい。,Focus on areas where pollen sticks.
+care,pollen_sanitize_deodorize,ズボンの花粉・除菌をお願い。,Pollen and disinfecting for these pants.
+care,pollen_sanitize_deodorize,外出着を全部まるっと除菌＆花粉対策で。,Refresh all outdoor clothes with pollen and germ care.
+care,pollen_sanitize_deodorize,カーディガンの花粉を飛ばして。,Blow off pollen from my cardigan.
+care,pollen_sanitize_deodorize,フリースのニオイが気になるから、消臭お願い。,"My fleece smells, please deodorize it."
+care,pollen_sanitize_deodorize,花粉が残らないコースで仕上げて。,Finish with a pollen-free course.
+care,pollen_sanitize_deodorize,服についた花粉をしっかり落としてほしい。,Please remove all pollen from the clothes.
+care,restore_water_repellency,撥水効果を戻したいんだけど。,I want to restore the water repellency.
+care,restore_water_repellency,水を弾くようにお願い。,Make it repel water again.
+care,restore_water_repellency,防水加工を復活させたい。,I want to revive the waterproof coating.
+care,restore_water_repellency,撥水仕上げで洗ってほしい。,Please use water-repellent finish.
+care,restore_water_repellency,雨具を撥水仕上げにしたい。,Make rain gear water-repellent.
+care,restore_water_repellency,水弾きを良くしたい。,Improve water repellency.
+care,restore_water_repellency,水を弾くように仕上げてほしい。,Finish it to repel water.
+care,restore_water_repellency,撥水を復活させたい。,Bring back the water-repellent effect.
+care,restore_water_repellency,撥水性が悪いんだよね。,The repellency isn’t great anymore.
+care,restore_water_repellency,防水仕上げでお願い。,Use waterproof finish mode.
+care,restore_water_repellency,撥水コートをかけ直したい。,I want to reapply a water-repellent coat.
+care,restore_water_repellency,雨弾きを復活させて。,Bring back the rain beading.
+care,restore_water_repellency,撥水力アップ仕上げで。,Finish to boost water repellency.
+care,restore_water_repellency,服が水を弾く加工をお願い。,Please apply a treatment so water rolls off.
+care,restore_water_repellency,はっ水強化モードでお願い。,Use the water-repellency boost mode.
+care,restore_water_repellency,防滴性能を戻したいんだ。,I want the drip resistance restored.
+care,restore_water_repellency,撥水の効きを元に戻して。,Bring the repellency back to life.
+care,restore_water_repellency,水がしみ込みにくく仕上げたい。,Finish so water doesn’t soak in easily.
+care,restore_water_repellency,雨具の弾き感を取り戻して。,Restore the beading on my rain gear.
+care,restore_water_repellency,撥水加工を戻す設定で。,Use a setting that renews the coating.
+care,restore_water_repellency,はっ水処理が良くなるようにお願い。,Improve the water-repellent treatment.
+care,restore_water_repellency,防水まではいらないけど水を弾きたい。,"I don’t need full waterproofing, just repel water."
+care,restore_water_repellency,撥水コートを復活させることは出来る？,Can we revive the water-repellent coating?
+care,restore_water_repellency,水をしっかり弾くように出来るかな？,Can you make it really bead water again?
+care,restore_water_repellency,撥水性を長持ちさせたい。,I want the repellency to last longer.
+care,restore_water_repellency,コーティングをしっかりしたい。,"Give it a nice, solid coating."
+care,restore_water_repellency,はっ水仕上げと低温乾燥で進めて。,Go with water-repellent finish plus low-temp dry.
+care,restore_water_repellency,服の撥水が元に戻るようにして。,Get the water repellency back on these clothes.
+care,restore_water_repellency,雨対策重視の仕上げでお願い。,Finish with rain protection in mind.
+care,restore_water_repellency,撥水回復モードでお願い。,Run the water-repellency recovery mode.
+care,restore_water_repellency,レインジャケットの水はじきが落ちてるから復活させて。,Restore the water repellency on my rain jacket.
+care,restore_water_repellency,ウィンドブレーカーの撥水を戻してほしい。,Bring back the water repellency on my windbreaker.
+care,restore_water_repellency,登山用ジャケットの撥水力を回復して。,Recover the water resistance on my hiking jacket.
+care,restore_water_repellency,パーカーの表面が水を弾くように仕上げて。,Make my hoodie’s surface repel water.
+care,restore_water_repellency,スキーウェアの撥水性能を高めてほしい。,Boost the water repellency of my ski wear.
+care,restore_water_repellency,ウェアの生地に水が染みこまないようにして。,Make sure water doesn’t soak into the fabric.
+care,restore_water_repellency,アウターの水濡れ対策をして。,Give my outerwear some water protection.
+care,restore_water_repellency,作業用ジャケットの水はじきを改善して。,Improve the water repellency on my work jacket.
+care,restore_water_repellency,レインコートの撥水力を戻したい。,I want my raincoat’s waterproofing restored.
+care,restore_water_repellency,服の表面に水滴が残るから撥水ケアしてほしい。,Do water-repellent care—the surface is holding droplets.
+care,restore_water_repellency,ウィンドブレーカーに撥水加工お願い。,Apply water-repellent treatment to my windbreaker.
+care,restore_water_repellency,上着が濡れやすいから水を弾くようにしてほしい。,Make my jacket repel water better—it gets wet easily.
+care,restore_water_repellency,帽子の表面の撥水力を上げたい。,Boost the water repellency on my hat’s surface.
+care,restore_water_repellency,ダウンジャケットに水が染み込まないよう対策して。,Prevent water from soaking into my down jacket.
+care,restore_water_repellency,雨具の外側をもう少し弾くように仕上げて。,Make my rain gear repel a bit more water.
+care,restore_water_repellency,ランニング用の上着、雨の浸透防止をしてほしい。,Protect my running jacket from rain soaking through.
+care,restore_water_repellency,レインパンツの水弾きが弱いから強めて。,Strengthen the water beading on my rain pants.
+care,restore_water_repellency,スポーツジャケットのはっ水効果を戻して。,Bring back the water-repellent effect on my sports jacket.
+care,restore_water_repellency,カッパの撥水加工を長持ちするようにお願い。,Make the raincoat’s coating last longer.
+care,restore_water_repellency,防風ジャケットの水はじき性能を戻してほしい。,Restore the water repellency on my wind-proof jacket.
+everyday,none_in_particular,自動でお願い。,Continue with auto mode.
+everyday,none_in_particular,普通の洗いで大丈夫だよ。,Normal wash is fine.
+everyday,none_in_particular,そんなに汚れてないから、普通にお願い。,"It’s not that dirty, so normal is okay."
+everyday,none_in_particular,軽めに洗って。,Wash lightly.
+everyday,none_in_particular,おまかせします。,I’ll leave it to you.
+everyday,none_in_particular,特に気になる汚れはないよ。,There’s no noticeable stain.
+everyday,none_in_particular,普通のコースで十分だと思う。,The normal course should be enough.
+everyday,none_in_particular,軽い汚れだけだから普通でOK。,"It’s just light dirt, so normal is fine."
+everyday,none_in_particular,普通に洗ってくれれば大丈夫。,Washing normally is fine.
+everyday,none_in_particular,普通でいいから洗って。,Wash it on normal.
+everyday,none_in_particular,今日は軽めでお願い。,Go light today.
+everyday,none_in_particular,おまかせで大丈夫だよ。,Auto is fine.
+everyday,none_in_particular,特に指定ないから、いつも通りで。,No special instructions—just the usual.
+everyday,none_in_particular,軽めの洗いでいいかな。,A light wash should be fine.
+everyday,none_in_particular,普通の感じで洗ってほしい。,I’d like a regular wash feel.
+everyday,none_in_particular,自動モードでお願い。,Please use auto mode.
+everyday,none_in_particular,今日は汚れてないから普通でOK。,"They’re not dirty today, so normal’s OK."
+everyday,none_in_particular,普通コースで洗ってくれる？,Can you run the standard course?
+everyday,none_in_particular,おまかせ設定でお願い。,Use the auto setting.
+everyday,none_in_particular,特に汚れてないから軽くでいいよ。,"They aren’t that dirty, keep it light."
+everyday,none_in_particular,標準モードで洗ってもらえる？,Can you wash on standard mode?
+everyday,none_in_particular,軽めの洗いで十分だと思う。,A light wash should be enough.
+everyday,none_in_particular,汚れ少ないから標準コースでお願い。,"Not much dirt, standard course."
+everyday,none_in_particular,自動でいい感じに洗って。,Just wash automatically so it comes out nice.
+everyday,none_in_particular,普通のコースでお願いできる？,Normal course.
+everyday,none_in_particular,今日は普通でお願いね。,Let’s keep it normal today.
+everyday,none_in_particular,洗濯機におまかせするよ。,I’ll leave it to the machine.
+everyday,none_in_particular,標準設定で洗って。,Wash on the default settings.
+everyday,none_in_particular,こだわりないからおまかせでいいよ。,I’m not picky—just go with whatever you think is best.
+everyday,none_in_particular,Tシャツを適当にいい感じにお願い。,"Give the T-shirt a quick, nice wash however you see fit."
+everyday,none_in_particular,普通の設定でサッと頼むね。,A quick wash on the normal setting.
+everyday,none_in_particular,下着の洗い方は任せるからお願い。,I’ll leave how to wash the underwear up to you.
+everyday,none_in_particular,今日はお任せ仕上げでOK。,I’m fine with a leave-it-to-you finish today.
+everyday,none_in_particular,普段着は標準でいいからスタートして。,Everyday clothes are fine with standard course
+everyday,none_in_particular,いつも通りな感じで下着を洗ってもらえる？,Can you wash the underwear like you usually do?
+everyday,none_in_particular,普通仕上がりで十分だよ。,A regular finish is plenty.
+everyday,none_in_particular,自動でやってもらって大丈夫。,Auto is fine with me.
+everyday,none_in_particular,推奨設定でお願いできる？,Can you use the recommended setting?
+everyday,none_in_particular,任せるのでそのまま進めて。,I’ll leave it to you
+everyday,none_in_particular,こだわりないので普通でお願い。,No preferences—just keep it normal.
+everyday,none_in_particular,おまかせで無難に洗ってね。,Play it safe and wash on auto.
+everyday,none_in_particular,洗濯機が思うベストでお願い。,Do whatever the machine thinks is best.
+everyday,none_in_particular,特に希望ないから標準でお願い。,"No specific requests, standard is fine."
+everyday,none_in_particular,普段着はいつも通りでOK。,Everyday clothes are OK as usual.
+everyday,none_in_particular,軽め設定でサクッと洗って。,Go light and quick.
+everyday,none_in_particular,自動選択したコースでお願い。,Use whatever course the machine selects.
+everyday,none_in_particular,汚れ軽めだから任せるよ。,"It’s only lightly soiled, so I’ll leave it to you."
+everyday,sebum_sweat,汗っぽいからしっかり洗って。,"It’s sweaty, so please wash thoroughly."
+everyday,sebum_sweat,皮脂汚れを落としたいんだ。,I want to remove sebum stains.
+everyday,sebum_sweat,汗を吸ったからスッキリさせてほしい。,"It absorbed sweat, so I want it fresh."
+everyday,sebum_sweat,皮脂と汗のニオイを落として。,Please remove the smell of sweat and sebum.
+everyday,sebum_sweat,運動後の服だから強めにお願い。,"It’s workout clothes, so wash strongly."
+everyday,sebum_sweat,汗っぽい感じを取ってほしいな。,I want to get rid of that sweaty feeling.
+everyday,sebum_sweat,皮脂汚れ中心でしっかり頼む。,Focus on removing sebum.
+everyday,sebum_sweat,ちょっとベタつく感じ、スッキリしたい。,It feels a bit sticky—I want it clean.
+everyday,sebum_sweat,汗と皮脂を一気に落としたい。,I want to wash away sweat and sebum all at once.
+everyday,sebum_sweat,しっかりめに洗浄お願いね。,"Don’t shorten the time, wash thoroughly."
+everyday,sebum_sweat,汗が気になるからしっかりめでお願い。,Go a bit stronger for sweat.
+everyday,sebum_sweat,皮脂汚れをちゃんと落としたいんだ。,I want to make sure the skin oils come out.
+everyday,sebum_sweat,運動後の服だから強めでお願い。,These are post-workout clothes—go heavy.
+everyday,sebum_sweat,汗の臭いが取れるように洗って。,Wash so the sweat odor comes out.
+everyday,sebum_sweat,汗汚れを中心に落としてほしい。,Focus on the sweat stains.
+everyday,sebum_sweat,スッキリ洗いたい気分。,"I want a really fresh, clean finish."
+everyday,sebum_sweat,皮脂と汗をまとめてきれいにして。,Clean out both oil and sweat.
+everyday,sebum_sweat,汗の臭いがなくなるくらいにしっかり洗って。,Wash thoroughly until the sweat smell is gone.
+everyday,sebum_sweat,強めのコースでお願い。,Use a stronger course.
+everyday,sebum_sweat,汗を吸った服だからしっかりお願い。,They soaked up sweat.
+everyday,sebum_sweat,ベタつきを取ってほしいんだ。,Please get rid of the sticky feel.
+everyday,sebum_sweat,しっかり汚れを落としたい。,I want the grime fully out.
+everyday,sebum_sweat,汗っぽいから普通より強めでお願い。,I’m sweaty stronger than normal.
+everyday,sebum_sweat,皮脂汚れ重視で洗って。,Prioritize removing skin oils.
+everyday,sebum_sweat,汗をすっきり取るモードにして。,Set it to the sweat-removal mode.
+everyday,sebum_sweat,スポーツ後だからしっかり洗って。,"Post-workout stuff, wash it well."
+everyday,sebum_sweat,皮脂と汗のニオイを全部落として。,Remove all the sweat and oil odors.
+everyday,sebum_sweat,汗取り重視でお願い。,Prioritize sweat removal.
+everyday,sebum_sweat,汗で湿った服をすっきり洗って。,Wash these sweaty clothes nice and fresh.
+everyday,sebum_sweat,皮脂も臭いも全部落としたい。,I want both the oil and odor gone.
+everyday,sebum_sweat,Tシャツの汗じみをしっかり落としてほしい。,Please get the sweat stains out of the T-shirt.
+everyday,sebum_sweat,下着の皮脂汚れを念入りにお願い。,Go after the sebum on the underwear.
+everyday,sebum_sweat,襟元の汗臭を重点的にケアして。,Focus on the sweat smell around the collar.
+everyday,sebum_sweat,インナーシャツの汗っぽさをスッキリ洗って。,Wash the clammy feel out of my undershirt.
+everyday,sebum_sweat,靴下の蒸れ臭もちゃんと落としてほしい。,Please remove the damp sock odor too.
+everyday,sebum_sweat,シャツの皮脂と汗をまとめて落として。,Take off both the sebum and sweat from the shirt.
+everyday,sebum_sweat,タンクトップのベタつき感を取ってほしい。,Get rid of that sticky feel on the tank top.
+everyday,sebum_sweat,下着に染みた皮脂をしっかり洗浄してほしい。,Deep-clean the sebum soaked into the underwear.
+everyday,sebum_sweat,背中の汗が酷いシャツを強めでお願い。,My back-sweat shirt needs a stronger wash.
+everyday,sebum_sweat,脇汗が残ったTシャツを徹底洗いで。,Do a thorough wash on the T-shirt with leftover armpit sweat.
+everyday,sebum_sweat,ジーンズの汗臭を根こそぎ落として。,Completely remove the sweat smell from my jeans.
+everyday,sebum_sweat,肌着の皮脂汚れを中心に落としたい。,Prioritize removing sebum on my undershirt.
+everyday,sebum_sweat,Tシャツの汗のニオイを飛ばしたい。,I want the T-shirt’s sweat odor gone.
+everyday,sebum_sweat,ソックスの足臭もしっかり取ってね。,Please get rid of the foot smell in the socks too.
+everyday,sebum_sweat,デニムのベタつく皮脂汚れをきれいにして。,Clean the greasy sebum on the denim.
+everyday,sebum_sweat,襟周りが汗で黄ばみ気味だから強め洗いで。,"The collar’s yellowing from sweat, wash it stronger."
+everyday,sebum_sweat,シャツの汗ジミをゼロに近づけたい。,I want the shirt’s sweat stains nearly gone.
+everyday,sebum_sweat,部屋着Tシャツの汗臭をスッと落として。,Quickly clear the sweat smell from my lounge T-shirt.
+everyday,sebum_sweat,インナーの皮脂汚れを優先してきれいにして。,Prioritize cleaning the sebum on my base layer.
+everyday,sebum_sweat,Tシャツの汗をきれいに落としたい。,I want the sweat out of the T-shirt completely.
+everyday,yellowing,黄ばみが気になるから丁寧に洗って。,"I’m worried about yellowing, so wash carefully."
+everyday,yellowing,襟や袖の黄ばみを落としたいんだ。,I want to remove yellow stains on collars and cuffs.
+everyday,yellowing,白い服の黄ばみを取りたい。,I want to get rid of yellowing on white clothes.
+everyday,yellowing,ちょっと古い黄ばみを落としてみて。,Try removing the old yellow stains.
+everyday,yellowing,黄ばみケアしてほしいな。,Please do yellowing care.
+everyday,yellowing,くすんだ白さを戻したい。,I want to bring back the brightness of white.
+everyday,yellowing,黄ばんできたからしっかり漂白系でお願い。,"It’s getting yellowed, so use a bleaching course,."
+everyday,yellowing,黄ばみ除去に向いた洗い方でお願い。,Wash with a method suited for yellow removal.
+everyday,yellowing,黄ばみをスッキリさせたい。,I want to clear away the yellowing.
+everyday,yellowing,黄ばみをしっかり落としたい。,I want to get the yellowing out.
+everyday,yellowing,襟や袖の黄ばみケアお願い。,Target the collar and cuff yellowing.
+everyday,yellowing,白シャツをもう少し明るくしたい。,I’d like my white shirt a bit brighter.
+everyday,yellowing,黄ばみ除去モードでお願い。,Use the yellowing-removal mode.
+everyday,yellowing,黄ばみを取って清潔にしたい。,Get the yellowing out so it’s clean.
+everyday,yellowing,くすんだ感じを落として。,"Remove that dull, dingy look."
+everyday,yellowing,黄ばみを目立たなくしたい。,Make the yellowing less noticeable.
+everyday,yellowing,白物をきれいに仕上げたい。,Finish my whites nice and clean.
+everyday,yellowing,黄ばみが取れるように強めでお願い。,Go a bit stronger so yellowing lifts.
+everyday,yellowing,シャツの黄ばみを消したい。,I want the shirt’s yellowing gone.
+everyday,yellowing,黄ばみケアコースにしてもらえる？,Can you switch to the yellowing-care course?
+everyday,yellowing,ちょっと古い黄ばみを落としたい。,I want to clear some older yellowing.
+everyday,yellowing,黄ばんだ服をすっきり洗いたい。,Wash yellowed clothes nice and fresh.
+everyday,yellowing,白い服の輝きを戻したい。,Bring the sparkle back to my whites.
+everyday,yellowing,黄ばみを漂白っぽく落として。,Use a bleach-like yellowing removal.
+everyday,yellowing,白っぽく戻る感じで洗って。,Wash so they look whiter again.
+everyday,yellowing,黄ばみ取り重視でお願い。,Prioritize yellowing removal.
+everyday,yellowing,白物をキレイに漂白したい。,I want my whites properly brightened.
+everyday,yellowing,黄ばみが落ちるコースでお願い。,Use the course that tackles yellowing.
+everyday,yellowing,Tシャツの襟元の黄ばみをしっかり落としてほしい。,Please remove the yellowing on the T-shirt’s collar.
+everyday,yellowing,ワイシャツの袖口に出てる黄ばみケアお願い。,Care for the yellowing on the dress-shirt cuffs.
+everyday,yellowing,肌着の黄ばんだところを集中的に洗って。,Focus on the yellowed spots on my undershirts.
+everyday,yellowing,インナーシャツのくすみを少し明るくして。,Brighten up the dullness on my undershirt a bit.
+everyday,yellowing,靴下の黄ばみを取って清潔にしたい。,I want my socks de-yellowed and fresh.
+everyday,yellowing,シャツの古い黄ばみを丁寧に落としてほしい。,Gently remove the old yellowing on my shirt.
+everyday,yellowing,下着の黄ばみを薄くして綺麗に仕上げたい。,Lighten the yellowing on my underwear for a clean finish.
+everyday,yellowing,襟汚れが黄ばみ始めたシャツをしっかりケアして。,Take good care of the shirt that’s starting to yellow at the collar.
+everyday,yellowing,ワイシャツの黄ばんだ部分を集中特化でお願い。,Target the yellowed parts of my dress shirt.
+everyday,yellowing,襟周りの黄ばみ対策を優先して洗ってほしい。,Prioritize washing to fix collar yellowing.
+everyday,yellowing,パンツのくすみが取れる洗い方にして。,Use a wash that clears the dullness on my pants.
+everyday,yellowing,下着の黄ばみ跡、できるだけ綺麗に落として。,Please remove as much of the underwear’s yellow stains as possible.
+everyday,yellowing,インナーの色あせ黄ばみを戻したい。,I want to reverse the faded yellowing on my base layers.
+everyday,yellowing,ソックスの黄ばみをしっかりケアお願い。,Please address the yellowing on my socks.
+everyday,yellowing,シャツの黄ばみを特に落として。,Prioritize removing yellowing on the shirt.
+everyday,yellowing,肌着のくすみを落とす設定で洗ってほしい。,Use a setting that clears dullness on my undershirts.
+everyday,yellowing,シャツの袖周りの黄ばみを落としたい。,I want the yellowing around the shirt sleeves gone.
+everyday,yellowing,Tシャツの黄ばみ、なるべく綺麗にお願い。,Do your best to clear the T-shirt’s yellowing.
+everyday,yellowing,靴下のつま先の黄ばみもちゃんと落として。,Please get the yellowing off the toes of my socks too.
+everyday,yellowing,下着の黄ばみ部分、きれいにしてほしい。,Clean the yellowed parts of my underwear.
+everyday,mud_food_spills_strong_odor,泥汚れがひどいのできれいにして。,"It's super muddy, please make it clean! "
+everyday,mud_food_spills_strong_odor,食べ物のシミが気になるので落として。,"I'm worried about food stains, so please remove them."
+everyday,mud_food_spills_strong_odor,臭いがひどく付いちゃってるので、落とせるかな？,"It smells really bad, can you get rid of the odor?"
+everyday,mud_food_spills_strong_odor,食べこぼしの汚れを特にケアしてほしい。,Please pay special attention to the food spills.
+everyday,mud_food_spills_strong_odor,食べ物のシミを取りたい。,I want the food stains gone.
+everyday,mud_food_spills_strong_odor,泥の汚れが特に気になるんだ。,The mud stains are really what I'm worried about.
+everyday,mud_food_spills_strong_odor,臭い取りを重点的にお願い。,Focus on the odor removal.
+everyday,mud_food_spills_strong_odor,しみ抜きを特にお願いね。,A good stain removal cycle 
+everyday,mud_food_spills_strong_odor,服が臭いを取ってほしい。,I need you to take the smell out of this.
+everyday,mud_food_spills_strong_odor,泥汚れを落としてほしいな。,I'd like to get rid of this mud stain.
+everyday,mud_food_spills_strong_odor,泥汚れがついちゃったから落として。,"Got muddy, please get it out."
+everyday,mud_food_spills_strong_odor,コーヒーのシミを取ってほしい。,I need the coffee stain gone.
+everyday,mud_food_spills_strong_odor,汚れが強いからしっかり洗って。,"It’s heavily soiled, wash thoroughly."
+everyday,mud_food_spills_strong_odor,子どもの泥汚れを落としたい。,Please remove my kid’s mud stains.
+everyday,mud_food_spills_strong_odor,食べ物のシミを重点的にお願い。,Focus on the food stains.
+everyday,mud_food_spills_strong_odor,汚れのひどい服をきれいにしたい。,I want these badly stained clothes clean.
+everyday,mud_food_spills_strong_odor,臭いが残ってるから取ってほしい。,"There’s lingering odor, remove it."
+everyday,mud_food_spills_strong_odor,泥と臭いを両方落として。,Get out both mud and smell.
+everyday,mud_food_spills_strong_odor,カレーのシミを落としたいんだ。,I want the curry stain out.
+everyday,mud_food_spills_strong_odor,ソースの汚れが気になるからお願い。,"There’s sauce on it, please handle that."
+everyday,mud_food_spills_strong_odor,泥はねの服を洗いたい。,I want to wash mud-splattered clothes.
+everyday,mud_food_spills_strong_odor,汗と泥の臭いを取って。,Remove sweat and mud odor.
+everyday,mud_food_spills_strong_odor,食べ物のニオイを消したい。,Please eliminate food smells.
+everyday,mud_food_spills_strong_odor,泥まみれになった服をきれいにして。,"These got covered in mud, make them clean."
+everyday,mud_food_spills_strong_odor,食べ汚れを落とすコースにして。,Use the course for food stains.
+everyday,mud_food_spills_strong_odor,油汚れも落としたいんだ。,I also want the grease stains out.
+everyday,mud_food_spills_strong_odor,臭いも汚れも両方すっきりお願い。,Get both the odor and dirt out.
+everyday,mud_food_spills_strong_odor,泥の跡が残らないように洗って。,Wash so no mud marks remain.
+everyday,mud_food_spills_strong_odor,シミ抜き効果高めでお願い。,Go with a high stain-removal setting.
+everyday,mud_food_spills_strong_odor,食べこぼしと泥汚れ両方落として。,Remove both food spills and mud.
+everyday,mud_food_spills_strong_odor,Tシャツに付いたケチャップのシミをしっかり落として。,Please remove the ketchup stain on my T-shirt.
+everyday,mud_food_spills_strong_odor,ズボンの泥はねが目立つから念入りにお願い。,"My pants have noticeable mud splatter, clean thoroughly."
+everyday,mud_food_spills_strong_odor,子どものシャツに付いたカレーのニオイを取ってほしい。,Get the curry smell out of my kid’s shirt.
+everyday,mud_food_spills_strong_odor,白いインナーに付いたコーヒー染みを消したいんだ。,I want the coffee stain gone from my white undershirt.
+everyday,mud_food_spills_strong_odor,パンツに跳ねた泥汚れを集中的に落として。,Focus on the mud splashes on my pants.
+everyday,mud_food_spills_strong_odor,靴下に染み込んだ泥臭をしっかり洗って。,Please wash out the mud odor soaked into my socks.
+everyday,mud_food_spills_strong_odor,焼き肉の匂いがついた上着を消臭強めでお願い。,"My jacket picked up BBQ smell, go heavy on deodorizing."
+everyday,mud_food_spills_strong_odor,スパイスっぽい臭いが残ってるTシャツをケアして。,Care for the spice-like smell that’s stuck in the T-shirt.
+everyday,mud_food_spills_strong_odor,カレーうどんの跳ね汚れをきれいにしたい。,I want the curry udon splatter cleaned off.
+everyday,mud_food_spills_strong_odor,ジュースがこぼれた服のシミを落として。,Remove the juice stain from my clothes.
+everyday,mud_food_spills_strong_odor,BBQの煙の匂いをしっかり取りたい。,Please get rid of the BBQ smoke smell.
+everyday,mud_food_spills_strong_odor,カレーの油染みがあるTシャツを丁寧に洗って。,Gently wash the T-shirt with curry oil stains.
+everyday,mud_food_spills_strong_odor,泥が飛び散ったズボンを徹底洗浄でお願い。,Deep-clean the mud-splattered pants.
+everyday,mud_food_spills_strong_odor,ソースの染み込みがある服を強めで洗ってほしい。,Wash the sauce-soaked clothes on a stronger cycle.
+everyday,mud_food_spills_strong_odor,食べこぼしで黄ばんだシャツを綺麗にお願い。,Please clean the food-stained yellowed shirt.
+everyday,mud_food_spills_strong_odor,泥が付いたパンツをしっかり洗って。,Wash the muddy pants thoroughly.
+everyday,mud_food_spills_strong_odor,焼き魚の匂いが移った服をきれいにお願い。,Please clean the clothes that smell like grilled fish.
+everyday,mud_food_spills_strong_odor,泥汚れをしっかり洗ってほしい。,Please wash out the mud stains thoroughly.
+everyday,mud_food_spills_strong_odor,泥まみれの靴下を汚れ重視でケアして。,Give the mud-caked socks an intensive clean.
+everyday,mud_food_spills_strong_odor,食べ物の油っぽい匂いが残った服をしっかり洗って。,Thoroughly wash clothes that still have greasy food smells.
+everyday,preferred_night,夜だから静かに洗いたいんだけど。,I want to wash quietly since it's nighttime.
+everyday,preferred_night,音を抑えて洗えるモードにしてほしい。,Please set it to a mode that reduces noise.
+everyday,preferred_night,静かめの夜間モードでお願い。,Use the quiet night mode.
+everyday,preferred_night,夜でも動かせる静音コースにして。,Set it to the silent course that can run at night.
+everyday,preferred_night,隣に迷惑かけないように静かに洗って。,Wash quietly so I don't disturb the neighbors.
+everyday,preferred_night,深夜でも静かなモード使える？,Can I use a quiet mode even late at night?
+everyday,preferred_night,夜間でも音が小さい設定にして。,Set it to a low-noise setting for nighttime.
+everyday,preferred_night,静かに回るコースでお願い。,Use the quiet spinning course.
+everyday,preferred_night,夜用の静音モードにしてもらえる？,Can you set it to night-silent mode?
+everyday,preferred_night,深夜の洗濯だから静かめでお願い。,"It’s late, so please wash quietly."
+everyday,preferred_night,夜だから静かめでお願い。,"It’s late, keep it quiet,."
+everyday,preferred_night,音が静かなモードにしてほしい。,Set it to a low-noise mode.
+everyday,preferred_night,夜用のコースで洗って。,Use the night course.
+everyday,preferred_night,深夜でも使える静音モードお願い。,Quiet mode for late-night use.
+everyday,preferred_night,できるだけ音を抑えて洗って。,Wash as quietly as possible.
+everyday,preferred_night,夜中でも動かせる静かな設定にして。,Set a quiet profile for overnight.
+everyday,preferred_night,音を小さくして洗いたいんだ。,I want a low-noise wash.
+everyday,preferred_night,夜でも静かに動くモードある？,Is there a mode that stays quiet at night?
+everyday,preferred_night,隣に響かないように静音でお願い。,"Quiet, so it doesn’t bother the neighbors."
+everyday,preferred_night,夜モードでお願い。,Night mode.
+everyday,preferred_night,静かな運転にしてもらえる？,Can you switch to quiet operation?
+everyday,preferred_night,夜だから静かに洗ってほしい。,"It’s night, wash quietly."
+everyday,preferred_night,静音設定で洗いたい。,I want to wash in silent mode.
+everyday,preferred_night,夜間モードにして。,Turn on night mode.
+everyday,preferred_night,夜でも大丈夫なコースにしてほしい。,Use a course that’s okay late at night.
+everyday,preferred_night,できるだけ静かに動かして。,Run it as quietly as you can.
+everyday,preferred_night,深夜でも安心して洗える設定にして。,A setting that’s safe even past midnight.
+everyday,preferred_night,音が気にならない洗い方にして。,Go with a method that keeps noise down.
+everyday,preferred_night,静音タイプのコースを使って。,Use the quiet-type course.
+everyday,preferred_night,夜用静かめモードでお願い。,Night-friendly quiet mode.
+everyday,preferred_night,深夜だから音控えめで回してほしい。,"It’s late, so please run it quietly."
+everyday,preferred_night,なるべく静かに洗える設定にして。,Set it to the quietest wash you can.
+everyday,preferred_night,ゴトゴト言わないやさしい運転でお願い。,Run a gentle cycle that doesn’t clunk around.
+everyday,preferred_night,音が響かないように洗ってほしいな。,Please wash in a way that doesn’t carry sound.
+everyday,preferred_night,振動少なめのモードにして。,Use a low-vibration mode.
+everyday,preferred_night,近所迷惑にならないよう静音重視で。,Keep it quiet so it won’t bother the neighbors.
+everyday,preferred_night,静かにすすげるコースでお願い。,Use a course that rinses quietly.
+everyday,preferred_night,できれば音と振動を抑えて洗って。,"If you can, reduce noise and vibration."
+everyday,preferred_night,動作音があまりしないような設定でお願い。,Set it so there’s minimal operating noise.
+everyday,preferred_night,深夜だから控えめに洗って。,"It’s late at night, so go easy."
+everyday,preferred_night,洗濯音を抑えるコースにして。,Use a cycle that keeps the wash noise down.
+everyday,preferred_night,夜中でも安心して回せる設定にして。,Give me a setting that’s safe to run overnight.
+everyday,preferred_night,動作音が静かなモードで洗ってほしい。,Wash on a low-noise mode.
+everyday,preferred_night,なるべく優しい回転数でお願い。,Keep the spin as gentle as possible.
+everyday,preferred_night,音が漏れにくいモードで洗って。,Use a mode that doesn’t leak much noise.
+everyday,preferred_night,静かに回るように制御してほしい。,Control it so it runs quietly.
+everyday,preferred_night,低騒音モードにしてもらえる？,Can you switch to low-noise mode?
+everyday,preferred_night,ガタガタ大きな音がしない洗い方でお願い。,Use a wash that won’t make loud rattling sounds.
+everyday,preferred_night,音が気にならない静かさで洗ってね。,Wash at a noise level that’s barely noticeable.
+everyday,preferred_night,とにかく静けさ最優先で洗ってほしい。,Silence first—keep it as quiet as possible.
+everyday,preferred_energy,電気代を抑えて洗いたいんだけど。,I want to save electricity while washing.
+everyday,preferred_energy,省エネモードにしてもらえる？,Can you set it to energy-saving mode?
+everyday,preferred_energy,エコ洗いでお願い。,Eco wash.
+everyday,preferred_energy,消費電力を少なくして洗いたい。,I want to use less power for this wash.
+everyday,preferred_energy,節電タイプのコースにして。,Use the power-saving course.
+everyday,preferred_energy,環境に優しいエコ洗いモードでお願い。,Please wash in eco-friendly mode.
+everyday,preferred_energy,省電力にしてほしい。,Please lower the power usage.
+everyday,preferred_energy,エコモードでゆっくり洗って。,Wash slowly in eco mode.
+everyday,preferred_energy,できるだけ省エネで洗いたい。,I’d like to wash as efficiently as possible.
+everyday,preferred_energy,電気をあまり使わないコースにして。,Use the course that doesn’t use much electricity.
+everyday,preferred_energy,できるだけエコに洗いたい。,I want to wash as eco as possible.
+everyday,preferred_energy,電気を節約したいんだ。,I’m trying to save electricity.
+everyday,preferred_energy,エココースでお願い。,Eco course.
+everyday,preferred_energy,省電力モードで洗ってほしい。,Wash in power-saving mode.
+everyday,preferred_energy,環境に優しいモードにして。,Use an environmentally friendly mode.
+everyday,preferred_energy,エコ洗いで大丈夫だよ。,Eco wash is fine.
+everyday,preferred_energy,電気代がかからないようにお願い。,Keep the power bill low.
+everyday,preferred_energy,節電コースでお願い。,Energy-saving course.
+everyday,preferred_energy,エコ重視で洗ってもらえる？,Can you wash with eco as the priority?
+everyday,preferred_energy,省エネモードに切り替えて。,Switch to the energy-saver mode.
+everyday,preferred_energy,できるだけ省エネで進めて。,Proceed as energy efficient as possible.
+everyday,preferred_energy,ゆっくりめでいいからエコでお願い。,"It can take longer, just keep it eco."
+everyday,preferred_energy,省エネ重視のコースにして。,Use an energy-saving course.
+everyday,preferred_energy,電気をあまり使わない設定でお願い。,Set it to use less power.
+everyday,preferred_energy,エコ設定で洗って。,Wash on the eco setting.
+everyday,preferred_energy,電力控えめモードにしてほしい。,I want low-power mode.
+everyday,preferred_energy,エコ運転お願い。,Run it in eco operation.
+everyday,preferred_energy,節約モードで洗いたい。,I want to wash in savings mode.
+everyday,preferred_energy,エコでやさしく洗って。,Wash gently on eco.
+everyday,preferred_energy,電気消費を抑え気味でお願いしたい。,I’d like to keep power use down.
+everyday,preferred_energy,省エネ優先の運転にしてほしいな。,Run it with energy saving in mind.
+everyday,preferred_energy,電力控えめ設定でゆっくり洗って。,Low-power setting with an easy wash.
+everyday,preferred_energy,電気代を節約したいな。,I want to save on the electric bill.
+everyday,preferred_energy,電気をなるべく使わない感じでお願い。,Use as little electricity as possible.
+everyday,preferred_energy,エコ寄りのコースで洗ってほしい。,Wash on an eco-leaning course.
+everyday,preferred_energy,省エネ運転でもOKだよ。,Energy-saving mode works for me.
+everyday,preferred_energy,低電力で洗える設定でお願い。,Use a setting that washes on low power.
+everyday,preferred_energy,電気代節約しながら洗ってほしい。,Please wash while helping save on electricity.
+everyday,preferred_energy,少ない電力でしっかり洗って。,Wash well with minimal power.
+everyday,preferred_energy,電力をセーブする運転モードでお願い。,Use a mode that conserves electricity.
+everyday,preferred_energy,環境にやさしい洗い方でお願いしたい。,I’d like an environmentally friendly wash.
+everyday,preferred_energy,エコ運転のコースだと嬉しい。,Eco cycle would be great.
+everyday,preferred_energy,効率よく省エネで洗濯してほしい。,Wash efficiently and save energy.
+everyday,preferred_energy,電力を節約しつつ丁寧に洗って。,Save power but still wash carefully.
+everyday,preferred_energy,電気の使用量を抑えるコースでお願い。,Pick a course that keeps power usage low.
+everyday,preferred_energy,省エネ優先で洗濯機に任せるよ。,I’ll let the machine handle it with energy saving prioritized.
+everyday,preferred_energy,環境にやさしい設定でお願いしたい。,Please use an eco-friendly setting.
+everyday,preferred_energy,使用電力が少ないプログラムでお願い。,Use a program with low power usage.
+everyday,preferred_energy,電力消費の少ない運転で洗ってほしい。,Run a cycle that consumes as little power as possible.
+everyday,preferred_powerful,しっかりした水流で洗いたいんだけど。,I want to wash with a strong water flow.
+everyday,preferred_powerful,強めの水流で汚れを落としたい。,I want to remove stains with powerful water flow.
+everyday,preferred_powerful,パワフルモードにして。,Set it to powerful mode.
+everyday,preferred_powerful,汚れをガッツリ落とす感じでお願い。,Please wash thoroughly to remove dirt.
+everyday,preferred_powerful,水流を強くして洗ってほしい。,Use stronger water flow for washing.
+everyday,preferred_powerful,泥汚れに効くパワフルコースでお願い。,Please use the powerful course for mud stains.
+everyday,preferred_powerful,強力洗いモードにしてもらえる？,Can you set it to strong wash mode?
+everyday,preferred_powerful,水を多めに使ってしっかり洗いたい。,I want to wash thoroughly with more water.
+everyday,preferred_powerful,水流の勢いを上げて洗って。,Increase the water pressure for washing.
+everyday,preferred_powerful,パワー重視の洗い方でお願い。,Please wash with maximum power.
+everyday,preferred_powerful,強めの洗い方でお願い。,Go with a stronger wash.
+everyday,preferred_powerful,しっかり水流をかけて洗って。,"Use a firm, high-flow wash."
+everyday,preferred_powerful,パワフルに動かしてほしい。,Run it powerful.
+everyday,preferred_powerful,頑固な汚れを落とす感じでお願い。,Wash to tackle stubborn stains.
+everyday,preferred_powerful,力強く洗ってほしい。,"I want a strong, forceful wash."
+everyday,preferred_powerful,強洗モードにしてもらえる？,Can you switch to the heavy-wash mode?
+everyday,preferred_powerful,水を多めに使って洗いたい。,Use more water for this wash.
+everyday,preferred_powerful,パワー重視でお願い。,Prioritize power.
+everyday,preferred_powerful,しつこい汚れを取るモードでお願い。,Use the mode that removes persistent grime.
+everyday,preferred_powerful,しっかり洗える強力コースにして。,Switch to a high-power course.
+everyday,preferred_powerful,水流を強めて洗ってほしい。,Increase the water flow and wash.
+everyday,preferred_powerful,強めの設定でお願い。,Stronger settings.
+everyday,preferred_powerful,パワフルコース起動して。,Start the powerful course.
+everyday,preferred_powerful,汚れをしっかりこすり落とす感じでお願い。,Scrub the dirt off thoroughly.
+everyday,preferred_powerful,強めのモードでしっかり洗って。,Wash strong on the heavy mode.
+everyday,preferred_powerful,汚れをガッツリ落としたい。,I want the tough grime gone.
+everyday,preferred_powerful,パワー洗いモードにして。,Set it to power-wash mode.
+everyday,preferred_powerful,しっかり目に洗浄してほしい。,"Give it a solid, thorough clean."
+everyday,preferred_powerful,水圧高めでお願い。,Higher water pressure.
+everyday,preferred_powerful,強力なコースで洗って。,Run the heavy-duty course.
+everyday,preferred_powerful,Tシャツの頑固な汚れをパワフルに洗ってほしい。,Please power-wash the tough stains on the T-shirt.
+everyday,preferred_powerful,靴下の泥汚れをガッツリ落として。,Scrub the mud out of the socks thoroughly.
+everyday,preferred_powerful,下着の皮脂汚れを強めモードでお願い。,Strong mode for the sebum stains on my underwear.
+everyday,preferred_powerful,作業用シャツをしっかり強力洗いしてほしい。,"Give my work shirt a solid, heavy-duty wash."
+everyday,preferred_powerful,襟汚れが強い服をハイパワーで洗って。,Wash the heavily soiled collars on high power.
+everyday,preferred_powerful,デニムを力強いコースでお願い。,Run the denim on a strong course.
+everyday,preferred_powerful,体操服の汚れを徹底的に落としてほしい。,Get my gym uniform thoroughly clean.
+everyday,preferred_powerful,トレーナーの臭いも強力洗いでケアして。,Use a powerful wash to deal with the sweatshirt odor.
+everyday,preferred_powerful,パンツの泥染みをしっかりよく洗ってほしい。,Please scrub out the muddy stains on my pants well.
+everyday,preferred_powerful,ジーンズをパワフルに洗って。,Wash the jeans powerfully.
+everyday,preferred_powerful,Tシャツをしっかり強力洗いでお願い。,"Give the T-shirt a solid, strong wash."
+everyday,preferred_powerful,白いシャツの頑固汚れを強め洗浄で落として。,Use a stronger wash to remove stubborn stains on my white shirt.
+everyday,preferred_powerful,靴下の黒ずみを水流強めでお願い。,Turn up the water action to clear the sock discoloration.
+everyday,preferred_powerful,汗が染み込んだ肌着をパワフル洗いで。,Use a powerful wash for the sweat-soaked undershirt.
+everyday,preferred_powerful,ワイシャツの汚れを徹底洗浄でお願い。,Deep-clean my dress shirt.
+everyday,preferred_powerful,長袖シャツの汚れを強めにこすり落として。,Scrub the long-sleeve shirt a bit more strongly.
+everyday,preferred_powerful,外遊びで汚れた服をがっつり洗ってほしい。,Please give the outdoor-play clothes a hard wash.
+everyday,preferred_powerful,下着に染み込んだ汚れをパワーで洗って。,Power through the set-in stains on my underwear.
+everyday,preferred_powerful,泥で汚れたズボンをしっかり洗浄してほしい。,Thoroughly wash the mud-stained pants.
+everyday,preferred_powerful,白い靴下のくすみを強力コースでお願い。,Strong course for the dingy white socks.
+whites,sanitize,白い服をきれいめに洗ってほしい。,I want my white clothes washed thoroughly.
+whites,sanitize,白物を、においも菌も除去できるコースでお願い。,I would like a course that can remove odors and bacteria from white items.
+whites,sanitize,白い洗濯物を、衛生的に洗えるコースでお願い。,Please use the washing cycle that will wash white laundry hygienically.
+whites,sanitize,白中心で、普通に洗ってね。,"Mainly white, wash as normal."
+whites,sanitize,白い服をまとめて、いつも通りに洗ってほしい。,I want you to gather up your white clothes and wash them as usual.
+whites,sanitize,白いシャツを、標準コースで洗ってほしい。,I would like my white shirt washed on the standard cycle.
+whites,sanitize,白い洗濯物を、いつものコースで洗ってほしい。,I would like the white laundry to be washed on the usual cycle.
+whites,sanitize,白いシャツなどの白物を洗って。,Wash white clothes such as white shirts.
+whites,sanitize,白物を、少し念入りにきれいになるように洗って。,Wash your whites a little more thoroughly to make sure they're clean.
+whites,sanitize,白物を、きれいになるように除菌しながら洗って。,Wash white clothes while disinfecting them to make them clean.
+whites,sanitize,清潔第一で白いものを洗ってほしい。,"I want you to wash the white items, putting cleanliness first"
+whites,sanitize,白い寝具を清潔に洗ってほしい。,I want the white bedding washed thoroughly.
+whites,sanitize,白いタオルを衛生的に洗ってほしい。,I want white towels to be washed hygienically.
+whites,sanitize,白い寝具を清潔重視で洗って。,Wash your white bedding with an emphasis on cleanliness.
+whites,sanitize,白物衣類を、においをしっかり消して洗ってほしい。,I would like my white clothes washed and odor-free.
+whites,sanitize,白いシーツを、除菌もできるコースで洗ってほしい。,I would like the white sheets to be washed using a cycle that also disinfects.
+whites,sanitize,白物を徹底的に除菌して、真っ白に仕上げて。,Thoroughly disinfect white items to leave them pure white.
+whites,sanitize,汗のにおいや菌が気になるから、白物は除菌コースでお願い。,"I'm worried about sweat odors and germs, so please use the sanitizing cycle for the whites."
+whites,sanitize,白い服の菌をしっかり落として洗って。,Please wash the white clothes thoroughly to remove all the bacteria.
+whites,sanitize,白いタオルは漂白と除菌を兼ねて洗ってほしい。,I want the white towels washed in a way that both bleaches and sanitizes them
+whites,sanitize,この白いYシャツは、除菌と消臭ができるコースでお願い。,Please use the cycle that disinfects and deodorizes for this white dress shirt.
+whites,sanitize,白物だけど、特に除菌とかはしなくていいよ。標準でお願い。,"They're white clothes, but no need for special sanitizing. Just the standard cycle."
+whites,sanitize,色物とは別にして、白物だけ標準コースで洗って。,Please separate them from the colors and just wash the whites on the standard cycle.
+whites,sanitize,この白いTシャツ、普通に洗濯機で洗っちゃって。,Just wash this white T-shirt in the machine normally.
+whites,sanitize,白いものは全部まとめたから、あとは普通に洗っておいて。," I've gathered all the whites, so just wash them normally."
+whites,sanitize,白い靴下を、臭いと汚れがしっかり落ちるように洗って。,Please wash the white socks so that the smell and dirt come out completely.
+whites,sanitize,白いベビー服なので、衛生面を一番に考えて洗ってください。,"These are white baby clothes, so please wash them with hygiene as the top priority."
+whites,sanitize,白いシャツの襟汚れを落としてから、全体を洗って。,"Please spot-clean the collar stains on the white shirts first, and then wash them."
+whites,sanitize,白物全部、漂白剤を使ってスッキリ洗い上げて。,Wash all the white items with bleach to get them really crisp and clean.
+whites,sanitize,白いYシャツは、除菌もしたいけど、生地が傷まないようにお願い。,"I want to sanitize the white dress shirts, but please do it gently so the fabric isn't damaged."
+whites,sanitize,白物はまとめて、お湯でしっかり除菌洗いして。,Please wash all the white items together with hot water to sanitize them thoroughly.
+whites,sanitize,白いワイシャツの菌とニオイを両方ケアして洗ってほしい。,Please wash the white dress shirt for both germs and odor.
+whites,sanitize,白いTシャツを衛生的に仕上げてほしいな。,I’d like the white T-shirt finished hygienically.
+whites,sanitize,白い肌着を除菌重視でしっかり洗って。,Deep-clean the white undershirts with disinfection in mind.
+whites,sanitize,白シャツのニオイ菌をゼロに近づける感じでお願い。,Make the odor-causing germs on the white shirt close to zero.
+whites,sanitize,白いパンツをきれいにしたい。,I want my white underwear nice and clean.
+whites,sanitize,白いシャツを消臭＆除菌で洗ってほしい。,Wash the white shirt with deodorizing and disinfecting.
+whites,sanitize,白いパジャマを清潔仕上げでお願い。,"Give the white pajamas a clean, sanitary finish."
+whites,sanitize,シャツがより白くなるように洗って。,Wash so the shirt comes out whiter.
+whites,sanitize,白いYシャツを除菌しながら汚れも落としてほしい。,Disinfect and clean my white dress shirt.
+whites,sanitize,白物のベビー服、除菌優先で優しく洗って。,"For the white baby clothes, prioritize gentle disinfection."
+whites,sanitize,白いインナーをニオイケア込みで洗浄してほしい。,Please wash the white base layers with odor care included.
+whites,sanitize,白いソックスが汚れているんだ。,My white socks are dirty.
+whites,sanitize,白い肌着の汗の臭い落とすようにお願い。,Please remove the sweat smell from the white undershirt.
+whites,sanitize,白シャツを漂白を頼むね。,Please bleach the white shirt.
+whites,sanitize,白シャツの除菌＆消臭出来るかな？,Can you disinfect and deodorize the white shirt?
+whites,sanitize,白いトップスの臭いが残らないよう洗ってほしい。,Wash the white top so no odor lingers.
+whites,sanitize,白シャツを部屋干し臭が出ないよう除菌ケアして。,Disinfect the white shirt so it won’t get that indoor-dry smell.
+whites,sanitize,白物衣類の細菌やニオイ対策を重点的にお願い。,Focus on bacteria and odor control for the whites.
+whites,sanitize,白靴下の雑菌臭が残らないように洗ってね。,Wash the white socks so no funky smell remains.
+whites,sanitize,白い靴下の除菌と消臭お願い。,Please disinfect and deodorize the white socks.
+dry_only,none,服を濡らさず、乾燥のみを頼みたい。,I would like my clothes to be dried without getting wet.
+dry_only,none,服の湿り気だけを取りたいので、洗わずに乾燥だけしてほしい。,"I just want to remove the moisture from my clothes, so I would like them to just dry without washing."
+dry_only,none,仕上げに乾燥だけお願い。,All you need to do is dry it to finish.
+dry_only,none,湿気を飛ばす程度で、乾燥だけして。,Just dry it to remove the moisture.
+dry_only,none,洗濯はしなくていいから、乾燥だけしてほしい。,"I don't need to wash it, just dry it."
+dry_only,none,洗わずに乾燥だけしてほしい。,I just want it to dry without washing.
+dry_only,none,洗わずに乾燥だけで。,"No washing, just drying."
+dry_only,none,ソフト乾燥だけでお願い。,Please only soft dry.
+dry_only,none,服を傷めないソフト乾燥だけで、洗わずに済ませたい。,I want to avoid washing by simply using soft drying that doesn't damage my clothes.
+dry_only,none,ふんわり仕上げのソフト乾燥で。,Soft drying for a fluffy finish.
+dry_only,none,服を優しく乾かすソフト乾燥コースでお願い。,Please use the soft drying cycle to gently dry your clothes.
+dry_only,none,洗わずに、服をふっくら乾かすソフト乾燥を頼む。,I would like the soft drying option to fluff up my clothes without washing them.
+dry_only,none,縮みにくいソフト乾燥でお願い。,Please dry gently to prevent shrinkage.
+dry_only,none,熱は控えめでソフト乾燥してね。,Use low heat and dry gently.
+dry_only,none,衣類に優しいソフト乾燥で。,Soft drying that is gentle on clothes.
+dry_only,none,洗わずに、服を乾かす工程だけお願い。,Please only dry the clothes without washing them.
+dry_only,none,デリケートな服を、洗わずにソフト乾燥で乾かして。,Dry delicate clothes on a soft cycle without washing them.
+dry_only,none,デリケートな服を、低温のソフト乾燥だけでお願い。,Please only dry delicate clothing on low heat and soft drying.
+dry_only,none,このタオル、まだ湿ってるから乾燥だけかけて。,"This towel is still damp, so just let it dry."
+dry_only,none,雨に濡れたから、洗濯なしで乾燥だけお願い。,"It got wet in the rain, so please just dry it without washing."
+dry_only,none,洗濯はもう終わってるから、乾燥機能だけ使って。,"The wash is already finished, so just use the dry function."
+dry_only,none,このジャケット、洗えないから乾燥だけ軽くかけて湿気を飛ばして。,"I can't wash this jacket, so just lightly dry it to get the dampness out."
+dry_only,none,乾燥機だけ使いたい。,I just want to use the dryer.
+dry_only,none,これはもう洗ってあるから、乾燥だけ追加でお願い。,"This is already washed, so please just run an additional dry cycle."
+dry_only,none,低温で乾燥だけして、シワを伸ばしてほしい。,I want you to just dry this on low heat to get the wrinkles out.
+dry_only,none,洗濯は不要。このまま乾燥機に入れて。,No wash needed. Put this in the dryer as is.
+dry_only,none,セーターだから、縮まないように低温で乾燥して。,"It's a sweater, so dry it on low heat so it doesn't shrink."
+dry_only,none,ジーンズは乾きにくいから、乾燥だけ長めにかけて。,"Jeans are hard to dry, so just run the dryer for a longer time."
+dry_only,none,乾燥だけかけて、生乾きの匂いを取ってほしい。,"I want you to just run the dryer to get rid of the musty, half-dry smell."
+dry_only,none,乾燥だけ強めにかけて、しっかり乾かして。,Just dry it thoroughly on a high setting.
+dry_only,none,これはデリケート素材。洗わずに、送風で乾燥して。,"This is delicate material. Don't wash it, just use the fan/air dry setting."
+dry_only,none,このシャツ、濡れてるだけだから乾燥だけお願い。,"This shirt is just wet, dry only."
+dry_only,none,パーカーを洗わずに乾燥だけで仕上げてほしい。,"Finish the hoodie with drying only, no wash."
+dry_only,none,ジャケットは洗えないから送風乾燥だけにして。,"The jacket can’t be washed, air-dry only."
+dry_only,none,スウェットの湿気だけ飛ばして乾燥仕上げでお願い。,Just blow out the moisture on the sweatshirt and finish with drying.
+dry_only,none,コートを軽く乾燥して、湿り気取ってほしい。,Lightly dry the coat to remove dampness.
+dry_only,none,このワイシャツは乾燥だけしてほしい。,"For this dress shirt, drying only."
+dry_only,none,デニムを乾かしたいんだ。,I want to dry my jeans.
+dry_only,none,靴下、生乾きだから乾燥だけかけてほしい。,These socks are still damp—dry only.
+dry_only,none,帽子の湿気を飛ばすだけでお願い、洗いは無しで。,Just blow off the moisture from the hat—no washing.
+dry_only,none,マフラーは洗わず送風で乾燥だけお願いしたい。,"I’d like to air-dry the scarf only, no wash."
+dry_only,none,ブラウスに乾燥だけ当ててふんわり整えて。,Give the blouse a dry-only pass to fluff it up.
+dry_only,none,セーターに軽く乾燥当てて湿気を取ってほしい。,Lightly dry the sweater to remove moisture.
+dry_only,none,パンツの湿り気を飛ばす程度に乾燥だけお願い。,Just enough drying to take the dampness out of the pants.
+dry_only,none,Tシャツは洗ってあるから乾燥だけ実行して。,The T-shirt’s already washed—run drying only.
+dry_only,none,薄手の上着、乾燥のみでさっと仕上げて。,"Light jacket—finish with dry-only, quick pass."
+dry_only,none,シャツの乾燥だけお願い。,Dry the shirt only.
+dry_only,none,上着の生乾きニオイを乾燥だけで飛ばしてほしい。,Use drying only to clear the damp smell from the jacket.
+dry_only,none,このジャージ、湿ってるから乾燥オンリーで。,These track pants are damp—dry-only.
+dry_only,none,トレーナーを柔らかく乾かす乾燥だけお願い。,Dry the sweatshirt softly—dry-only.
+dry_only,none,洗濯はスキップで、このまま乾燥運転して。,Skip the wash and start a drying cycle as is.
+none,yes,はい、お願いします。,Yes.
+none,yes,はい、続けてください。,"Yes, please continue."
+none,yes,それでお願いします。,Please go with that.
+none,yes,はい、進めてください。,"Yes, please proceed."
+none,yes,それで結構です。,That is fine.
+none,yes,大丈夫です。,That's okay / That's fine.
+none,yes,そのコースでお願いします。,Please use that cycle.
+none,yes,はい、スタートしてください。,"Yes, please start."
+none,yes,はい、そのままお願いします。,"Sure, please continue as is."
+none,yes,その設定で大丈夫です。,Those settings are fine.
+none,yes,続行してください。,Go ahead.
+none,yes,それで進めて大丈夫だよ。,"Yeah, you can continue with that."
+none,yes,OK、そのまま進めて。,"OK, keep going like that."
+none,yes,いいよ、そのコースで続けて。,"Yep, stick with that course."
+none,yes,問題ないから進めちゃって。,"No problem, go ahead."
+none,yes,はい、そのままお願いします。,"Yes, please continue as is."
+none,yes,そのままスタートして。,Start it like that.
+none,yes,それでいっちゃってください。,Run it just like that.
+none,yes,それで動かしてOKです。,It’s fine to run with that.
+none,yes,はい、その設定でスタート。,"Yep, start with those settings."
+none,yes,変更なしでいいです、続けて。,"No changes needed, keep going."
+none,yes,大丈夫、そのままやっちゃって。,"It’s fine, just do it like that."
+none,yes,はい、お願いした通りで進めてください。,"Yes, continue just as requested."
+none,yes,そのまま実行してください。,Run it as is.
+none,yes,それで洗ってもらって構いません。,It’s fine to wash like that.
+none,yes,はい、決定でいいです。,"Yes, that selection is OK."
+none,yes,そのままのコースで。,Keep that course.
+none,yes,はい、やっちゃってください。,"Yeah, go for it."
+none,yes,はい、続けて進めてください。,"Yes, keep it moving."
+none,yes,その設定のまま開始してください。,Start with those settings unchanged.
+none,yes,はい、それで。,"Yep, that works."
+none,yes,それでOK。,That’s OK.
+none,yes,お願いします。,Please continue.
+none,yes,そのままで。,Keep it as is.
+none,yes,それで大丈夫。,That’s fine.
+none,yes,うん、それお願い。,"Yeah, please do that."
+none,yes,OK。,OK.
+none,yes,はい。,Yes.
+none,yes,それでお願い。,Go with that.
+none,yes,それで。,That’ll do.
+none,no,いいえ、違います。,"No, that's incorrect."
+none,no,やめてください。,Please stop.
+none,no,キャンセルして。,Please cancel.
+none,no,選び直したいです。,I want to choose again.
+none,no,設定が違うな。,That’s not the right setting.
+none,no,そのコースじゃありません。,That's not the cycle.
+none,no,別のにしてください。,Please make it a different one.
+none,no,ちょっと待ってください。,Please wait a moment.
+none,no,それじゃないです。,That’s not it.
+none,no,違う設定にしたいです。,I want a different setup.
+none,no,そのモードじゃないです。,That’s not the right mode.
+none,no,ストップしてください。,Stop.
+none,no,ちょっと違うので止めて。,"Wait, that’s wrong—stop."
+none,no,違うのを選びたいです。,I want to pick another option.
+none,no,その設定だと困ります。,Those settings don’t work for me.
+none,no,違うコースに変更したいです。,I’d like to switch to another course.
+none,no,一旦中止してください。,Pause it for a moment.
+none,no,それ、希望と違います。,That’s not what I wanted.
+none,no,これじゃないんだよね。,This isn’t the one.
+none,no,もうちょっと別のやつでお願いします。,Please choose a different one.
+none,no,ちょっと止めたいです。,I’d like to stop it for now.
+none,no,違う選択肢でお願いします。,Use a different option.
+none,no,この設定はやめてください。,Please don’t use that setting.
+none,no,コースを変えたいです。,I want to change the course.
+none,no,思ってた設定じゃないです。,This isn’t what I had in mind.
+none,no,違う内容にしたいな。,I’d like to switch to something else.
+none,no,いや、その設定だと困る。,"No, those settings won’t work."
+none,no,ちょっとキャンセルしたいです。,I’d like to cancel this.
+none,no,このまま続けないでください。,Don’t continue like this.
+none,no,違うプランがいいです。,A different plan would be better.
+none,no,いや、違う。,"No, that’s not it."
+none,no,いいえ。,No.
+none,no,違う。,Nope.
+none,no,やめて。,Stop.
+none,no,違います。,That’s not right.
+none,no,んー、違う。,"Mm, not quite."
+none,no,それは違う。,That’s wrong.
+none,no,違うな。,"Nope, different."
+none,no,やめる。,Cancel.
+none,back,メニュー画面に戻ってくれる？,Can you go back to the menu screen?
+none,back,最初の画面に戻してほしいな。,Take me back to the first screen.
+none,back,一回リセットして最初に戻して。,Reset once and return to the start.
+none,back,ごめん、やり直したいから戻って。,"Sorry, I want to redo—go back."
+none,back,ホームに戻ってお願い。,Go back to the home screen.
+none,back,最初に戻りたい。,I want to return to the beginning.
+none,back,トップメニューに戻して。,Back to the top menu.
+none,back,いったん初期画面まで戻って。,Can you return to the initial screen once?
+none,back,最初の選択画面に戻してほしい。,Bring me back to the first selection screen.
+none,back,最初からやり直したいから戻って。,"I want to start over, so go back."
+none,back,メニューまで戻ってもらえる？,Can you take me back to the menu?
+none,back,いまの操作やめて最初に戻って。,Stop this and return to the start.
+none,back,トップに戻るようにお願い。,Please return to the top.
+none,back,ごめん、最初に戻っちゃって。,"Sorry, jump back to the start."
+none,back,最初から選びたいから戻してね。,I want to reselect from the beginning.
+none,back,メインメニューに戻れる？,Can we go back to the main menu?
+none,back,一旦切り替えて、最初の画面に戻して。,Switch once and return to the first screen.
+none,back,元のメニューに戻ってほしいんだけど。,I’d like you to return to the original menu.
+none,back,この画面から最初に戻れる？,Can we go back to the start from this screen?
+none,back,やっぱり最初のメニューに戻して。,"Actually, take me back to the first menu."
+none,back,最初の選択に戻ってくれる？,Go back to the initial selection.
+none,back,もう一回スタート画面に戻したいな。,I’d like to return to the start screen again.
+none,back,もう一度最初に戻って。,Take me back to the beginning once more.
+none,back,やっぱ違ったから、最初のメニューからやり直したい。,"Actually, that wasn’t right, I want to start over from the main menu"
+none,back,ごめん、トップに戻しちゃっていいよ。,"Sorry, I want to redo from the top."
+none,back,いったんやめて、メイン画面に戻って。,Go back to the main screen for now.
+none,back,ちょっとやり直したいから、戻って。,"I want to try again, so return."
+none,back,ホーム画面に切り替えてくれる？,Switch to the home screen.
+none,back,この選択じゃなかったから、初期画面に戻して。,"This wasn’t the right choice, reset to the initial screen."
+none,back,はじめの画面にジャンプして。,Jump back to the very first screen.

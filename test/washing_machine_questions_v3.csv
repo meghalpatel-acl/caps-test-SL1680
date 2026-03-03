@@ -1,0 +1,551 @@
+primary_intent,type,Question,Question_English
+wash,none,洗濯したいんだけど。,I want to do the laundry.
+wash,none,洗濯モードを設定したいんだけど。,I'd like to set the wash mode.
+wash,none,洗濯を始めたいんだけど、どうすればいい？,I want to start washing—what should I do?
+wash,none,服を洗いたいんで準備して？,Can you get ready to wash my clothes?
+wash,none,洗濯したいんだけど、いい？,"I’d like to do some laundry, is that okay?"
+wash,none,服を洗いたいんだけど、モード選んでくれる？,I want to wash my clothes—can you pick a mode for me?
+wash,none,洗濯しようかな。どうすればいい？,I’m thinking of doing laundry. What should I do?
+wash,none,洗濯をスタートしてもいい？,Can I start the washing cycle now?
+wash,none,洗濯したいんだけど、コースを選んで？,I want to do laundry—please choose a course.
+wash,none,洗濯をスタートしたいんだけど、設定お願い,"I’d like to start washing, please set it up."
+wash,none,洗濯始めたいんだけど、設定お願い。,I want to start a load of laundry — can you set it up for me?
+wash,none,服を洗いたいんだけど、どう設定したらいい？,How should I set it to wash my clothes?
+wash,none,洗濯モードってどれがおすすめ？,Which washing mode do you recommend?
+wash,none,洗濯機動かしてもらえる？,Can you start the washer for me?
+wash,none,今日の分の洗濯お願いします。,Please take care of today’s laundry.
+wash,none,洗濯したいんで準備して。,I want to do laundry — can you get it ready?
+wash,none,洗濯コースを選びたいんだけど、どうすればいい？,How do I choose a washing course?
+wash,none,洗濯開始してもいいかな？,Is it okay if I start the wash now?
+wash,none,洗濯したいんだけど、設定してくれる？,Can you set it up so I can start washing?
+wash,none,服を洗うモードにしてもらえる？,Can you switch it to clothes-washing mode?
+wash,none,洗濯の設定お願いしてもいい？,Can you set the washing options for me?
+wash,none,今日の洗濯を始めたいんだけど、どのコースがいい？,I want to start today’s laundry — which course should I use?
+wash,none,洗濯を動かしたいけど、どのボタン押せばいい？,I want to run the washer — which button do I press?
+wash,none,洗濯コース選び手伝ってくれる？,Can you help me pick a washing course?
+wash,none,洗濯モードをセットしてもらえる？,Can you set the wash mode for me?
+wash,none,洗濯お願いしてもいいかな？,Would you mind starting the laundry?
+wash,none,洗濯したいけど、モードわからないんだよね。,I want to do laundry but not sure which mode to pick.
+wash,none,洗濯したいんだけど、何から始めればいい？,I want to wash clothes — where should I start?
+wash,none,服洗いたいんだけど、スタート押していい？,Can I hit start to wash my clothes?
+wash,none,洗濯始めたいから動かして！,I’m ready to start washing — please run it!
+maintenance,none,洗濯機の掃除をしたいんだけど、できる？,"I want to clean the washing machine, can I?"
+maintenance,none,洗濯槽のお手入れモードってある？,Is there a drum cleaning mode?
+maintenance,none,メンテナンスしたいんだけど、どんなモードがある？,I’d like to do maintenance—what modes are available?
+maintenance,none,洗濯機のクリーニングお願いできる？,Can you run a cleaning cycle for the washer?
+maintenance,none,洗濯機をきれいにしたいな。どうすればいい？,I want to clean the washer—how should I do it?
+maintenance,none,洗濯槽のカビ取りモード動かせる？,Can you run the mold removal mode?
+maintenance,none,メンテナンスコースをやってみたいんだけど。,I’d like to try the maintenance course.
+maintenance,none,洗濯機の中を洗いたいんだけど、どのコースを選べば良い？,I want to clean inside the washer—what course should I use?
+maintenance,none,洗濯機のお手入れモードを起動したい。,I’d like to start the washer maintenance mode.
+maintenance,none,洗濯機のメンテをお願い。,Please do the maintenance for me.
+maintenance,none,洗濯機のお手入れしたいんだけど、今できる？,I want to clean the washing machine — can I do it now?
+maintenance,none,洗濯槽の掃除モードってある？,Is there a tub-cleaning mode?
+maintenance,none,洗濯機をきれいにしたいんだけど、どう動かせばいい？,How do I make the washer clean itself?
+maintenance,none,メンテナンスモード起動してくれる？,Can you start maintenance mode?
+maintenance,none,洗濯機の内部洗浄お願いできる？,Can you run an internal clean on the washer?
+maintenance,none,洗濯槽の汚れ落としたいんだけど、コースある？,Is there a course for removing buildup in the tub?
+maintenance,none,メンテしたいんだけど、どの設定使えばいい？,I want to do maintenance — which setting should I use?
+maintenance,none,洗濯機の中、掃除してもらえる？,Can you clean the inside of the washing machine?
+maintenance,none,洗濯機のケアしたいんだけど、手伝って？,I’d like to care for the washer — can you help?
+maintenance,none,メンテナンスモード動かしてくれる？,Can you activate maintenance mode?
+maintenance,none,洗濯槽の汚れ気になるから、きれいにしたい。,The drum looks dirty — I’d like to clean it.
+maintenance,none,洗濯機のカビ取るモードある？,Does it have a mold-removal mode?
+maintenance,none,洗濯機のメンテナンス開始してもらえる？,Can you start washer maintenance for me?
+maintenance,none,洗濯機のクリーニングしたいんだけど、設定ある？,I want to run a cleaning cycle — is there a setting for that?
+maintenance,none,洗濯機の中をきれいにしたいんだ。,I’d like to make the inside clean again.
+maintenance,none,洗濯機をお手入れしたいけど、どうしたらいい？,I want to do some washer care — what should I do?
+maintenance,none,洗濯機のお手入れモードに切り替えて？,Can you switch to care mode?
+maintenance,none,メンテナンス開始できる？,Can you start maintenance now?
+maintenance,none,洗濯槽の掃除始めてもいい？,Is it okay if I begin tub cleaning?
+maintenance,none,洗濯機のメンテやりたいから、準備お願い。,I’d like to do maintenance — can you prep it?
+wash,everyday,普段の服を洗いたいんだけど。,I want to wash my everyday clothes.
+wash,everyday,毎日着るTシャツとか洗える？,Can you wash my daily T-shirts and stuff?
+wash,everyday,下着を洗いたいんだけど、どのコースがいい？,I want to wash underwear—which course is best?
+wash,everyday,普段着用の洗濯お願い。,Please use the everyday clothes course.
+wash,everyday,毎日の洗濯モードにしてもらえる？,Can you set it to daily wash mode?
+wash,everyday,シャツやパンツなど、普段着を洗いたい。,I want to wash my shirts and pants—everyday wear.
+wash,everyday,普段使いの服を洗うモードある？,Is there a mode for regular clothes?
+wash,everyday,下着と普段着を洗いたい。,I want to wash my underwear and daily clothes.
+wash,everyday,普通の洗濯コースでお願い。,"Normal wash course, please."
+wash,everyday,普段の服を洗いたい。,I want to wash my everyday clothes.
+wash,everyday,普段着を今日も洗いたいんだ。,I want to wash my everyday clothes today too.
+wash,everyday,下着をまとめて洗いたいんだけど。,I’d like to wash all my underwear together.
+wash,everyday,普段着る服を洗うモードお願い。,Please set it to the everyday clothes mode.
+wash,everyday,普通の服をいつもの感じで洗って。,Wash my regular clothes as usual.
+wash,everyday,下着とか普段着、まとめてお願い。,Can you do a batch wash for my underwear and daily wear?
+wash,everyday,普段着の洗濯お願いね。,Please wash my casual clothes.
+wash,everyday,いつもの服を洗いたいんでお願い。,I want to wash my usual clothes — please take care of it.
+wash,everyday,下着用の洗濯コースある？,Is there a wash course for underwear?
+wash,everyday,普段着を洗う設定にしてくれる？,Can you set it to everyday-clothes mode?
+wash,everyday,下着と普段の服を軽めに洗いたい。,I’d like to lightly wash my underwear and daily clothes.
+wash,everyday,Tシャツとかパンツ洗いたいんだけど。,I want to wash my T-shirts and underwear.
+wash,everyday,普段使いの服を普通に洗って。,Just wash my everyday clothes normally.
+wash,everyday,洗濯したいけど、いつものモードでお願い。,Please use the usual wash mode.
+wash,everyday,下着と普段着を一緒に洗いたいんだけど。,I’d like to wash my underwear and daily clothes together.
+wash,everyday,普段着コースにしてもらえる？,Can you switch to the everyday-clothes course?
+wash,everyday,普段着洗いスタートして。,Start the casual wash cycle.
+wash,everyday,下着を優しく洗えるコースにしたい。,I want a gentle course for my underwear.
+wash,everyday,今日は普段着の洗濯お願い。,Please do today’s everyday laundry.
+wash,everyday,Tシャツとか下着を洗いたいんだよね。,I want to wash my T-shirts and underwear.
+wash,everyday,普通の洗濯モードにしてもらえる？,Can you set it to the normal mode?
+wash,delicates,デリケートな服を優しく洗いたい。,I want to wash delicate clothes gently.
+wash,delicates,おしゃれ着モード使える？,Can I use the delicate mode?
+wash,delicates,ちょっと高い服を丁寧に洗いたい。,I want to wash some nicer clothes carefully.
+wash,delicates,デリケートな服を洗うコースでお願い。,"Use the delicate clothes course, please."
+wash,delicates,洗濯したいけど、傷みやすい服なんだ。,"I want to wash, but these are fragile clothes."
+wash,delicates,おしゃれ着を洗うモードにしてほしい。,Please set it to the gentle clothes mode.
+wash,delicates,優しく洗うコースある？,Is there a gentle wash course?
+wash,delicates,洋服をいたわって洗いたい。,I want to treat my clothes kindly.
+wash,delicates,デリケートな素材を洗えるモードはある？,Is there a mode for delicate fabrics?
+wash,delicates,丁寧に洗うモードにしてもらえる？,Can you set it to gentle wash mode?
+wash,delicates,おしゃれ着を傷めずに洗いたいんだ。,I want to wash delicate clothes without damaging them.
+wash,delicates,デリケートな素材だから優しくお願い。,"It’s delicate fabric, so please wash it gently."
+wash,delicates,ワンピースを丁寧に洗いたい。,I’d like to carefully wash my dress.
+wash,delicates,優しく洗うコースにしてほしい。,Please set it to the gentle wash course.
+wash,delicates,ニットをやさしく洗える？,Can it wash knits gently?
+wash,delicates,デリケート用モードにしたいんだけど。,I want to use the delicate mode.
+wash,delicates,洗濯したいけど、素材が心配なんだ。,I want to wash but I’m worried about the material.
+wash,delicates,おしゃれ着モードで洗ってもらえる？,Can you wash it in the delicate-clothes mode?
+wash,delicates,高い服だから優しくお願い。,"It’s expensive clothes, so please be gentle."
+wash,delicates,おしゃれ服を傷めずに洗ってほしい。,Please wash my nice clothes without damaging them.
+wash,delicates,やわらか素材だから、優しいコースがいいな。,"It’s soft fabric, so I’d like a gentle course."
+wash,delicates,デリケートな生地用の設定にして？,"Set it to the delicate-fabric option, please."
+wash,delicates,服をいたわって洗うモード使いたい。,I want to use a mode that’s kind to clothes.
+wash,delicates,シルクっぽい服を洗える？,Can it handle silk-like fabrics?
+wash,delicates,繊細な服を洗うモードでお願い。,Please wash these in the delicate-wear mode.
+wash,delicates,おしゃれ着専用モード使える？,Can I use the mode just for delicate clothes?
+wash,delicates,服を優しくケアしたい。,I want to care for my clothes gently.
+wash,delicates,デリケートな服用のモード起動して。,Start the delicate-clothes mode.
+wash,delicates,服を痛めずに洗いたい。,I want to wash without hurting the fabric.
+wash,delicates,おしゃれ着コースをスタートして。,Start the delicate-clothes course.
+wash,towels,タオルだけ洗いたいんだけど。,I just want to wash towels.
+wash,towels,フワッと仕上がるタオルモードある？,Is there a fluffy towel mode?
+wash,towels,タオルをまとめて洗って。,Wash all the towels together.
+wash,towels,タオル用のコースでお願い。,"Use the towel course, please."
+wash,towels,吸水性を戻したいからタオル洗いたい。,I want to wash towels to restore absorbency.
+wash,towels,バスタオル洗いたいけどどのコース？,Which course should I use for bath towels?
+wash,towels,タオルをふんわり仕上げたいんだけど。,I want to make my towels fluffy.
+wash,towels,タオルモードで洗ってもらえる？,Can you wash them in towel mode?
+wash,towels,柔らかく洗いたいタオルなんだけど。,These are soft towels—I want a gentle wash.
+wash,towels,タオル専用コースを使いたい。,I want to use the towel-only course.
+wash,towels,バスタオルをお願いします。,Please wash my bath towels.
+wash,towels,タオルをたくさん洗いたいんだけど。,I’ve got a lot of towels to wash.
+wash,towels,フワフワ仕上げにしたい。,I want them to come out fluffy.
+wash,towels,柔らかく洗えるコースにして？,Can you set it to the soft-wash course?
+wash,towels,タオルをまとめ洗いしたい。,I’d like to wash a big batch of towels.
+wash,towels,バスタオルの吸水力を戻したいんだ。,I want to restore my towels’ absorbency.
+wash,towels,タオル洗いコースに切り替えて。,Switch to the towel-wash mode.
+wash,towels,タオルをふっくらさせたい。,I’d like my towels to be nice and fluffy.
+wash,towels,バスタオルをたっぷり洗いたい。,I want to wash plenty of bath towels.
+wash,towels,タオルを優しく洗ってほしい。,Please wash the towels gently.
+wash,towels,柔軟仕上げで洗いたいタオルなんだけど。,I’d like to wash my towels with a soft finish.
+wash,towels,タオルモードをスタートして。,Start the towel-wash mode.
+wash,towels,フワッと乾かしたいタオル洗いお願い。,Please wash the towels so they dry fluffy.
+wash,towels,タオルの臭いも取れるように洗って。,Make sure to remove the towel odor too.
+wash,towels,柔らかい仕上がりにしたいんだけど。,I want them to come out soft and smooth.
+wash,towels,タオルをふんわりコースで洗いたい。,Wash the towels on the fluffy-finish course.
+wash,towels,バスタオル用モード使いたい。,I want to use the bath-towel mode.
+wash,towels,タオルを新品みたいに仕上げたい。,Please make the towels feel like new.
+wash,towels,フワフワモコモコに洗いたい。,Wash them to be extra fluffy.
+wash,towels,タオルを柔らかくなるように洗って。,"Make the towels soft again, please."
+wash,sportswear,スポーツウェアを洗いたい。,I want to wash my sportswear.
+wash,sportswear,汗をかいたウェアをしっかり洗いたいんだけど。,I want to thoroughly wash sweaty workout clothes.
+wash,sportswear,ジム用の服を洗いたい。,I want to wash my gym clothes.
+wash,sportswear,スポーツ衣類用モードにしてもらえる？,Can you set it to sportswear mode?
+wash,sportswear,運動着をすっきり洗いたい。,I want to refresh my workout clothes.
+wash,sportswear,スポーツ用の服を洗うモードでお願い。,Please use the sportswear washing mode.
+wash,sportswear,ランニングウェアを洗うモードある？,Is there a mode for running wear?
+wash,sportswear,汗臭を落とすコースでお願い。,Use the course that removes sweat odor.
+wash,sportswear,スポーツウェアの除菌洗いしたい。,I want to sanitize my sportswear.
+wash,sportswear,運動用の服を洗いたい。,I want to wash my athletic clothes.
+wash,sportswear,スポーツウェアの汗をしっかり落としたい。,I want to get sweat out of my sportswear.
+wash,sportswear,ランニング後の服を洗いたい。,I’d like to wash my running clothes.
+wash,sportswear,汗臭対策のコースある？,Is there a course for removing sweat smell?
+wash,sportswear,運動した後の服をすぐ洗いたい。,I want to wash my workout clothes right away.
+wash,sportswear,スポーツウェアのモードにしてもらえる？,Can you set it to sportswear mode?
+wash,sportswear,スポーツ用の衣類をまとめて洗いたい。,I’d like to wash all my sports clothes together.
+wash,sportswear,汗でべたついた服を洗いたいんだ。,"I want to wash the sweaty, sticky clothes."
+wash,sportswear,スポーツウェアをきれいに洗って。,Please wash my sportswear clean.
+wash,sportswear,速乾性素材の服なんだけど。,These are quick-dry fabrics.
+wash,sportswear,トレーニングウェアの洗濯お願い。,Please wash my training clothes.
+wash,sportswear,スポーツ用の洗濯コース起動して。,Start the sports-wash mode.
+wash,sportswear,汗臭を取る洗い方にしてほしい。,Use a course that removes sweat odor.
+wash,sportswear,スポーツウェアをサラッと洗いたい。,I want to wash my sportswear lightly.
+wash,sportswear,汗をすっきり落とすコースでお願い。,Please use the sweat-removal course.
+wash,sportswear,スポーツウエア用のモードで洗ってほしい。,"Wash my sportswear in sports mode, please."
+wash,sportswear,運動服を強めに洗いたい。,I’d like to wash my workout clothes thoroughly.
+wash,sportswear,汗臭対策の設定お願い。,Please set it for sweat-odor removal.
+wash,sportswear,スポーツウェア用の洗濯スタートして。,Start the sportswear-wash cycle.
+wash,sportswear,速乾コースで洗いたい。,I want to use the quick-dry course.
+wash,sportswear,ジムウェア用のモードでお願い。,Please set it to gym-clothes mode.
+wash,bedding,毛布を洗いたいんだけど。,I want to wash a blanket.
+wash,bedding,布団コースにしてもらえる？,Can you set it to bedding mode?
+wash,bedding,厚手の毛布洗いたい。,I want to wash a thick blanket.
+wash,bedding,掛け布団を洗いたいんだ。,I want to wash my comforter.
+wash,bedding,毛布をしっかり洗うコースにして。,Use the course for deep blanket washing.
+wash,bedding,ふとんモードでお願い。,"Bedding mode, please."
+wash,bedding,大物洗いをしたい。,I want to wash large items.
+wash,bedding,布団やカバーをまとめて洗える？,Can I wash comforters and covers together?
+wash,bedding,毛布をぬるめのお湯で洗いたい。,I want to wash my blanket in lukewarm water.
+wash,bedding,毛布専用コースを使いたい。,I want to use the blanket course.
+wash,bedding,毛布をふわっと洗いたい。,I want to wash my blanket softly.
+wash,bedding,布団を丸洗いしたいんだけど。,I’d like to wash my futon.
+wash,bedding,厚手の布団を洗いたい。,I need to wash a thick comforter.
+wash,bedding,大物コースでお願い。,Please use the bulky-item course.
+wash,bedding,布団カバーを洗うモードある？,Is there a mode for washing duvet covers?
+wash,bedding,毛布をしっかりすすぎたい。,I want to rinse my blanket thoroughly.
+wash,bedding,掛け布団の洗濯お願い。,Please wash my comforter.
+wash,bedding,毛布とカバーを一緒に洗える？,Can I wash my blanket and cover together?
+wash,bedding,布団専用コースに切り替えて。,Switch to the bedding-wash course.
+wash,bedding,毛布をやさしく洗いたい。,I want to wash my blanket gently.
+wash,bedding,大きい布団洗いコース使いたい。,I’d like to use the large-item wash course.
+wash,bedding,寝具を洗うモードにして。,Please set it to bedding mode.
+wash,bedding,毛布をまとめて洗いたいんだけど。,I’d like to wash my blankets all together.
+wash,bedding,厚手の寝具を洗いたいの。,I need to wash thick bedding.
+wash,bedding,布団洗いを始めたい。,I want to start washing my comforter.
+wash,bedding,大物用のモードでスタートして。,Start in the large-item mode.
+wash,bedding,毛布を傷めずに洗いたい。,I want to wash my blanket carefully.
+wash,bedding,布団モードでお願い。,Please use the futon-wash mode.
+wash,bedding,毛布とシーツを洗いたいんだ。,I’d like to wash my blanket and sheets.
+wash,bedding,布団コースでスタートして。,Start the bedding-wash course.
+wash,whites,白い服を除菌して洗いたい。,I want to sanitize and wash white clothes.
+wash,whites,白シャツを清潔にしたいんだけど。,I want to keep my white shirts clean.
+wash,whites,白物を除菌コースでお願い。,Please use the sterilizing course for whites.
+wash,whites,白い衣類をきれいに保ちたい。,I want to keep my white clothes bright and clean.
+wash,whites,除菌洗いで白物を洗って。,Wash whites with sterilization mode.
+wash,whites,白いTシャツをすっきり除菌したい。,I want to sanitize my white T-shirts.
+wash,whites,白衣を清潔に洗いたい。,I want to wash my white uniform hygienically.
+wash,whites,白物を強めに洗うコースでお願い。,"Use the stronger whitewash course, please."
+wash,whites,洋服の除菌・漂白モードを使いたい。,I want to use the whitening and sterilizing mode.
+wash,whites,白物を清潔に洗いたい。,I want to clean my white clothes thoroughly.
+wash,whites,白い服をもっときれいにしたい。,I want to make my white clothes look brighter.
+wash,whites,白物を漂白コースでお願い。,Please use the whitening course for whites.
+wash,whites,白シャツの黄ばみを落としたい。,I’d like to remove yellow stains from my white shirt.
+wash,whites,白物の汚れが良く落ちるモードにして。,Set it to the mode that cleans whites best.
+wash,whites,白衣を汚れを白くしたいんだ。,I want to make my white coat spotless.
+wash,whites,白い服の汚れをきれいに洗いたい。,I’d like to wash stains out of my white clothes.
+wash,whites,除菌モードで白物を洗って。,Please wash my whites in sanitize mode.
+wash,whites,白物をきれいに漂白して。,Bleach and brighten the white items.
+wash,whites,白Tをスッキリ仕上げたい。,I want my white T-shirts to look fresh.
+wash,whites,白い服の汚れをしっかり落としたい。,Please wash my white clothes thoroughly.
+wash,whites,白物の除菌洗いお願い。,Wash my whites with the sanitize cycle.
+wash,whites,除菌漂白重視で白物洗って。,Focus on bleaching and disinfecting my whites.
+wash,whites,白物専用コースにしてもらえる？,Can you switch to the white-clothes course?
+wash,whites,白シャツをシャキッとしたい。,I want my white shirt to look crisp again.
+wash,whites,除菌コースで白物洗いたいんだけど。,I’d like to wash whites in disinfect mode.
+wash,whites,白い服を漂白モードでお願い。,Please wash my whites with the bleach cycle.
+wash,whites,白物をきれいに仕上げたい。,Make my white items look clean and bright.
+wash,whites,白Tの汚れを落とすコースある？,Is there a course to remove dirt from white T-shirts?
+wash,whites,白衣を除菌モードで洗って。,Please wash my white coat in sanitize mode.
+wash,whites,白物コースでスタートして。,Start the whites-wash course.
+wash,care,洗わずにニオイだけ取りたい。,I just want to remove odors without washing.
+wash,care,脱臭モードにしてもらえる？,Can you set it to deodorizing mode?
+wash,care,服の花粉を落としたい。,I want to remove pollen from my clothes.
+wash,care,除菌・消臭ケアしたい。,I want to do sterilizing and deodorizing care.
+wash,care,洋服の臭いを取るモードある？,Is there a mode that removes clothing odors?
+wash,care,服のしわとニオイを取って。,Please remove wrinkles and odors from my clothes.
+wash,care,おしゃれ着を脱臭ケアしたい。,I want to deodorize my delicate clothes.
+wash,care,洗わずに消臭たけお願い。,Please deodorize without washing.
+wash,care,花粉対策のコースはある？,Is there a pollen care course?
+wash,care,洗わずに除菌・脱臭モードを使いたい。,I want to use the sanitize and deodorize mode without washing.
+wash,care,服のしわを伸ばしたいんだけど。,I want to smooth out wrinkles in my clothes.
+wash,care,除菌と消臭どっちもお願い。,Please handle both disinfection and deodorizing.
+wash,care,洗わずに服のニオイを取りたい。,I’d like to remove odor without washing.
+wash,care,花粉ケアモードにして。,Set it to pollen-care mode.
+wash,care,スチームでしわを取るモードある？,Is there a steam-wrinkle-removal mode?
+wash,care,洋服を除菌ケアしたいんだ。,I want to sanitize my clothes.
+wash,care,衣類ケアコースにしてもらえる？,Can you switch to garment-care mode?
+wash,care,消臭モードで服をリフレッシュしたい。,I’d like to refresh my clothes in deodorize mode.
+wash,care,服の匂いを取る設定お願い。,Please use the odor-removal setting.
+wash,care,洗わずに除菌ケアお願い。,Disinfect my clothes without washing them.
+wash,care,花粉を落とすモードにして。,Set it to pollen-removal mode.
+wash,care,洋服のニオイ消したい。,I want to get rid of odor from my clothes.
+wash,care,除菌・脱臭モード起動して。,Start the sanitize and deodorize mode.
+wash,care,消臭ケアをかけたい。,I’d like to apply deodorizing care.
+wash,care,服のリフレッシュモードお願い。,Please run the refresh mode.
+wash,care,洋服の花粉対策お願い。,Can you activate pollen-care for my clothes?
+wash,care,除菌としわ取り同時にやりたい。,I want to do disinfection and wrinkle-removal at once.
+wash,care,服のニオイを消してほしい。,Please get rid of the odor in my clothes.
+wash,care,おしゃれ着のケアをお願い。,"Take care of my delicate clothes, please."
+wash,care,除菌ケアスタートして。,Start the sanitize-care mode.
+wash,dry_only,洗濯はせずに乾燥だけしたい。,"I only want to dry the clothes, not wash them."
+wash,dry_only,乾燥モードにしてもらえる？,Can you set it to drying mode?
+wash,dry_only,洗った服を乾かしたい。,I want to dry the washed clothes.
+wash,dry_only,乾燥のみコース使える？,Can I use the dry-only course?
+wash,dry_only,乾燥機能だけ使いたいんだけど。,I just want to use the drying function.
+wash,dry_only,服をふんわり乾かしたい。,I want to dry my clothes softly.
+wash,dry_only,乾燥だけお願い。,"Dry only, please."
+wash,dry_only,洗濯後の乾燥をお願い。,Please handle the drying after washing.
+wash,dry_only,乾燥のみモード起動して。,Start the dry-only mode.
+wash,dry_only,干さなくていいように乾燥コースにして。,Set it to dry course so I don’t have to hang clothes.
+wash,dry_only,乾燥だけお願いしていい？,Can you just run the dryer?
+wash,dry_only,洗わずに乾かしたい。,"I only want to dry, not wash."
+wash,dry_only,洗濯済みの服を乾燥だけしたい。,Please dry the washed clothes only.
+wash,dry_only,乾燥モードスタートして。,Start the drying mode.
+wash,dry_only,乾燥機能だけ使いたいんだ。,I want to use just the drying function.
+wash,dry_only,服をふんわり乾燥させたい。,I want my clothes to come out soft and dry.
+wash,dry_only,乾燥のみコースお願い。,Please set it to the dry-only course.
+wash,dry_only,洗濯はいいから乾燥だけ。,Skip washing — just dry them.
+wash,dry_only,乾燥モードでお願い。,"Set it to drying mode, please."
+wash,dry_only,服をしっかり乾かしたい。,I want my clothes completely dry.
+wash,dry_only,洗濯済みの服を温風で乾かして。,Use warm air to dry the washed clothes.
+wash,dry_only,乾燥モードに切り替えて。,Switch to drying mode.
+wash,dry_only,乾燥だけで大丈夫。,Drying only is fine.
+wash,dry_only,乾燥仕上げにしたいんだ。,I’d like a dry-finish cycle.
+wash,dry_only,洗わずに乾燥スタートして。,Start drying without washing.
+wash,dry_only,湿った服を乾燥させたい。,I want to dry these damp clothes.
+wash,dry_only,乾燥だけの設定お願い。,Please set it to dry-only mode.
+wash,dry_only,乾燥モードをオンにして。,Turn on drying mode.
+wash,dry_only,服を乾かすだけにしたいんだ。,I just want to dry the clothes.
+wash,dry_only,乾燥専用コースをスタートして。,Start the drying-only course.
+maintenance,tub_mold,洗濯槽、ドラムのカビをしっかり取りたい。,I want to remove mold from the drum completely.
+maintenance,tub_mold,洗濯槽のカビ取りコースお願い。,Please run the mold removal course.
+maintenance,tub_mold,洗濯槽、ドラムの黒カビが気になるから掃除したい。,I want to clean the drum because of black mold.
+maintenance,tub_mold,洗濯槽の汚れをしっかり落としたい。,I want to remove dirt from the washer tub thoroughly.
+maintenance,tub_mold,ドラムのカビ除去モードにしてもらえる？,Can you set it to drum mold removal mode?
+maintenance,tub_mold,洗濯槽を徹底的にきれいにしたい。,I want to make the washer tub completely clean.
+maintenance,tub_mold,ドラムのカビ落としコースを使いたい。,I want to use the drum mold cleaning course.
+maintenance,tub_mold,洗濯槽の内部を除菌したい。,I want to sanitize the inside of the washer tub.
+maintenance,tub_mold,洗濯槽のカビ取り洗浄したいんだけど。,I’d like to run mold cleaning for the washer.
+maintenance,tub_mold,洗濯槽のカビクリーニングお願い。,Please run the drum cleaning course.
+maintenance,tub_mold,洗濯槽の黒カビをしっかり落としたいんだ。,I want to get rid of the black mold in the washer drum.
+maintenance,tub_mold,ドラムの中を除菌したい。,I want to sanitize the inside of the drum.
+maintenance,tub_mold,カビが気になるからきれいにしたい。,"There’s some mold, so I want to clean it up."
+maintenance,tub_mold,洗濯機のカビ取り始めてもらえる？,Can you start the mold-removal cycle?
+maintenance,tub_mold,洗濯槽のカビをすっきり落としたい。,I want to completely get rid of the mold in the tub.
+maintenance,tub_mold,ドラムの汚れを除去するモードお願い。,Please run the mode that removes drum dirt.
+maintenance,tub_mold,カビ落としモードで動かしてほしい。,"Run the washer in mold-cleaning mode, please."
+maintenance,tub_mold,洗濯機の中を除菌洗浄したい。,I want to do a disinfecting clean inside the washer.
+maintenance,tub_mold,洗濯槽のカビを取るコースにしてもらえる？,Can you switch to the mold-removal course?
+maintenance,tub_mold,カビ取りモードをスタートして。,Start the mold-cleaning mode.
+maintenance,tub_mold,洗濯槽の黒ずみをきれいにしたい。,I want to remove the dark stains in the tub.
+maintenance,tub_mold,ドラム内部のカビ除去お願い。,Please do a mold-removal clean inside the drum.
+maintenance,tub_mold,カビ取り洗浄をやりたいんだけど。,I want to run a mold-cleaning wash.
+maintenance,tub_mold,洗濯槽の中をしっかり除菌したい。,I want to disinfect the inside of the washer thoroughly.
+maintenance,tub_mold,ドラムをカビなしにしたい。,I want to make sure there’s no mold left in the drum.
+maintenance,tub_mold,洗濯槽の除菌クリーニングお願い。,Please run the sanitizing cleaning cycle.
+maintenance,tub_mold,カビ取りコースを実行して。,"Run the mold-removal course, please."
+maintenance,tub_mold,洗濯槽をすっきりさせたい。,I want to make the washer drum fresh again.
+maintenance,tub_mold,カビ防止のためにドラムを洗いたい。,I want to wash the drum to prevent mold.
+maintenance,tub_mold,洗濯機をカビ取りコースで掃除したい。,Please clean the washer using the mold-removal course.
+maintenance,tub_mold,洗濯槽のカビが気になるから、カビ取りしてほしい。,"There might be mold in the tub, so please run the mold clean."
+maintenance,tub_mold,ドラムの中にカビがありそうだから、カビ落としでお願い。,I think there’s mold inside the drum—can you remove it?
+maintenance,tub_mold,洗濯槽の黒カビを落とすモードにして。,Switch to the mode that removes black mold from the tub.
+maintenance,tub_mold,ドラムのカビをしっかり取るコースで動かして。,Run the course that really gets rid of mold in the drum.
+maintenance,tub_mold,洗濯槽のカビ専用の掃除をしたい。,I want to use the mold-cleaning mode for the tub.
+maintenance,tub_mold,洗濯槽の中のカビを落としたいから、カビ取りコースお願い。,"There’s mold inside the tub, so please start the mold removal course."
+maintenance,tub_mold,ドラム内部のカビを取る運転にしてほしい。,Can you run the cycle that removes mold from inside the drum?
+maintenance,tub_mold,洗濯槽にカビが出てきたから、カビ除去したい。,"Mold has started to show up in the tub, so I want to clean it out."
+maintenance,tub_mold,黒カビ対策で洗濯槽を洗ってほしい。,Please wash the tub to deal with black mold.
+maintenance,tub_mold,ドラムのカビ汚れを落とす運転をして。,Run a cycle to remove mold buildup from the drum.
+maintenance,tub_mold,洗濯槽のカビを落とす洗い方でお願い。,Please use the wash that removes mold from the tub.
+maintenance,tub_mold,カビがたまりそうだから、洗濯槽のカビ取りしたい。,"Mold might build up, so I want to do a tub mold clean."
+maintenance,tub_mold,ドラムのカビを落とすモードを使いたい。,I want to use the mode that removes mold from the drum.
+maintenance,tub_mold,洗濯槽のカビ掃除をちゃんとやりたい。,I want to properly clean mold out of the tub.
+maintenance,tub_mold,中のカビ汚れが気になるから、カビ取り運転して。,"I’m worried about mold inside, so please run the mold-cleaning cycle."
+maintenance,tub_mold,洗濯槽のカビ専用コースで動かしてほしい。,Please start the tub’s mold-only cleaning course.
+maintenance,tub_mold,ドラムの黒カビを落としたいんだけど。,I want to get rid of black mold in the drum.
+maintenance,tub_mold,洗濯機の中のカビを取る運転にして。,Set it to the cycle that removes mold inside the washer.
+maintenance,tub_mold,洗濯槽のカビを落とす洗浄をしたい。,I want to do a wash that removes mold from the tub.
+maintenance,tub_mold,ドラム内部のカビをきれいに落としたい。,I want to clean mold completely out of the inside of the drum.
+maintenance,remove_moisture,洗濯槽を乾かしたい。,I want to dry the washer tub.
+maintenance,remove_moisture,洗濯後に槽を乾燥させたい。,I want to dry the drum after washing.
+maintenance,remove_moisture,ドラムの湿気を飛ばすモードにして。,Set it to moisture removal mode for the drum.
+maintenance,remove_moisture,洗濯槽乾燥コースお願い。,Please run the washer drum drying course.
+maintenance,remove_moisture,乾燥モードで槽を乾かしてほしい。,Please dry the drum in drying mode.
+maintenance,remove_moisture,カビ防止に乾燥させたい。,I want to dry it to prevent mold.
+maintenance,remove_moisture,洗濯槽を空気乾燥したい。,I want to air-dry the washer tub.
+maintenance,remove_moisture,洗濯槽の中を乾かすモードある？,Is there a mode to dry the inside of the washer?
+maintenance,remove_moisture,湿気を取る槽乾燥お願い。,Please remove moisture with tub drying.
+maintenance,remove_moisture,洗濯機内部を乾かしたい。,I want to dry the inside of the washer.
+maintenance,remove_moisture,洗濯機の中を乾かしたいんだ。,I want to dry the inside of the washer.
+maintenance,remove_moisture,槽を空気で乾かしてほしい。,Please dry the tub with air.
+maintenance,remove_moisture,洗濯槽の湿気を飛ばしたい。,I want to get rid of the moisture inside the tub.
+maintenance,remove_moisture,ドラムをしっかり乾燥させたい。,Please dry the drum completely.
+maintenance,remove_moisture,洗濯機の内部を乾燥モードでお願い。,Use the drying mode for the washer’s interior.
+maintenance,remove_moisture,ドラムの水分を飛ばすモードにして。,Set it to the mode that blows out moisture.
+maintenance,remove_moisture,洗濯槽の乾燥スタートして。,Start the drum-drying mode.
+maintenance,remove_moisture,カビ防止で洗濯槽を乾かしたいんだ。,I want to dry the tub to prevent mold.
+maintenance,remove_moisture,洗濯後のドラム乾燥モードお願い。,Please use the post-wash drum-dry mode.
+maintenance,remove_moisture,洗濯槽を風で乾かして。,Blow air through the tub to dry it.
+maintenance,remove_moisture,洗濯機の中を乾かすモード起動して。,Activate the mode that dries the inside of the washer.
+maintenance,remove_moisture,洗濯ドラムの湿気を取る乾燥モードお願い。,Please use the drying mode to remove drum humidity.
+maintenance,remove_moisture,ドラム内の水気を飛ばしたい。,I want to get rid of the water inside the drum.
+maintenance,remove_moisture,洗濯槽の乾燥コースをスタートして。,Start the tub-drying course.
+maintenance,remove_moisture,洗濯ドラムの乾燥をさせたい。,Please dry the washing drum.
+maintenance,remove_moisture,洗濯槽の湿気を完全に取りたい。,I want to remove all the moisture from the tub.
+maintenance,remove_moisture,槽を乾燥モードでリフレッシュしたい。,I’d like to refresh the tub with a drying cycle.
+maintenance,remove_moisture,洗濯槽乾燥を実行して。,Run the tub-drying mode.
+maintenance,remove_moisture,洗濯後のドラムの乾燥をお願い。,Please dry the drum after washing.
+maintenance,remove_moisture,ドラム乾燥モードでお願い。,"Set it to drum-dry mode, please."
+maintenance,remove_moisture,洗濯槽の中、湿ってるから乾かしてほしい。,"The tub is still damp, so please dry it."
+maintenance,remove_moisture,ドラムの中を風でしっかり乾かしたい。,I want to dry the inside of the drum with air.
+maintenance,remove_moisture,洗濯終わったからドラム乾燥かけて。,"The wash is done, so run the drum-drying mode."
+maintenance,remove_moisture,ドラム内の湿気、今のうちに飛ばしたい。,I want to get rid of the moisture inside the drum now.
+maintenance,remove_moisture,洗濯機の中がじめっとしてるから乾燥して。,"The inside of the washer feels humid, so please dry it."
+maintenance,remove_moisture,槽の中をカラッとさせたいんだけど。,I want the inside of the tub nice and dry.
+maintenance,remove_moisture,ドラムの中、乾燥運転してほしいな。,Can you run the drying cycle for the drum?
+maintenance,remove_moisture,洗濯槽の水気を残さず乾かしたい。,I want to dry the tub completely with no water left.
+maintenance,remove_moisture,湿気対策でドラム乾燥お願い。,Please run drum drying to deal with moisture.
+maintenance,remove_moisture,洗濯槽の中をしっかり乾かすモードにして。,Switch to the mode that dries the tub thoroughly.
+maintenance,remove_moisture,ドラム内部を乾かす運転をしてほしい。,Please run the cycle that dries the inside of the drum.
+maintenance,remove_moisture,洗濯後だから槽を乾燥させときたい。,"Since the wash just finished, I want to dry the tub."
+maintenance,remove_moisture,ドラムの中、送風で乾かして。,Dry the inside of the drum using airflow.
+maintenance,remove_moisture,洗濯機の内部、乾燥だけかけたい。,I just want to run drying for the inside of the washer.
+maintenance,remove_moisture,洗濯槽の湿り気をなくしたい。,I want to get rid of the dampness in the tub.
+maintenance,remove_moisture,ドラムの中を乾燥運転で回して。,Run the drum in drying mode.
+maintenance,remove_moisture,槽の中、乾燥コースでお願い。,Please use the drying course for the tub.
+maintenance,remove_moisture,洗濯槽の中を乾かす運転にしてほしい。,Set it to the cycle that dries the inside of the tub.
+maintenance,remove_moisture,ドラム内の水分を飛ばしておきたい。,I want to blow out the moisture inside the drum.
+maintenance,remove_moisture,洗濯機の槽、乾燥だけやりたい。,I just want to run drying for the washer tub.
+maintenance,clean_tub,洗濯槽を洗いたい。,I want to wash the washer tub.
+maintenance,clean_tub,槽洗浄コースにして。,Set it to tub cleaning course.
+maintenance,clean_tub,洗濯槽をクリーニングしたい。,I want to clean the washer tub.
+maintenance,clean_tub,洗濯機の中を洗いたい。,I want to clean inside the washing machine.
+maintenance,clean_tub,ドラム洗浄をお願いします。,Please do the drum cleaning.
+maintenance,clean_tub,洗濯槽の汚れを落とすコース使える？,Can I use the tub cleaning course?
+maintenance,clean_tub,定期的な槽洗浄したい。,I want to do regular tub cleaning.
+maintenance,clean_tub,洗濯槽の中をきれいにするモードにして。,Set it to clean the inside of the washer.
+maintenance,clean_tub,ドラムを洗ってすっきりしたい。,I want to refresh the drum.
+maintenance,clean_tub,洗濯槽洗浄プログラムを動かして。,Run the washer tub cleaning program.
+maintenance,clean_tub,洗濯槽の中をきれいにしたい。,I want to clean inside the washer tub.
+maintenance,clean_tub,洗濯機を洗うコースにして。,Set it to the washer-cleaning course.
+maintenance,clean_tub,ドラムの中を洗いたいんだ。,I want to wash the inside of the drum.
+maintenance,clean_tub,ドラム洗浄を始めてほしい。,Please start the drum-cleaning cycle.
+maintenance,clean_tub,洗濯槽を洗う設定お願い。,Set it to clean the washing tub.
+maintenance,clean_tub,定期的なドラム洗浄をしたい。,I’d like to do a regular drum cleaning.
+maintenance,clean_tub,洗濯槽のクリーニングモードでお願い。,"Use the cleaning mode for the tub, please."
+maintenance,clean_tub,洗濯槽の掃除スタートして。,Start cleaning the washer tub.
+maintenance,clean_tub,ドラムの内部洗いお願い。,Please clean the inside of the drum.
+maintenance,clean_tub,洗濯機のドラム洗いを動かして。,Run the drum-cleaning cycle.
+maintenance,clean_tub,洗濯槽の汚れを落とすコース起動して。,Start the course that removes buildup in the tub.
+maintenance,clean_tub,ドラム洗浄のモードを走らせて。,Run the drum-washing mode.
+maintenance,clean_tub,洗濯槽をピカピカに洗いたい。,I want to make the washer tub shine.
+maintenance,clean_tub,洗濯ドラムの掃除をしたいんだけど。,I’d like to clean the washing drum.
+maintenance,clean_tub,ドラム洗浄コースにしてもらえる？,Can you set it to the drum-cleaning course?
+maintenance,clean_tub,洗濯槽洗いを今日やりたい。,I want to clean the washer tub today.
+maintenance,clean_tub,洗濯槽の中を清潔にしたい。,I want to keep the inside of the tub hygienic.
+maintenance,clean_tub,洗濯槽洗浄モードでお願い。,Please use the washer-tub cleaning mode.
+maintenance,clean_tub,ドラムを洗って。,Wash the drum for me.
+maintenance,clean_tub,洗濯槽のクリーニングモードを起動して。,Start the washer-cleaning mode.
+maintenance,clean_tub,洗濯槽の中、全体的に洗ってほしい。,Please wash the whole inside of the tub.
+maintenance,clean_tub,ドラムの中を一度しっかり洗いたい。,I want to give the inside of the drum a good wash.
+maintenance,clean_tub,洗濯機の内をしっかり洗うモードにして。,Switch to the mode that thoroughly washes the inside.
+maintenance,clean_tub,洗濯槽の中をきれいさっぱりさせたい。,I want to get the inside of the tub nice and clean.
+maintenance,clean_tub,ドラム内部の汚れを取りたい。,I want to remove the dirt inside the drum.
+maintenance,clean_tub,洗濯槽がきれいになるように洗いたい。,I want to wash the tub so it comes out clean.
+maintenance,clean_tub,洗濯機の中をまとめてきれいに洗いたいんだけど。,I want to clean the whole inside of the washer at once.
+maintenance,clean_tub,ドラムの中をきれいに洗う運転にして。,Set it to the cycle that cleans the inside of the drum.
+maintenance,clean_tub,洗濯槽をきれいに掃除するコースお願い。,Please run the course that cleans the tub.
+maintenance,clean_tub,洗濯槽の中を洗うだけの運転にして。,Set it to a cycle that just washes the inside of the tub.
+maintenance,clean_tub,ドラムを空で洗うモードにしてほしい。,Can you set it to wash the drum while it’s empty?
+maintenance,clean_tub,洗濯槽の中を洗浄する運転をお願い。,Please run a cycle that washes the inside of the tub.
+maintenance,clean_tub,洗濯機の中を一回洗っておきたい。,I want to run one wash just to clean the inside.
+maintenance,clean_tub,ドラムの内部洗いをかけたい。,I want to run an internal wash for the drum.
+maintenance,clean_tub,洗濯槽の中を整える洗い方にして。,Set it to a wash that tidies up the inside of the tub.
+maintenance,clean_tub,洗濯槽の掃除運転をしてほしい。,Please run the tub cleaning cycle.
+maintenance,clean_tub,ドラムの洗浄コースで動かして。,Run the drum on the cleaning course.
+maintenance,clean_tub,洗濯槽を空で洗うモードにしたい。,I want to wash the tub while it’s empty.
+maintenance,clean_tub,洗濯機内部を洗うモードを使いたい。,I want to use the mode that cleans the inside of the washer.
+maintenance,clean_tub,洗濯槽をきれいに洗う運転にして。,Set it to a cycle that cleans the tub thoroughly.
+maintenance,light_rinse,ドラムを軽くすすぐだけしたい。,I just want to lightly rinse the drum.
+maintenance,light_rinse,洗濯槽の簡易すすぎモード使える？,Can I use the simple rinse mode for the tub?
+maintenance,light_rinse,洗濯槽を軽めにリンスしたい。,I want to lightly rinse the washer tub.
+maintenance,light_rinse,ドラムを時間をかけずにすすぎたい。,I want to rinse the drum quickly.
+maintenance,light_rinse,洗濯槽をさっとすすぐモードにして。,Set it to quick rinse for the tub.
+maintenance,light_rinse,ドラムのすすぎをお願い。,Please rinse the drum.
+maintenance,light_rinse,ちょっとだけ洗濯槽をすすぎたいんだけど。,I just want to do a quick rinse for the washer tub.
+maintenance,light_rinse,ドラムを短時間すすぎモードでお願い。,"Use the short-time drum rinse mode, please."
+maintenance,light_rinse,洗濯槽を軽く洗って終わりたい。,I want to finish with a light tub rinse.
+maintenance,light_rinse,洗濯槽のすすぎだけお願い。,"Rinse the washer tub only, please."
+maintenance,light_rinse,洗濯槽を軽くすすぐだけしたいんだけど。,I just want to lightly rinse the tub.
+maintenance,light_rinse,ドラムの中をさっとすすぎたい。,I’d like to give the drum a quick rinse.
+maintenance,light_rinse,洗濯槽を簡単にすすぎたい。,Please do a simple rinse for the tub.
+maintenance,light_rinse,軽いすすぎモードでお願い。,Set it to the light-rinse mode.
+maintenance,light_rinse,洗濯槽を軽く洗い流してほしい。,I’d like you to rinse out the tub lightly.
+maintenance,light_rinse,洗濯機の中を短時間ですすぎたい。,I want to do a short rinse for the washer interior.
+maintenance,light_rinse,ドラムのすすぎモードを起動して。,Start the drum-rinse mode.
+maintenance,light_rinse,ちょっとだけ洗濯槽をすすぎたい。,I just want to rinse the tub a little.
+maintenance,light_rinse,洗濯槽の軽いすすぎお願い。,Please do a quick light rinse on the tub.
+maintenance,light_rinse,ドラムの中を軽く洗って。,Lightly wash the inside of the drum.
+maintenance,light_rinse,ドラムを軽くすすぐだけお願い。,Just do a quick rinse of the drum.
+maintenance,light_rinse,洗濯槽を短い時間で流したい。,I want to flush the tub in a short cycle.
+maintenance,light_rinse,ドラムを簡単にすすいで。,Give the drum a simple rinse.
+maintenance,light_rinse,洗濯槽すすぎコース使いたい。,I’d like to use the tub-rinse course.
+maintenance,light_rinse,軽めの槽すすぎお願い。,Please do a light rinse of the tub.
+maintenance,light_rinse,洗濯槽を短時間ですすぎたい。,I want to rinse the tub briefly.
+maintenance,light_rinse,ドラムをさっと洗うモードにして。,Set it to a quick wash mode for the drum.
+maintenance,light_rinse,洗濯槽を少しだけすすぎたい。,I just want to rinse the tub a bit.
+maintenance,light_rinse,洗濯機の軽いすすぎお願い。,Please do a quick rinse cycle.
+maintenance,light_rinse,洗濯槽すすぎモードで動かして。,Run the tub-rinse mode.
+maintenance,light_rinse,洗濯槽をパッとすすぐだけでいい。,I just want to give the tub a quick rinse.
+maintenance,light_rinse,ドラムの中、軽く流すだけにしたい。,I only want to lightly rinse the inside of the drum.
+maintenance,light_rinse,洗濯槽の中を一回すすいで終わりにして。,Rinse the inside of the tub once and then stop.
+maintenance,light_rinse,洗濯槽、手早くすすぎだけお願い。,"Just do a quick rinse for the tub, please."
+maintenance,light_rinse,ドラムを軽く水で流したい。,I want to flush the drum lightly with water.
+maintenance,light_rinse,洗濯槽の中、簡単にすすいでほしい。,Please rinse the inside of the tub in a simple way.
+maintenance,light_rinse,ドラム内をサッと水通ししたい。,I want to quickly run water through the drum.
+maintenance,light_rinse,洗濯槽を軽くすすぐ運転にして。,Set it to a light rinse for the tub.
+maintenance,light_rinse,ドラムを短めにすすぐだけお願い。,Just do a short rinse for the drum.
+maintenance,light_rinse,洗濯機の中を軽く流したいんだけど。,I want to lightly flush the inside of the washer.
+maintenance,light_rinse,洗濯槽の中、ちょいすすぎでお願い。,"Please do a quick, light rinse inside the tub."
+maintenance,light_rinse,ドラムを簡易すすぎで動かして。,Run the drum on the simple rinse mode.
+maintenance,light_rinse,洗濯槽をさっと水洗いしたい。,I want to quickly wash the tub with water.
+maintenance,light_rinse,ドラム内を軽くすすぐ運転お願い。,Please run a light rinse for the inside of the drum.
+maintenance,light_rinse,洗濯槽のすすぎだけサクッとやりたい。,I just want to do a quick rinse for the tub.
+maintenance,light_rinse,ドラムの中を一度流すだけにして。,Just run water through the drum once.
+maintenance,light_rinse,洗濯槽、軽く水を通してほしい。,Please run a light water rinse for the tub.
+maintenance,light_rinse,ドラムを短時間で軽くすすいで。,Lightly rinse the drum in a short cycle.
+maintenance,light_rinse,洗濯槽の中を簡単に流したい。,I want to simply flush the inside of the tub.
+maintenance,light_rinse,ドラム内のすすぎだけ起動して。,Start rinse-only mode for the drum.
+maintenance,low_clean_tub,短い時間で終わる洗濯槽の洗浄をお願い。,Please do a short cleaning for the tub.
+maintenance,low_clean_tub,洗濯槽、ドラムを低温で短時間のクリーニングをしたい。,"I want to do a short, low-temperature cleaning of the drum."
+maintenance,low_clean_tub,簡単に、洗濯槽を洗いたい。,I just want a simple tub cleaning.
+maintenance,low_clean_tub,時間がないから短時間で洗濯槽洗浄お願い。,"I’m short on time—do a quick tub cleaning, please."
+maintenance,low_clean_tub,軽めのドラム洗いをお願い。,Please do a light drum wash.
+maintenance,low_clean_tub,低温でドラム洗浄にしてもらえる？,Can you set it to low-temperature drum cleaning?
+maintenance,low_clean_tub,メンテが早く終わるコースある？,Is there a course that finishes maintenance quickly?
+maintenance,low_clean_tub,手軽に洗濯槽を洗いたい。,I want to clean the washer tub easily.
+maintenance,low_clean_tub,低温・短時間モードで洗濯機を掃除したい。,"I want to clean the washer on low-temp, short mode."
+maintenance,low_clean_tub,ドラムを軽く洗いたい。,I just want to lightly clean the drum.
+maintenance,low_clean_tub,時間がないから短めに洗濯ドラム洗いたい。,"I’m short on time, so I want to wash the drum quickly."
+maintenance,low_clean_tub,洗濯槽の簡単洗浄お願い。,Please do a simple cleaning for the tub.
+maintenance,low_clean_tub,さっと終わる洗濯槽洗浄コースにして。,Set it to a quick-clean course for the washer.
+maintenance,low_clean_tub,時間をかけずにドラムを洗いたい。,I want to wash the drum without spending much time.
+maintenance,low_clean_tub,ドラムの短時間洗いをしたい。,I’d like to do a short drum-cleaning cycle.
+maintenance,low_clean_tub,洗濯機を軽めに掃除したい。,I want to clean the washer lightly.
+maintenance,low_clean_tub,時短モードでドラム洗浄お願い。,"Run the drum-cleaning mode in quick mode, please."
+maintenance,low_clean_tub,洗濯槽を低温で軽く洗いたい。,I’d like to lightly wash the tub at a low temperature.
+maintenance,low_clean_tub,洗濯機を短時間でお手入れしたい。,I want to give the washer a short maintenance clean.
+maintenance,low_clean_tub,時間をかけずにドラムを洗いたい。,I want to clean the drum fast without taking time.
+maintenance,low_clean_tub,洗濯槽をすぐにきれいにしたい。,Please clean the washer tub right away.
+maintenance,low_clean_tub,短時間で終わる洗濯槽メンテお願い。,Use a quick cleaning mode for the tub.
+maintenance,low_clean_tub,洗濯槽を時間短めで洗って。,Wash the tub in a shorter cycle.
+maintenance,low_clean_tub,軽いドラム洗浄モードを起動して。,Start the light drum-cleaning mode.
+maintenance,low_clean_tub,洗濯槽の簡単クリーニングをお願い。,Please do a simple quick clean for the tub.
+maintenance,low_clean_tub,低温モードで短めにドラムを洗いたい。,I’d like to wash the drum shortly in low-temp mode.
+maintenance,low_clean_tub,すぐ終わるドラム洗いお願い。,Please do a fast drum wash.
+maintenance,low_clean_tub,洗濯槽をクリーンにするモードでさっと洗って。,Quickly clean the tub using the refresh mode.
+maintenance,low_clean_tub,洗濯機の軽いメンテナンスをしたい。,I want to give the washer a light maintenance clean.
+maintenance,low_clean_tub,時間短めのドラム洗浄コースで。,Run the short drum-cleaning course.
+maintenance,low_clean_tub,洗濯槽をサッとお手入れしたい。,I just want to do a quick maintenance clean for the tub.
+maintenance,low_clean_tub,ドラムを軽く回してきれいにしたい。,I want to lightly spin the drum to keep it clean.
+maintenance,low_clean_tub,汚れ予防ついでに短時間でドラムを洗いたい。,I want to wash the drum quickly to help prevent dirt buildup.
+maintenance,low_clean_tub,汚れが付く前にドラムを軽く洗っておきたい。,I want to lightly wash the drum before dirt starts to stick.
+maintenance,low_clean_tub,洗濯槽を軽くお手入れしたいんだけど。,I just want to do some light maintenance on the tub.
+maintenance,low_clean_tub,ドラムを短め運転でさっと洗って。,"Please give the drum a quick, short wash."
+maintenance,low_clean_tub,ドラムを軽くお手入れをしたい。,I want to do a light maintenance clean for the drum.
+maintenance,low_clean_tub,洗濯槽を簡単に一回洗っときたい。,I want to run one quick wash for the tub.
+maintenance,low_clean_tub,ドラムを短時間でサッときれいにして。,Clean the drum quickly in a short cycle.
+maintenance,low_clean_tub,洗濯槽の汚れ予防をしたい。,I want to help prevent dirt buildup in the tub.
+maintenance,low_clean_tub,時間かけずにドラムを軽く回したい。,I want to lightly spin the drum without taking much time.
+maintenance,low_clean_tub,洗濯槽を軽め運転で洗いたい。,I want to wash the tub on a light cycle.
+maintenance,low_clean_tub,さっと終わるドラムのお手入れお願い。,Please do a quick maintenance run for the drum.
+maintenance,low_clean_tub,洗濯槽を短時間で軽く洗うモードにして。,"Set it to a short, light wash for the tub."
+maintenance,low_clean_tub,ドラムをちょっとお手入れしたい。,I just want to do a little maintenance on the drum.
+maintenance,low_clean_tub,汚れ防止で洗濯槽を軽く洗いたいな。,I want to lightly wash the tub to help prevent dirt.
+maintenance,low_clean_tub,ドラムを簡単メンテモードでお願い。,Please use the simple maintenance mode for the drum.
+maintenance,low_clean_tub,洗濯槽を短めコースで洗っときたい。,I want to wash the tub on a shorter course.
+maintenance,low_clean_tub,ドラムを軽く洗って、きれいな状態をキープしたい。,Lightly wash the drum so it stays clean.
+maintenance,low_clean_tub,時短で洗濯槽のお手入れをお願い。,"Please do a quick, time-saving maintenance clean for the tub."

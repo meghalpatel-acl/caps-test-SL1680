@@ -1,0 +1,23 @@
+digraph G {
+    rankdir=LR;
+    UserInput [label="User Input" shape=box];
+    NLUModel [label="NLU Model (Embeddings)" shape=box];
+    IntentClassification [label="Intent Classification and Slot Extraction" shape=box];
+    FSM [label="Pass to FSM" shape=box];
+    State1 [label="Type of Laundry" shape=box];
+    State2 [label="Stain Type" shape=box];
+    State3 [label="Desired Finish" shape=box];
+    State4 [label="Constraints" shape=box];
+    State5 [label="Hot Water/Drying" shape=box];
+    End [label="End/Recommendation" shape=box];
+
+    UserInput -> NLUModel;
+    NLUModel -> IntentClassification;
+    IntentClassification -> FSM;
+    FSM -> State1;
+    State1 -> State2;
+    State2 -> State3;
+    State3 -> State4;
+    State4 -> State5;
+    State5 -> End;
+}

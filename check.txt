@@ -1,4 +1,0 @@
-This is for pipeline test 1.
-
-This is for test 2.
-

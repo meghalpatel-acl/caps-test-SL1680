@@ -1,0 +1,88 @@
+{
+  "everyday": {
+    "second_type": [
+      "none_in_particular",
+      "sebum_sweat",
+      "yellowing",
+      "mud_food_spills_strong_odor",
+      "preferred"
+    ],
+    "third_type": [
+      "none",
+      "quiet_at_night",
+      "save_electricity",
+      "wash_thoroughly"
+    ]
+  },
+  "delicates": {
+    "second_type": [
+      "none",
+      "gentle_wash",
+      "target_sebum_sweat",
+      "remove_yellowing",
+      "light_refresh_overall"
+    ],
+    "third_type": [
+      "none"
+    ]
+  },
+  "towels": {
+    "second_type": [
+      "none",
+      "fluffy_soft",
+      "in_a_hurry"
+    ],
+    "third_type": [
+      "none"
+    ]
+  },
+  "sportswear": {
+    "second_type": [
+      "none",
+      "in_a_hurry",
+      "not_in_a_hurry"
+    ],
+    "third_type": [
+      "none"
+    ]
+  },
+  "bedding": {
+    "second_type": [
+      "none",
+      "blanket",
+      "warm_water_thorough"
+    ],
+    "third_type": [
+      "none"
+    ]
+  },
+  "whites": {
+    "second_type": [
+      "none",
+      "sanitize"
+    ],
+    "third_type": [
+      "none"
+    ]
+  },
+  "care": {
+    "second_type": [
+      "none",
+      "dewrinkle_deodorize",
+      "pollen_sanitize_deodorize",
+      "restore_water_repellency"
+    ],
+    "third_type": [
+      "none"
+    ]
+  },
+  "dry_only": {
+    "second_type": [
+      "none",
+      "soft"
+    ],
+    "third_type": [
+      "none"
+    ]
+  }
+}

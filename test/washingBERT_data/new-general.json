@@ -1,0 +1,331 @@
+[
+  {
+    "sentence": "洗濯をスタートする方法を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おすすめのコースを教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "手動で個別に設定する事は可能ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "乾燥だけで使用出来ますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯だけする方法を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "チャイルドロックの設定をしたい",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "自動投入機能の使い方を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗剤を手動で投入できますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "スチーム機能の使い方を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "2度洗いは出来ますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ナノイーXとは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ジェット乾燥とは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ふんわりキープとは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「洗い」だけ行いたいのですが",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "すすぎの設定を変更することは可能ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "脱水時間の変更は可能ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "運転終了時にアラームを鳴らさないようにできますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ドアが開かないのですが",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "外出先から洗濯を開始できますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯の途中で一時停止できますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "一時停止中にドアは開きますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯ネットは必要ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "毛布は洗えますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "羽毛布団は洗えますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "省エネモードはありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "深夜に運転しても大丈夫？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯物が絡まります。どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "異音がします。どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おしゃれ着コースはありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「わが家流」設定とは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗剤の種類によって設定は変わりますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯物に白い粉が残っています。　どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "お急ぎコースはありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "靴は洗えますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ドアが完全に閉まりません",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "本体がぐらつきます。どうしたら良いですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「水が出ない」エラーが出ます",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「排水できない」エラーが出ます",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "コースが表示されないのですが",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "予約機能の使い方をおしえて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯時間は何分ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "最大容量は？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "水漏れしています。どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ドラムが動きません",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "設定の初期化はできますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "本体が熱くなります",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おすすめの洗剤・柔軟剤はありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  }
+]

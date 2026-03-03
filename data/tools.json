@@ -1,0 +1,18 @@
+[
+    {
+        "token": "{time}",
+        "command": "date"
+    },
+    {
+        "token": "{vision}",
+        "command": "python -m core.tools.vision"
+    },
+    {
+        "token": "{light_on}",
+        "command": "echo 'light on' & python core/tools/gpio.py 484 out 1"
+    },
+    {
+        "token": "{light_off}",
+        "command": "echo 'light off' & python core/tools/gpio.py 484 out 0"
+    }
+]

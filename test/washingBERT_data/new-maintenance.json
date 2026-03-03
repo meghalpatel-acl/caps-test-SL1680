@@ -1,0 +1,177 @@
+[
+  {
+    "sentence": "浴槽のカビを徹底的に取り除いてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"  
+  },
+  {
+    "sentence": "黒カビを防ぐために浴槽を掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の臭いとカビの両方を取り除いてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "長年の汚れとカビを浴槽から洗い流してください。",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "カビ除去の洗浄サイクルを開始してください。",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯機の中を乾かしてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の水分を取り除くために乾燥サイクルを実行してください。",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "使用後にドラムを乾燥させたいです。",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "カビを防ぐために浴槽を乾かしてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "内部の水を取り除くために乾燥モードを起動してください。",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "通常の浴槽洗浄サイクルを実行してくれますか？",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "標準の浴槽洗浄プログラムを開始してください。",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "軽い汚れ用に通常コースで浴槽を洗ってください。",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "メンテナンスのために通常の浴槽洗浄をしてください。",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汚れの蓄積を防ぐために浴槽を掃除してくれますか？",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽を軽くすすいでください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の中を軽くすすいでくれますか？",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汚れがあまりないので、浴槽を軽くすすいでください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽を短時間ですすぎサイクルで回してください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "軽くすすいで浴槽をすぐに掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "時間を節約するために低温で浴槽を掃除してくれますか？",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽を素早く掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "低温サイクルでやさしく浴槽を掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "省エネの低温浴槽洗浄を実行してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の軽い汚れを掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  }
+]

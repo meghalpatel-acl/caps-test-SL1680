@@ -1,0 +1,53 @@
+type,second_type,Question,Question_English
+everyday,auto,設定は全部おまかせでお願い。,Please take care of all the settings for me.
+everyday,auto,自動モードで洗ってほしいな。,I had like you to wash in auto mode.
+delicates,target_sebum_sweat,汗汚れに強いコースでお願い。,Use a course that’s strong against sweat stains.
+delicates,target_sebum_sweat,皮脂汚れをしっかり落としたいんだけど。,I want to wash away sebum dirt thoroughly.
+delicates,remove_yellowing,黄ばみを落としたいんだけど。,I’d like to get rid of yellow stains.
+delicates,remove_yellowing,襟の黄ばみをスッキリさせたい。,I want to clean the yellowing on collars.
+delicates,light_refresh_overall,洗わないで優しく乾かしてほしい。,Please dry gently without washing.
+delicates,light_refresh_overall,洗わないでソフトな乾燥モードにして。,Set to soft dry mode without washing.
+delicates,gentle_wash,優しく洗ってほしいな。,Please wash gently.
+delicates,gentle_wash,デリケートモードにして。,Set it to delicate mode.
+towels,fluffy_soft,タオルをふんわり仕上げたい。,I want my towels to be fluffy.
+towels,fluffy_soft,柔らかく乾かしてほしい。,Please dry them softly.
+towels,in_a_hurry,時間がないから早く洗ってほしい。,"I don’t have time, please wash quickly."
+towels,in_a_hurry,とにかく早くして。,Just make it fast.
+sportswear,in_a_hurry,急いでるから早く終わらせたい。,"I'm in a hurry, finish quickly."
+sportswear,in_a_hurry,急いでるから早く終わらせたい。,"Yes, I am in a hurry"
+sportswear,not_in_a_hurry,ゆっくり丁寧に洗ってほしい。,Please wash slowly and carefully.
+sportswear,not_in_a_hurry,時間は気にしてないので、普通に洗って。,"I’m not worried about time, just wash normally."
+bedding,blanket,ふっくら仕上げたい。,I want it fluffy.
+bedding,blanket,おまかせでお願い。,Go with default setting
+bedding,warm_water_thorough,汗や脂を落としたい。,I want to remove sweat and oil.
+bedding,warm_water_thorough,においがキツイのでしっかり。,"It smells bad, so wash thoroughly."
+care,dewrinkle_deodorize,シワとニオイを取ってほしい。,Please remove wrinkles and odor.
+care,dewrinkle_deodorize,洗わずに臭いを取りたい。,Remove odor without washing.
+care,pollen_sanitize_deodorize,除菌と花粉対策をしたい。,I want to sterilize and remove pollen.
+care,pollen_sanitize_deodorize,花粉を落としたいんだけど。,I want to get rid of pollen.
+care,restore_water_repellency,撥水効果を戻したいんだけど。,I want to restore the water repellency.
+care,restore_water_repellency,水を弾くようにお願い。,Make it repel water again.
+everyday,none_in_particular,自動でお願い。,Continue with auto mode.
+everyday,none_in_particular,普通の洗いで大丈夫だよ。,Normal wash is fine.
+everyday,sebum_sweat,汗っぽいからしっかり洗って。,"It’s sweaty, so please wash thoroughly."
+everyday,sebum_sweat,皮脂汚れを落としたいんだ。,I want to remove sebum stains.
+everyday,yellowing,黄ばみが気になるから丁寧に洗って。,"I’m worried about yellowing, so wash carefully."
+everyday,yellowing,襟や袖の黄ばみを落としたいんだ。,I want to remove yellow stains on collars and cuffs.
+everyday,mud_food_spills_strong_odor,泥汚れがひどいのできれいにして。,"It's super muddy, please make it clean! "
+everyday,mud_food_spills_strong_odor,食べ物のシミが気になるので落として。,"I'm worried about food stains, so please remove them."
+everyday,preferred_night,夜だから静かに洗いたいんだけど。,I want to wash quietly since it's nighttime.
+everyday,preferred_night,音を抑えて洗えるモードにしてほしい。,Please set it to a mode that reduces noise.
+everyday,preferred_energy,省エネモードにしてもらえる？,Can you set it to energy-saving mode?
+everyday,preferred_energy,エコ洗いでお願い。,Eco wash.
+everyday,preferred_powerful,しっかりした水流で洗いたいんだけど。,I want to wash with a strong water flow.
+everyday,preferred_powerful,強めの水流で汚れを落としたい。,I want to remove stains with powerful water flow.
+whites,sanitize,白い服をきれいめに洗ってほしい。,I want my white clothes washed thoroughly.
+whites,sanitize,白物を、においも菌も除去できるコースでお願い。,I would like a course that can remove odors and bacteria from white items.
+dry_only,none,仕上げに乾燥だけお願い。,All you need to do is dry it to finish.
+dry_only,none,湿気を飛ばす程度で、乾燥だけして。,Just dry it to remove the moisture.
+none,yes,はい、続けてください。,"Yes, please continue."
+none,yes,それでお願いします。,Please go with that.
+none,no,いいえ、違います。,"No, that's incorrect."
+none,no,やめてください。,Please stop.
+none,back,メニュー画面に戻ってくれる？,Can you go back to the menu screen?
+none,back,最初の画面に戻してほしいな。,Take me back to the first screen.

@@ -1,0 +1,1733 @@
+[
+  {
+    "sentence": "普段着や下着を、おまかせで洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "いつもの標準コースでお願い。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "下着も一緒に、いつも通りの設定で。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "TシャツやGパンなど、普段着をまとめて普通に洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "今日の洗濯は、いつもの標準設定で大丈夫よ。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "特に指定なしで、普段着をお願いね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯は、標準コースで大丈夫。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "普段着をいつもの設定で、よろしくね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "Tシャツの汗と皮脂が気になるから、しっかり落として。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シャツの汗のにおいをしっかり取って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "脇の汗ジミに効くように、しっかり洗う設定で。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汗っぽいポロシャツを、すっきりさせて。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汗ばむ季節の汚れに、しっかり対応してね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "部活帰りの体操服の汗っぽさを、しっかり落として。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "夫の作業着の皮脂のベタつきを取って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "Yシャツの襟や袖の汗汚れを、重点的に洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "Yシャツの襟の黄ばみを落として。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白シャツの黄ばみケアでお願い。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "黄ばみが目立つ服をきれいに洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "古い黄ばみを、できるだけ薄くしてほしい。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汗で黄ばんだTシャツの部分をケアして。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白いブラウスの黄ばみを整えて。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "襟元のくすみを取りたいわ。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "黄ばみ対策を重視してお願い。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "子供の服の泥と食べこぼしをまとめて落として。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ひどい汚れとにおいをスッキリ取ってほしい。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "生乾きのようなにおい対策を強めにして。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "外遊びの泥汚れがついたジーンズに対応して。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "調理服の油はねと食べ物のにおいを取って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "頑固なにおいをできるだけ取ってちょうだい。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "夜だから、静かめなモードでお願い。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "quiet_at_night"
+  },
+  {
+    "sentence": "家族が寝てるから、運転音を抑えてね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "quiet_at_night"
+  },
+  {
+    "sentence": "集合住宅なので、静音モードで洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "quiet_at_night"
+  },
+  {
+    "sentence": "深夜なので、静かに回してね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "quiet_at_night"
+  },
+  {
+    "sentence": "早朝だから、運転音は控えめで。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "quiet_at_night"
+  },
+  {
+    "sentence": "できるだけ省エネ運転でお願い。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "save_electricity"
+  },
+  {
+    "sentence": "電気代を抑えるエコ運転にしてね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "save_electricity"
+  },
+  {
+    "sentence": "節電を優先してお願いね。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "save_electricity"
+  },
+  {
+    "sentence": "時間が長めでもいいから、省エネモードで。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "save_electricity"
+  },
+  {
+    "sentence": "今日はエココースでいこう。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "save_electricity"
+  },
+  {
+    "sentence": "泥汚れを徹底的に落としてほしい。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "wash_thoroughly"
+  },
+  {
+    "sentence": "パワフルコースでしっかり洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "wash_thoroughly"
+  },
+  {
+    "sentence": "頑固な汚れを、しっかり攻めるモードで。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "wash_thoroughly"
+  },
+  {
+    "sentence": "汚れ落ちを重視して仕上げて。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "wash_thoroughly"
+  },
+  {
+    "sentence": "子供の体操服を、とことんきれいに洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "wash_thoroughly"
+  },
+  {
+    "sentence": "おしゃれ着やシルクなどのデリケート衣類をまとめて。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートな衣類を、普通に優しく洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ブラウスなどデリケートな服中心でお願い。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ニットなどのデリケートを、やさしく手洗いコースで。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "gentle_wash",
+    "third_type": "none"
+  },
+  {
+    "sentence": "服を傷めないように、静かめな運転で洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "gentle_wash",
+    "third_type": "none"
+  },
+  {
+    "sentence": "手洗い相当のやさしさで、おしゃれ着を洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "gentle_wash",
+    "third_type": "none"
+  },
+  {
+    "sentence": "薄手のワンピースに優しい設定で。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "gentle_wash",
+    "third_type": "none"
+  },
+  {
+    "sentence": "レースの服が引っかかりにくい運転でお願い。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "gentle_wash",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートな素材の服の汗と皮脂に対応して。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "target_sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ニットの汗っぽさを取ってほしい。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "target_sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケート衣類の汗汚れが目立つ部分をケアして。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "target_sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケート衣類ににおいがこもらないように洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "target_sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シルクのブラウスの襟元の汗じみ対策でお願い。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "target_sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートな服に黄ばみがあるから、優しく落として。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "remove_yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白系のニットのくすみを整えて。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "remove_yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おしゃれ着用ブラウスの襟や袖の黄ばみ対策で。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "remove_yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "黄ばみの気になる部分を中心に、優しく洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "remove_yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "古い黄ばみも、デリケートモードでできるだけ落として。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "remove_yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケート全体を、軽くリフレッシュする程度で。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "light_refresh_overall",
+    "third_type": "none"
+  },
+  {
+    "sentence": "見た目を軽く整える程度で大丈夫。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "light_refresh_overall",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケート衣類のこもったにおいを、軽く取ってほしい。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "light_refresh_overall",
+    "third_type": "none"
+  },
+  {
+    "sentence": "短めのコースで、軽く整えて。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "light_refresh_overall",
+    "third_type": "none"
+  },
+  {
+    "sentence": "軽仕上げで、見た目の印象を良くして。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "light_refresh_overall",
+    "third_type": "none"
+  },
+  {
+    "sentence": "バスタオルやフェイスタオルをまとめて洗って。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "タオルを普通コースで洗って。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "普段使いのタオルをお願い。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "タオルをふわふわに仕上げるコースで。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "fluffy_soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "やわらかく仕上げたいから、タオルコースで。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "fluffy_soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "肌ざわりを重視して洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "fluffy_soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "タオルのふっくら感を出して。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "fluffy_soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "タオルの吸水性を落とさない仕上がりでお願い。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "fluffy_soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "すぐ使いたいから、短時間で洗って。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "急ぎで手早くタオルを洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "最短コースで仕上げて。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "時間がないから、早めのコースでお願い。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "トレーニングウェアを普通に洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "運動用の服をまとめて洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ユニフォームをいつもの設定で。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "練習前に間に合うように、急ぎで洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "体操服をできるだけ早く仕上げて。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "試合前だから、短時間コースでお願い。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汗抜き優先で、早めのコースで。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "帰宅後すぐ使えるように、早く洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "時間に余裕があるから、ゆっくり丁寧に洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "not_in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "丁寧に洗うモードで構わない。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "not_in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "省エネモード寄りで大丈夫。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "not_in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "スポーツウェアを無理のない運転で洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "not_in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シーツや枕カバーなどの寝具をまとめて洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シーツ中心で普通に洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "枕カバーも合わせて洗ってね。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "掛け布団を丸洗いしてほしい。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "blanket",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ふとんを丁寧に洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "blanket",
+    "third_type": "none"
+  },
+  {
+    "sentence": "厚手の布団をしっかり洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "blanket",
+    "third_type": "none"
+  },
+  {
+    "sentence": "布団の汚れを中心に洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "blanket",
+    "third_type": "none"
+  },
+  {
+    "sentence": "毛布をあたたかい水でしっかり洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "warm_water_thorough",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ブランケットをやさしく、温水コースで洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "warm_water_thorough",
+    "third_type": "none"
+  },
+  {
+    "sentence": "毛布のボリューム感を保てるように洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "warm_water_thorough",
+    "third_type": "none"
+  },
+  {
+    "sentence": "温かめ設定で、気持ちよくなるように洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "warm_water_thorough",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白いシャツやタオルをまとめて洗って。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白中心で、普通に洗ってね。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白い服をきれいめに洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白い寝具を清潔重視で洗って。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "sanitize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白いタオルを衛生的に洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "sanitize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "しっかり除菌して清潔に仕上げてね。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "sanitize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "におい残りのない仕上がりでお願い。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "sanitize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "清潔第一で白いものを洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "sanitize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "においやホコリを取る衣類ケアだけして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "においとホコリの軽いケアをお願い。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "見た目を軽く整える程度で大丈夫。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "繊維をいたわる軽いケアをしてね。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シワ取りだけしてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "スチームで服を整えて。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "服のにおいを取ってほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ワイシャツのシワをきれいに取って。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "折りジワをできるだけなくしてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ジャケットの見た目が整うようにケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "服に軽くハリを戻して。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "着る前に服の形を整えて。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "コートの花粉を落としてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "しっかり除菌だけして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "衛生的に仕上げてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "外干しした服の花粉とにおいをケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "衣替え前に、服を清潔にしておきたい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "服のこもったにおいを抑えて。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "外出後に服に付着したものをケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "敏感肌でも安心な仕上がりでケアしてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "レインコートの撥水を復活させて。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ジャケットの撥水を戻してほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "雨具の撥水を効かせ直して。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "アウターの撥水を強めてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "通勤用のレインウェアを整えて。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "服の水はじきを良くしてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗わずに乾燥だけで。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "仕上げに乾燥だけお願い。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗わずに乾燥だけしてほしい。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "湿気を飛ばす程度で、乾燥だけして。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ソフト乾燥だけでお願い。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "衣類に優しいソフト乾燥で。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "縮みにくいソフト乾燥でお願い。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ふんわり仕上げのソフト乾燥で。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "熱は控えめでソフト乾燥してね。",
+    "primary_intent": "wash",
+    "type": "dry_only",
+    "second_type": "soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "普段着や下着を、おまかせで洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "Tシャツやジーンズなど、普段着を洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "none_in_particular",
+    "third_type": "none"
+  },
+  {
+    "sentence": "普段着を汗と皮脂に強い設定で洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "普段着を黄ばみケアコースで洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "子供の服を汚れとにおい対策で洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "mud_food_spills_strong_odor",
+    "third_type": "none"
+  },
+  {
+    "sentence": "普段着を静音モードで洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "quiet_at_night"
+  },
+  {
+    "sentence": "普段着を省エネコースで洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "save_electricity"
+  },
+  {
+    "sentence": "汚れた普段着を徹底的に洗って。",
+    "primary_intent": "wash",
+    "type": "everyday",
+    "second_type": "preferred",
+    "third_type": "wash_thoroughly"
+  },
+  {
+    "sentence": "おしゃれ着などのデリケート衣類を洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートな服を、やさしく手洗いコースで洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "gentle_wash",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートな服の汗汚れに効くように洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "target_sebum_sweat",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートなブラウスの黄ばみケアで洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "remove_yellowing",
+    "third_type": "none"
+  },
+  {
+    "sentence": "デリケートなニットを、軽くリフレッシュする感じで洗って。",
+    "primary_intent": "wash",
+    "type": "delicates",
+    "second_type": "light_refresh_overall",
+    "third_type": "none"
+  },
+  {
+    "sentence": "バスタオルを洗って。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "タオルをふんわり仕上がるように洗って。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "fluffy_soft",
+    "third_type": "none"
+  },
+  {
+    "sentence": "タオルを急ぎで洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "towels",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "体操服などのスポーツウェアを洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "スポーツウェアを急いで洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "スポーツウェアは、ゆっくりめで丁寧に洗って。",
+    "primary_intent": "wash",
+    "type": "sportswear",
+    "second_type": "not_in_a_hurry",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シーツなどの寝具を洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "掛け布団をしっかり洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "blanket",
+    "third_type": "none"
+  },
+  {
+    "sentence": "毛布をあたたかい水で洗って。",
+    "primary_intent": "wash",
+    "type": "bedding",
+    "second_type": "warm_water_thorough",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白いシャツなどの白物を洗って。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "白い寝具を清潔に洗ってほしい。",
+    "primary_intent": "wash",
+    "type": "whites",
+    "second_type": "sanitize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "シワ取りを優先してケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "におい取りを重視してケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "dewrinkle_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "服を衛生重視でケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "花粉対策として服をケアしてほしい。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "pollen_sanitize_deodorize",
+    "third_type": "none"
+  },
+  {
+    "sentence": "撥水仕上げで服をケアして。",
+    "primary_intent": "wash",
+    "type": "care",
+    "second_type": "restore_water_repellency",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽のカビを徹底的に取り除いてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"  
+  },
+  {
+    "sentence": "黒カビを防ぐために浴槽を掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の臭いとカビの両方を取り除いてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "長年の汚れとカビを浴槽から洗い流してください。",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "カビ除去の洗浄サイクルを開始してください。",
+    "primary_intent": "maintenance",
+    "type": "tub_mold",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯機の中を乾かしてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の水分を取り除くために乾燥サイクルを実行してください。",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "使用後にドラムを乾燥させたいです。",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "カビを防ぐために浴槽を乾かしてくれますか？",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "内部の水を取り除くために乾燥モードを起動してください。",
+    "primary_intent": "maintenance",
+    "type": "remove_moisture",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "通常の浴槽洗浄サイクルを実行してくれますか？",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "標準の浴槽洗浄プログラムを開始してください。",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "軽い汚れ用に通常コースで浴槽を洗ってください。",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "メンテナンスのために通常の浴槽洗浄をしてください。",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汚れの蓄積を防ぐために浴槽を掃除してくれますか？",
+    "primary_intent": "maintenance",
+    "type": "clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽を軽くすすいでください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の中を軽くすすいでくれますか？",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "汚れがあまりないので、浴槽を軽くすすいでください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽を短時間ですすぎサイクルで回してください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "軽くすすいで浴槽をすぐに掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "light_rinse",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "時間を節約するために低温で浴槽を掃除してくれますか？",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽を素早く掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "低温サイクルでやさしく浴槽を掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "省エネの低温浴槽洗浄を実行してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "浴槽の軽い汚れを掃除してください。",
+    "primary_intent": "maintenance",
+    "type": "low_clean_tub",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯をスタートする方法を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おすすめのコースを教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "手動で個別に設定する事は可能ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "乾燥だけで使用出来ますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯だけする方法を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "チャイルドロックの設定をしたい",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "自動投入機能の使い方を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗剤を手動で投入できますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "スチーム機能の使い方を教えて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "2度洗いは出来ますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ナノイーXとは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ジェット乾燥とは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ふんわりキープとは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「洗い」だけ行いたいのですが",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "すすぎの設定を変更することは可能ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "脱水時間の変更は可能ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "運転終了時にアラームを鳴らさないようにできますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ドアが開かないのですが",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "外出先から洗濯を開始できますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯の途中で一時停止できますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "一時停止中にドアは開きますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯ネットは必要ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "毛布は洗えますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "羽毛布団は洗えますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "省エネモードはありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "深夜に運転しても大丈夫？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯物が絡まります。どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "異音がします。どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おしゃれ着コースはありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「わが家流」設定とは何ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗剤の種類によって設定は変わりますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯物に白い粉が残っています。　どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "お急ぎコースはありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "靴は洗えますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ドアが完全に閉まりません",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "本体がぐらつきます。どうしたら良いですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「水が出ない」エラーが出ます",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "「排水できない」エラーが出ます",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "コースが表示されないのですが",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "予約機能の使い方をおしえて？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "洗濯時間は何分ですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "最大容量は？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "水漏れしています。どうしたらよいですか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "ドラムが動きません",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "設定の初期化はできますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "本体が熱くなります",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  },
+  {
+    "sentence": "おすすめの洗剤・柔軟剤はありますか？",
+    "primary_intent": "general_info",
+    "type": "none",
+    "second_type": "none",
+    "third_type": "none"
+  }
+]
+
+
