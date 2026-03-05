@@ -13,7 +13,7 @@ onnxruntime>=1.20.0,<1.21.0
 transformers==4.45.1
 tokenizers<0.21
 torch==2.9.0
-torchaudio=2.9.0
+torchaudio==2.9.0
 dotenv
 scikit-learn
 anthropic
