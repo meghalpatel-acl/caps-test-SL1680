@@ -259,6 +259,41 @@ class TextBasedWashAssistantFSM:
         self.intent_conf = self.type_conf = self.second_type_conf = None
         print("FSM Reset to idle")
 
+    def generate_all_possible_cycles(self):
+        all_outputs = []
+        
+        # Iterate through every main wash category defined in the script
+        for wash_type, config in WASH_CYCLES.items():
+            second_options = config["second_type"].keys()
+            
+            # Iterate through every valid sub-option for that category
+            for option in second_options:
+                self.reset()    # Ensure FSM is bacl to idle
+                
+                # Simulate stage 1: setting the type
+                self.type = wash_type
+                self.state = "wait_second_input"  # Manually set state to wait for second input
+                
+                # Simulate stage 2: setting the option
+                self.second_type = option
+                self.state = "wait_confirm_second"  # Manually set state to wait for confirmation
+                
+                # Simulate "Yes" confirmation and resolve the Final label
+                command_label = self.resolve_command_label()        
+                
+                if command_label:
+                    # Retrive the Japanese friendly names for the output list
+                    type_jp = JAPANESE_LABELS.get(self.type, self.type)
+                    option_jp = JAPANESE_LABELS.get(self.second_type, self.second_type)
+                    course_jp = JAPANESE_COURSE_LABELS.get(command_label, command_label)
+                    
+                    result_string = f"{type_jp} + {option_jp} -> {course_jp}"
+                    all_outputs.append(result_string)
+    
+        return all_outputs
+                    
+            
+            
     def process_query(self, query):
         response = {}
         if not query:
