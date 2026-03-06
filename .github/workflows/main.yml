@@ -13,10 +13,6 @@ on:
       - 'test_mode.py'
       - './core/wash_fsm/text_washer_assistant.py'
       
-    paths-ignore:
-      - '.github/**'
-      - 'README.md'
-      
   pull_request:
     branches: [ "main" ]
 
