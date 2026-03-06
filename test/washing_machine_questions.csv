@@ -22,4 +22,6 @@ everyday,preferred_energy,エコ洗いでお願い。,Eco wash.
 everyday,preferred_powerful,強めの水流で汚れを落としたい。,I want to remove stains with powerful water flow.
 whites,sanitize,白物を、においも菌も除去できるコースでお願い。,I would like a course that can remove odors and bacteria from white items.
 dry_only,none,湿気を飛ばす程度で、乾燥だけして。,Just dry it to remove the moisture.
+none,yes,それでお願いします。,Please go with that.
+none,no,やめてください。,Please stop.
 none,back,最初の画面に戻してほしいな。,Take me back to the first screen.
