@@ -9,12 +9,9 @@ on:
     branches: [ "main" ]
 
     paths:
-      - './test/washing_machine_questions.csv'
+      - 'test/washing_machine_questions.csv'
       - 'test_mode.py'
-      - './core/wash_fsm/text_washer_assistant.py'
-      
-  pull_request:
-    branches: [ "main" ]
+      - 'core/wash_fsm/text_washer_assistant.py'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
