@@ -233,7 +233,7 @@ class TextBasedWashAssistantFSM:
     def announce_maintenance(self):
         cycle = maintenance_json[self.type]
         # self._speak(f"{cycle}を開始します。")
-        print(f"{cycle}を開始します。")
+        print(f"[RESPONSE] {cycle}を開始します。")
         self.reset()
 
     def announce_start(self):
@@ -241,7 +241,8 @@ class TextBasedWashAssistantFSM:
         type_jp = JAPANESE_LABELS.get(self.type, self.type)
         second_type_jp = JAPANESE_LABELS.get(self.second_type, self.second_type)
         course_jp = JAPANESE_COURSE_LABELS.get(self.resolve_command_label(), self.resolve_command_label())
-        msg = f"{type_jp}を{second_type_jp}で{course_jp}を開始します。"
+        # msg = f"{type_jp}を{second_type_jp}で{course_jp}を開始します。"
+        msg = f"[RESPONSE] {type_jp}を{second_type_jp}で{course_jp}を開始します。"
         # self._speak(msg)
         print(msg)
         self.reset()
@@ -259,38 +260,38 @@ class TextBasedWashAssistantFSM:
         self.intent_conf = self.type_conf = self.second_type_conf = None
         print("FSM Reset to idle")
 
-    def generate_all_possible_cycles(self):
-        all_outputs = []
+    # def generate_all_possible_cycles(self):
+    #     all_outputs = []
         
-        # Iterate through every main wash category defined in the script
-        for wash_type, config in WASH_CYCLES.items():
-            second_options = config["second_type"].keys()
+    #     # Iterate through every main wash category defined in the script
+    #     for wash_type, config in WASH_CYCLES.items():
+    #         second_options = config["second_type"].keys()
             
-            # Iterate through every valid sub-option for that category
-            for option in second_options:
-                self.reset()    # Ensure FSM is bacl to idle
+    #         # Iterate through every valid sub-option for that category
+    #         for option in second_options:
+    #             self.reset()    # Ensure FSM is bacl to idle
                 
-                # Simulate stage 1: setting the type
-                self.type = wash_type
-                self.state = "wait_second_input"  # Manually set state to wait for second input
+    #             # Simulate stage 1: setting the type
+    #             self.type = wash_type
+    #             self.state = "wait_second_input"  # Manually set state to wait for second input
                 
-                # Simulate stage 2: setting the option
-                self.second_type = option
-                self.state = "wait_confirm_second"  # Manually set state to wait for confirmation
+    #             # Simulate stage 2: setting the option
+    #             self.second_type = option
+    #             self.state = "wait_confirm_second"  # Manually set state to wait for confirmation
                 
-                # Simulate "Yes" confirmation and resolve the Final label
-                command_label = self.resolve_command_label()        
+    #             # Simulate "Yes" confirmation and resolve the Final label
+    #             command_label = self.resolve_command_label()        
                 
-                if command_label:
-                    # Retrive the Japanese friendly names for the output list
-                    type_jp = JAPANESE_LABELS.get(self.type, self.type)
-                    option_jp = JAPANESE_LABELS.get(self.second_type, self.second_type)
-                    course_jp = JAPANESE_COURSE_LABELS.get(command_label, command_label)
+    #             if command_label:
+    #                 # Retrive the Japanese friendly names for the output list
+    #                 type_jp = JAPANESE_LABELS.get(self.type, self.type)
+    #                 option_jp = JAPANESE_LABELS.get(self.second_type, self.second_type)
+    #                 course_jp = JAPANESE_COURSE_LABELS.get(command_label, command_label)
                     
-                    result_string = f"{type_jp} + {option_jp} -> {course_jp}"
-                    all_outputs.append(result_string)
+    #                 result_string = f"{type_jp} + {option_jp} -> {course_jp}"
+    #                 all_outputs.append(result_string)
     
-        return all_outputs
+    #     return all_outputs
                     
             
             
@@ -363,9 +364,13 @@ class TextBasedWashAssistantFSM:
             
             # Ask for second_type (option) directly
             #self.stage = self.STAGE_WAIT_SECOND_INPUT
-            elif self.intent == "wash":
+            # elif self.intent == "wash":
+            #     self.got_wash_intent()
+            elif self.intent == "wash" or (self.type != "none" and self.type_conf > SIMILARITY_THRESHOLD_TYPE):
+                print(f"Force-treating to wash intent due to detected type: {self.type}")
+                self.intent = "wash"    # Manually set to the FSM moves forward
                 self.got_wash_intent()
-
+            
             else: 
                 # self._speak("もう一度お願いします。")
                 print("Intent not recognized as wash or maintenance, asking user to repeat.")
@@ -375,6 +380,18 @@ class TextBasedWashAssistantFSM:
 
         elif self.state == "wait_second_input":
             print(f"Current FSM state: {self.state}")
+            
+            # 1. check if a query is already a valid technical key
+            valid_second_types = set(WASH_CYCLES.get(self.type, {}).get("second_type", {}).keys())
+            
+            if query in valid_second_types:
+                print(f"---INFO--- Bypassing model: '{query}' recognized as a valid key.")
+                self.second_type = query
+                self.second_type_conf = 1.0
+                self.got_second_type()
+                return {"predicted_second_type": query, "second_type_confidence": 1.0}
+            
+            # 2. original logic
             out2 = self.run_stage2(query)
             if not out2:
                 # self._speak("詳細認識に失敗しました。もう一度お願いします。")
