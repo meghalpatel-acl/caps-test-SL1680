@@ -8,9 +8,15 @@ on:
   push:
     branches: [ "main" ]
 
+    paths:
+      - './test/washing_machine_questions.csv'
+      - 'test_mode.py'
+      - './core/wash_fsm/text_washer_assistant.py'
+      
     paths-ignore:
       - '.github/**'
       - 'README.md'
+      
   pull_request:
     branches: [ "main" ]
 
@@ -40,10 +46,11 @@ jobs:
 
       - name: Run Application
         run: |
-          echo "Starting the test mode!" >> ~/status.txt
+          echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting the test mode [>>>>>>>>>>]" >> ~/status.txt
+          tar -xvzf .venv.tar.gz
           source .venv/bin/activate
-          python test_mode.py
-          echo "execution completed successfully!" >> ~/status.txt
+          python test_mode.py | tee -a ~/status.txt
+          echo "[$(date '+%Y-%m-%d %H:%M:%S')] Execution completed successfully! [<<<<<<<<<<]" >> ~/status.txt
 
   deploy:
     runs-on: self-hosted
