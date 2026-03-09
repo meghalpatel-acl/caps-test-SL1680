@@ -42,20 +42,22 @@ jobs:
 
       - name: Pull LFS files manually
         run: |
-          git lfs install
-          git lfs pull
+          # Intialize git lfs
+          echo -e "Initializing Git LFS..."
+          #git lfs install
+          #git lfs pull
           
       - name: Extract Archive
         run: |
           echo -e "\n\n[$(date '+%Y-%m-%d %H:%M:%S')] [>>>>>>>>>>] Starting the test mode [>>>>>>>>>>]\n" >> ~/status.txt
           # Verify file existence and size
-          ls -lh .venv.tar.gz || echo "File not found"
-          echo -e "\n[$(date '+%Y-%m-%d %H:%M:%S')] Extracting environment...\n" >> ~/status.txt
-          tar -xzf .venv.tar.gz || { echo "Tar failed"; exit 1; }
+          #ls -lh .venv.tar.gz || echo "File not found"
+          #echo -e "\n[$(date '+%Y-%m-%d %H:%M:%S')] Extracting environment...\n" >> ~/status.txt
+          #tar -xzf .venv.tar.gz || { echo "Tar failed"; exit 1; }
                     
       - name: Run Application
         run: |
-          source .venv/bin/activate
+          source /home/root/.venv/bin/activate
           python test_mode.py | tee -a ~/status.txt
           echo -e "\n[$(date '+%Y-%m-%d %H:%M:%S')] [<<<<<<<<<<] Execution completed! [<<<<<<<<<<]\n" >> ~/status.txt
 
