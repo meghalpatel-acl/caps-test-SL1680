@@ -44,12 +44,11 @@ jobs:
         run: |
           echo "[$(date '+%Y-%m-%d %H:%M:%S')] Starting the test mode [>>>>>>>>>>]" >> ~/status.txt
           # Verify file existence and size
-          ls -lh .venv.tar.gz || echo "File not found"
+          # ls -lh .venv.tar.gz || echo "File not found"
 
-          echo "[$(date '+%Y-%m-%d %H:%M:%S')] Extracting environment..." >> ~/status.txt
-          tar -xzf .venv.tar.gz || { echo "Tar failed"; exit 1; }
+          # echo "[$(date '+%Y-%m-%d %H:%M:%S')] Extracting environment..." >> ~/status.txt
+          # tar -xzf .venv.tar.gz || { echo "Tar failed"; exit 1; }
 
-          
           source .venv/bin/activate
           python test_mode.py | tee -a ~/status.txt
           echo "[$(date '+%Y-%m-%d %H:%M:%S')] Execution completed! [<<<<<<<<<<]" >> ~/status.txt
