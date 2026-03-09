@@ -47,17 +47,17 @@ jobs:
           
       - name: Extract Archive
         run: |
-          echo "\n\n[$(date '+%Y-%m-%d %H:%M:%S')] [>>>>>>>>>>] Starting the test mode [>>>>>>>>>>]\n" >> ~/status.txt
+          echo -e "\n\n[$(date '+%Y-%m-%d %H:%M:%S')] [>>>>>>>>>>] Starting the test mode [>>>>>>>>>>]\n" >> ~/status.txt
           # Verify file existence and size
           ls -lh .venv.tar.gz || echo "File not found"
-          echo "\n[$(date '+%Y-%m-%d %H:%M:%S')] Extracting environment...\n" >> ~/status.txt
+          echo -e "\n[$(date '+%Y-%m-%d %H:%M:%S')] Extracting environment...\n" >> ~/status.txt
           tar -xzf .venv.tar.gz || { echo "Tar failed"; exit 1; }
                     
       - name: Run Application
         run: |
           source .venv/bin/activate
           python test_mode.py | tee -a ~/status.txt
-          echo "\n[$(date '+%Y-%m-%d %H:%M:%S')] [<<<<<<<<<<] Execution completed! [<<<<<<<<<<]\n" >> ~/status.txt
+          echo -e "\n[$(date '+%Y-%m-%d %H:%M:%S')] [<<<<<<<<<<] Execution completed! [<<<<<<<<<<]\n" >> ~/status.txt
 
   deploy:
     runs-on: self-hosted
@@ -68,10 +68,10 @@ jobs:
       - name: check file existance
         run: |
           if [ -z "$HOME" ]; then
-            echo "Error: \$HOME variable is not set."
+            echo -e "Error: \$HOME variable is not set."
           elif [ -f "$HOME/status.txt" ]; then
-            echo "Confirmed: status.txt exists in $HOME"
+            echo -e "Confirmed: status.txt exists in $HOME"
           else
-            echo "File not found: status.txt is missing from $HOME"
+            echo -e "File not found: status.txt is missing from $HOME"
           fi
       
