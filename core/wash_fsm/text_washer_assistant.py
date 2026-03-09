@@ -2,7 +2,7 @@ from transitions import Machine
 import unicodedata
 import json
 from core.intent_classifier.intent_classification import predict_onnx
-from claude import chat_with_claude
+# from claude import chat_with_claude
 
 SIMILARITY_THRESHOLD = 0.80  # You can adjust this value
 SIMILARITY_THRESHOLD_TYPE = 0.5  # For type confidence threshold
