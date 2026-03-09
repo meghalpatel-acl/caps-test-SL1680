@@ -39,6 +39,14 @@ jobs:
         uses: actions/checkout@v4
         with:
           lfs: true
+
+      - name: Pull LFS files manually
+        run: |
+          git lfs install
+          git lfs pull
+          
+      - name: Extract Archive
+        run: tar -xvf .venv.tar.gz
           
       - name: Run Application
         run: |
